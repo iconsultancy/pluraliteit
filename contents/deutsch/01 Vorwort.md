@@ -1,5 +1,5 @@
-1 Plural sehen
-„Um eine positive Handlung auszuführen, müssen wir eine positive Vision entwickeln….Gerade in der größten Not gibt es das größte Potenzial, Gutes zu tun, sowohl für sich selbst als auch für andere.“ – Dalai Lama XIV
+# 1 Plural sehen
+> „Um eine positive Handlung auszuführen, müssen wir eine positive Vision entwickeln….Gerade in der größten Not gibt es das größte Potenzial, Gutes zu tun, sowohl für sich selbst als auch für andere.“ – Dalai Lama XIV
 
 
 Mit dem Aufkommen des Internets hat sich die Welt sprunghaft verändert. Ab den 1960er Jahren schuf diese neue Technologie nie dagewesene Möglichkeiten, entfernte Gemeinschaften über Raum und Zeit hinweg miteinander zu verbinden. Unser Wissen überschritt Grenzen und verbreitete sich von einem Moment zum anderen über Sprachen und Kulturen hinweg.
