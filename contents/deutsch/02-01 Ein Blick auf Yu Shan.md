@@ -1,8 +1,7 @@
-# **02-01 Ein Blick auf Yu Shan**
+# **02-01 Ausblick vom Yu Shan**
 
-Wirbelnder Ozean, wunderschöne Inseln;
-
-eine transkulturelle Republik von Bürgern.
+"Wirbelnder Ozean, wunderschöne Inseln; 
+eine transkulturelle Republik von Bürger:innen."
 
 Vom Gipfel des Yushan, des höchsten Gipfels in Ostasien, kann man nicht
 nur die Landschaft Taiwans überblicken, sondern auch erkennen, wie eng
