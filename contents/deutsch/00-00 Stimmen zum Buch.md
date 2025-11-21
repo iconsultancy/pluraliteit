@@ -37,7 +37,7 @@ und Autorin von Our Declaration und Cuz
 >– Joseph Gordon-Levitt, Emmy-prämierter Künstler und Gründer von HITRECORD
 >
 >"Pluralität ist ... ein wahrhaft faszinierender ... potenzieller globaler Beschleuniger ... der Zusammenarbeit mit afrikanischer Perspektive ... ein Muss für afrikanische Vordenker, die sich der Herausforderung stellen, das 21. Jahrhundert zum afrikanischen Jahrhundert zu machen."
->– Oby Ezekwesili, Mitbegründerin von Transparency International, #BringBackOurGirls,  Gründerin von School of Politics, Policy and Governance und #FixPolitics, und nigerianische Spitzenpolitikerin
+>– Oby Ezekwesili, Mitbegründerin von Transparency International, #BringBackOurGirls, Gründerin von School of Politics, Policy and Governance und #FixPolitics, und nigerianische Spitzenpolitikerin
 >
 >"Mit Witz, Gelehrsamkeit und Optimismus argumentieren Audrey Tang und ihre Mitarbeiter:innen, dass wir uns die digitale Technologie zunutze machen können, um dem Autoritarismus entgegenzutreten, und dass wir dies tun können, indem wir uns auf die Grundsätze einer offenen Gesellschaft stützen, anstatt davor zurückzuschrecken."
 >– Anne Applebaum, Gewinnerin des Pulitzer Prize und Autorin von The Twilight of Democracy und Red Famine
@@ -47,14 +47,13 @@ und Autorin von Our Declaration und Cuz
 zum einflussreichsten Informatiker der Welt im Jahr 2016 .
 >
 >"Im Bereich der Finanztechnologie und der digitalen Infrastruktur sind Kenia und andere afrikanische Länder... den veralteten Modellen im globalen Norden voraus. Mit Pluralität können wir dies ... vertiefen ..., um unser Wachstum zu beschleunigen und Teil globaler Modelle für eine integrativere, partizipativere und produktivere Zukunft zu werden."
->- Ory Okolloh-Mwangi, Mitbegründerin von Ushahidi und Partnerin bei Verod-Kepple Africa Ventures
+>– Ory Okolloh-Mwangi, Mitbegründerin von Ushahidi und Partnerin bei Verod-Kepple Africa Ventures
 >  
 >"Digitale Technologien, die eigentlich Freiheit und Demokratie fördern sollten, haben sich in Waffen der Desinformation, des Extremismus und der Überwachung verwandelt. Dieses wunderbare Buch skizziert eine technische und philosophische Strategie, die sich auf praktische Anwendungen in Taiwan stützt, um das alles besser zu machen."
 >– Daron Acemoglu, Nobelpreisträger und Elizabeth und James Killian Professor für Wirtschaftswissenschaften am Massachusetts Institute of Technology, Gewinner der John-Bates-Clark-Medaille und Mitautor von Power and Progress und Why Nations Fail
 >
 >"Wie sähe die Welt aus, wenn unsere liebsten Träume in der Bewegung für soziale Gerechtigkeit...wahr geworden wären? (Sie) bieten radikale und doch pragmatische Lösungen, um ... die Demokratie neu zu erfinden ... (um) wirklich den Menschen zu dienen ... Einige ... wurden ... umgesetzt und dienen als Leuchtfeuer ... für einen echten Wandel."
->– Stav Shaffir, Anführerin der Israeli Social Justice protests, 
-die "Occupy" inspirierten, und jüngstes weibliches Mitglied der Knesset
+>– Stav Shaffir, Anführerin der Israeli Social Justice protests, die "Occupy" inspirierten, und jüngstes weibliches Mitglied der Knesset
 >
 >"Viel zu lange wurden Vielfalt und Technologie von den Kräften der Säkularisierung als Schwerter benutzt. In den geschickten Händen dieser Autoren werden sie auf bemerkenswerte Weise zu einem Schild für die Gläubigen umgeschmiedet."
 >– Rev. Johnnie Moore Jr, Präsident des Congress of Christian Leaders, ehemaliges Mitglied der United States Commission 
@@ -92,11 +91,11 @@ höchste jemals gewählte LGBT-Beamtin im globalen Süden
 >– Alex "Sandy" Pentland, erster akademischer Leiter des MIT Media Lab und Mitbegründer der Computational Social Science und Data Science
 >
 >"(Ein) bemerkenswertes Buch, das zugängliche, tiefgreifende und neuartige Einblicke in die Art und Weise bietet, wie die Technologie unser Leben beeinflusst hat, beeinflusst, beeinflussen wird und beeinflussen sollte. Es stützt sich auf eine Fülle von Belegen, um ein schlagkräftiges Argument für die Förderung der Pluralität zu liefern ... Es enthält wichtige Lektionen für uns alle."
->– Colin Mayer, Peter Moores Professor für Managementstudien an der Oxford Saïd School of Management  und Autor von 
+>– Colin Mayer, Peter Moores Professor für Managementstudien an der Oxford Saïd School of Management und Autor von 
 Prosperity: Better Business Makes the Greater Good
 >
 >"Wenn die Internettechnologie die Fragmentierung beschleunigt hat, sollte es möglich sein, eine angenehme Koexistenz zu erreichen. Plurarität ist voll von Hinweisen für diesen Zweck."
->– Aono Yoshihisa,, Mitbegründer und CEO von Cybozu
+>– Aono Yoshihisa, Mitbegründer und CEO von Cybozu
 >
 >"Pluralität ist ein wichtiges Buch über eine der zentralen Herausforderungen unserer Zeit - den Aufbau von Zusammenarbeit und gemeinsamer Zielsetzung bei aller Vielfalt. Die Autoren gehen diese Herausforderung nicht nur in der Politik an, sondern bieten auch wertvolle Einblicke in Technologie, Wirtschaft und darüber hinaus."
 >– Julius Krein, Gründer und Chefredakteur, American Affairs
@@ -115,7 +114,7 @@ Prosperity: Better Business Makes the Greater Good
 ehemaliger Direktor der der Forschungseinheit für Quantencomputer von Microsoft Station Q
 >
 >"Es ist eine Freude, endlich eine Vision für die Zukunft des menschlichen Fortschritts zu sehen, die so klar in der Vergangenheit begründet ist. Mit der Pluralität haben wir einen Rahmen für den Bau von Motoren, die die in der menschlichen Vielfalt schlummernde Energie für die nächsten hundert Jahre Wirtschaftswachstum nutzbar machen."
->– Oded Galor,, Autor von The Journey of Humanity und Herbert Goldberger Professor für Wirtschaft an der Brown University
+>– Oded Galor, Autor von The Journey of Humanity und Herbert Goldberger Professor für Wirtschaft an der Brown University
 >
 >"Pluralität ist optimistisch und pragmatisch zugleich und bietet einen Fahrplan, um die Demokratie für das Zeitalter der künstlichen Intelligenz neu zu schmieden ... wir müssen uns nicht auf die libertären oder autoritären Visionen beschränken ... ein dritter Weg ... stützt sich auf Offenheit, Pluralität und den menschlichen Geist. Sehr lesenswert!"
 – Mark Surman, Präsident und geschäftsführender Direktor der Mozilla Foundation
@@ -123,6 +122,7 @@ ehemaliger Direktor der der Forschungseinheit für Quantencomputer von Microsoft
 >"Kann der öffentliche Sektor aufkommende Technologien genauso schnell nutzen wie der Rest der Gesellschaft? Audrey Tang hat in der Praxis bewiesen, dass dies möglich ist, und hier zeigt sie Ihnen, wie Sie es auch tun können."
 >– Shlomit Wagman, ehemalige Generaldirektorin der israelischen Behörde für das Verbot von Geldwäsche und Terrorfinanzierung  
 und der Behörde für den Schutz der Privatsphäre
+>
 >"(S)ingularität... weckt die Angst, dass die Technologie den Menschen überholen wird. Dieses bahnbrechende Buch bietet ... eine überzeugende, mutige Alternative. Weyl und Tang zeigen auf, wie Technologie eine pluralistische Welt voranbringen kann, um Beziehungen zu stärken und Menschen über alle Unterschiede hinweg zusammenzubringen."
 >– Mike Kubzansky, CEO des Omidyar Network
 >
