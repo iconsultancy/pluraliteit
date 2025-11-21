@@ -1,16 +1,24 @@
-# **02-01 Ausblick vom Yu Shan**
+# 02-01 Ausblick vom Yu Shan
 
-"Wirbelnder Ozean, wunderschöne Inseln; 
+>"Wirbelnder Ozean, wunderschöne Inseln; 
 eine transkulturelle Republik von Bürger:innen."
 
-Vom Gipfel des Yushan, des höchsten Gipfels in Ostasien, kann man nicht
-nur die Landschaft Taiwans überblicken, sondern auch erkennen, wie eng
-dieser kleine, gebirgige Inselstaat mit der Welt verbunden ist. Am
-Schnittpunkt der eurasischen und der pazifischen tektonischen Platte
-gelegen, haben Taiwans geologische Verwerfungen nicht nur den Yushan in
-die Höhe gehoben, sondern auch eine vielfältige und widerstandsfähige
-Gesellschaft inmitten des Aufeinanderprallens von Kulturen und Werten
-entstehen lassen.
+---
+
+Wenn man auf dem Gipfel des höchsten Berges Ostasiens steht, dem Yushan (Jadeberg), kann man nicht nur auf Taiwan herabblicken, sondern auch spüren, dass dieser kleine, gebirgige Inselstaat ein globaler Knotenpunkt ist. An der Kreuzung der eurasischen und der pazifischen tektonischen Platte, schiebt die geologische Verwerfungslinie Taiwan jährlich nach oben, obwohl sie auch regelmäßig Erdbeben verursacht, vor denen strenge Bauvorschriften die Einwohner:innen schützen. In gleicher Weise hat die Kollision vielfältiger Kulturen, Geschichten und Werten Taiwans eine wohlhabende und innovative Gesellschaft hervorgebracht, die durch die pro-soziale digitale Innovation zugleich vor Polarisierung geschützt wird.
+
+Heute, mit einer Wahlbeteiligung von über 70%, der zweitgrößten religiösen Vielfalt der Welt und 90 % der globalen Produktionskapazität für hochentwickelte Chips, hat Taiwan geografische Beschränkungen überwunden und gezeigt, dass es eine resiliente,  demokratische Gesellschaft ist, die mit Menschen und Unternehmen aus der ganzen Welt zusammenarbeitet.
+
+Taiwans Fähigkeit, während der Covid-Krise eine der weltweit niedrigsten Todesraten ohne jegliche Lockdowns zu erreichen – bei gleichzeitig einer der schnellsten Wirtschaftswachstumsraten der Welt – zeigt die Errungenschaften des pluralen Geistes der Informationsgesellschaft Taiwans. Ob es sich um Masken oder soziale Sicherheitsabstände handelt, dies sind Beispiele dafür, wie Technologie und die Vielfalt der taiwanischen Gesellschaft im Alltag zusammenwirken.
+
+
+
+
+
+
+
+
+
 
 Taiwan hat fortschrittliche Technologie und den pluralistischen Geist
 der digitalen Welt mit der Philosophie der Breitband-Menschenrechte und
