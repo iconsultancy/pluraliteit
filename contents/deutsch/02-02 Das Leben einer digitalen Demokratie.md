@@ -1,17 +1,15 @@
 # Das Leben einer digitalen Demokratie
 
 > Wenn wir "Internet der Dinge" sehen,
->  lasst uns daraus ein **Internet der Lebewesen** machen.
-
-> Wenn wir "virtuelle Realität" sehen,
-
->  lasst uns daraus eine **geteilte Realität** machen. 
+>   lasst uns daraus ein **Internet der Lebewesen** machen.
+>  Wenn wir "virtuelle Realität" sehen,
+>   lasst uns daraus eine **geteilte Realität** machen. 
 > Wenn wir "maschinelles Lernen" sehen, 
->  lasst uns daraus **gemeinschaftliches Lernen** machen. 
+>   lasst uns daraus **gemeinschaftliches Lernen** machen. 
 > Wenn wir "Nutzererfahrung" sehen, 
->  lasst uns es zur **menschlichen Erfahrung** machen. 
+>   lasst uns es zur **menschlichen Erfahrung** machen. 
 > Wenn wir hören "die Singularität ist nah" — 
->  lasst uns daran denken: Die **Pluralität** ist hier.
+>   lasst uns daran denken: Die **Pluralität** ist hier.
 
 — Audrey Tang, Stellenbeschreibung, 2016
 
