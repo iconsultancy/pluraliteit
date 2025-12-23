@@ -24,6 +24,13 @@ Mehr als jede andere Institution symbolisiert [g0v](https://g0v.tw/) (ausgesproc
 
 [^g0vManifesto]: [g0v Manifesto](https://g0v.tw/intl/en/manifesto/en/) defines it as "a non-partisan, not-for-profit, grassroots movement". [MoeDict](https://moedict.tw/), an early g0v project, was led by one of the authors of this book.
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/g0v-venn.png" width="100%" alt="Venn diagram of g0v principles of being open-source, hands-on and public-spirited.  The intersection of the first two is free software, of the second two is social activism and of the first and third is civic media.  g0v lies at the center">
+
+**<figcaption>Abbildung 2-2-A. Prinzipien von g0v in einem Venn-Diagramm dargestellt.  </figcaption>**
+</figure>
+<br></br>
+
 Abbildung 2-2-A. Prinzipien von g0v in einem Venn-Diagramm dargestellt.
 
 g0v baute auf diesem Erfolg auf, um eine lebendige Gemeinschaft von Civic Hackern zu etablieren, die bei regelmäßigen Hackathons, sogenannten "Jothons" (basierend auf einem Mandarin-Wortspiel, das etwa "Join-athon" bedeutet), mit einer Reihe nicht-technischer zivilgesellschaftlicher Gruppen interagiert. Obwohl Hackathons weltweit stattfinden, unterscheidet sich g0v in mehreren Punkten: Die Teilnehmer:innen sind sehr vielfältig – meist nicht-technische Personen mit nahezu ausgeglichenem Geschlechterverhältnis –, der Fokus liegt auf gesellschaftlichen statt kommerziellen Zielen, und es gibt eine enge Zusammenarbeit mit verschiedenen Bürgerorganisationen. Diese Merkmale werden vielleicht am besten durch den Slogan "Frag nicht, warum niemand das macht. Du bist der ‚niemand'!" zusammengefasst, was dazu geführt hat, dass die Gruppe als "Niemand-Bewegung" bezeichnet wird. Sie spiegeln sich auch in einem Venn-Diagramm wider, das häufig zur Erklärung der Absichten der Bewegungen verwendet wird und in Abbildung A dargestellt wird. Wie wir unten feststellen werden, sind die meisten der Initiativen, die wir hier vorstellen, aus g0v und eng verwandten Projekten hervorgegangen.
