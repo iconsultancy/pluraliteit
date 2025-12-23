@@ -1,7 +1,6 @@
 # Das Leben einer digitalen Demokratie
 
 > Wenn wir "Internet der Dinge" sehen,
-
 >  lasst uns daraus ein **Internet der Lebewesen** machen.
 
 > Wenn wir "virtuelle Realität" sehen,
