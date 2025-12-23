@@ -1,9 +1,10 @@
 # Das Leben einer digitalen Demokratie
 
 > Wenn wir "Internet der Dinge" sehen, 
->  lasst uns daraus ein **Internet der Lebewesen** machen. 
+>  lasst uns daraus ein **Internet der Lebewesen** machen.
+
 > Wenn wir "virtuelle Realität" sehen, 
->  lasst uns daraus eine geteilte Realität machen. 
+>  lasst uns daraus eine **geteilte Realität** machen. 
 > Wenn wir "maschinelles Lernen" sehen, 
 >  lasst uns daraus gemeinschaftliches Lernen machen. 
 > Wenn wir "Nutzererfahrung" sehen, 
