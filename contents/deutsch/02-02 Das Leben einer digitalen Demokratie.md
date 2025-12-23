@@ -1,15 +1,16 @@
-2-2 Das Leben einer digitalen Demokratie
+# Das Leben einer digitalen Demokratie
 
-Wenn wir "Internet der Dinge" sehen, 
-lasst uns daraus ein Internet der Lebewesen machen. 
-Wenn wir "virtuelle Realität" sehen, 
-lasst uns daraus eine geteilte Realität machen. 
-Wenn wir "maschinelles Lernen" sehen, 
-lasst uns daraus gemeinschaftliches Lernen machen. 
-Wenn wir "Nutzererfahrung" sehen, 
-lasst uns es zur menschlichen Erfahrung machen. 
-Wenn wir hören "die Singularität ist nah" — 
-lasst uns daran denken: Die Pluralität ist hier.
+> Wenn wir "Internet der Dinge" sehen, 
+> lasst uns daraus ein Internet der Lebewesen machen. 
+> Wenn wir "virtuelle Realität" sehen, 
+> lasst uns daraus eine geteilte Realität machen. 
+> Wenn wir "maschinelles Lernen" sehen, 
+> lasst uns daraus gemeinschaftliches Lernen machen. 
+> Wenn wir "Nutzererfahrung" sehen, 
+> lasst uns es zur menschlichen Erfahrung machen. 
+> Wenn wir hören "die Singularität ist nah" — 
+> lasst uns daran denken: Die Pluralität ist hier.
+
 — Audrey Tang, Stellenbeschreibung, 2016
 
 Ohne in Taiwan zu leben und es regelmäßig zu erleben, ist es schwer zu erfassen, was eine solche Errungenschaft bedeutet. Und für diejenigen, die dort seit langem leben, werden viele dieser Eigenschaften als selbstverständlich angesehen. Deshalb zeigen wir hier mit konkreten Beispielen und quantitativen Analysen auf, wodurch sich Taiwans digitale Bürgerbeteiligungsinfrastruktur von der in den meisten anderen Ländern der Welt unterscheidet. Die Beispiele sind zahlreich. Wir konzentrieren uns auf sechs Hauptprojekte zwischen 2012 und heute und listen weitere Programme am Ende kurz auf.
