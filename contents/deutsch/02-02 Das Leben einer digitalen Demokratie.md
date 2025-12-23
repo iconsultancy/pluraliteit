@@ -13,10 +13,16 @@
 
 — Audrey Tang, Stellenbeschreibung, 2016
 
+---
+
 Ohne in Taiwan zu leben und es regelmäßig zu erleben, ist es schwer zu erfassen, was eine solche Errungenschaft bedeutet. Und für diejenigen, die dort seit langem leben, werden viele dieser Eigenschaften als selbstverständlich angesehen. Deshalb zeigen wir hier mit konkreten Beispielen und quantitativen Analysen auf, wodurch sich Taiwans digitale Bürgerbeteiligungsinfrastruktur von der in den meisten anderen Ländern der Welt unterscheidet. Die Beispiele sind zahlreich. Wir konzentrieren uns auf sechs Hauptprojekte zwischen 2012 und heute und listen weitere Programme am Ende kurz auf.
-Illustrative Beispiele
-g0v
-Mehr als jede andere Institution symbolisiert g0v (ausgesprochen "gov-zero") das zivilgesellschaftliche Fundament der digitalen Demokratie in Taiwan. 2012 von Civic Hackern wie Kao Chia-liang gegründet, entstand g0v aus der Unzufriedenheit mit der Qualität staatlich, digitaler Angebote und der Datentransparenz. Civic Hacker begannen, Internetseiten der Regierung (normalerweise mit der Endung gov.tw) zu durchsuchen und alternative Formate für Datendarstellung und Interaktion für dieselbe Website zu entwickeln, die sie dann unter g0v.tw hosteten. Diese "geforkten" Versionen von Internetseiten der Regierung  erwiesen sich oft als populärer, was dazu führte, dass einige Regierungsminister wie Simon Chang begannen, diese Designs in staatliche Angebote zu übernehmen.
+
+### Illustrative Beispiele
+
+### g0v
+Mehr als jede andere Institution symbolisiert [g0v](https://g0v.tw/) (ausgesprochen "gov-zero") das zivilgesellschaftliche Fundament der digitalen Demokratie in Taiwan. 2012 von Civic Hackern wie Kao Chia-liang gegründet, entstand g0v aus der Unzufriedenheit mit der Qualität staatlich, digitaler Angebote und der Datentransparenz.[^g0vManifesto] Civic Hacker begannen, Internetseiten der Regierung (normalerweise mit der Endung gov.tw) zu durchsuchen und alternative Formate für Datendarstellung und Interaktion für dieselbe Website zu entwickeln, die sie dann unter g0v.tw hosteten. Diese "geforkten" Versionen von Internetseiten der Regierung  erwiesen sich oft als populärer, was dazu führte, dass einige Regierungsminister wie Simon Chang begannen, diese Designs in staatliche Angebote zu übernehmen.
+
+[^g0vManifesto]: [g0v Manifesto](https://g0v.tw/intl/en/manifesto/en/) defines it as "a non-partisan, not-for-profit, grassroots movement". [MoeDict](https://moedict.tw/), an early g0v project, was led by one of the authors of this book.
 
 Abbildung 2-2-A. Prinzipien von g0v in einem Venn-Diagramm dargestellt.
 
