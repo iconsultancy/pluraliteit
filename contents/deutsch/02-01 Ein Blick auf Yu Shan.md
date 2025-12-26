@@ -1,4 +1,4 @@
-# 02-01 Ausblick vom Yu Shan
+# Ausblick vom Yu Shan
 
 >"Wirbelnder Ozean, wunderschöne Inseln; 
 eine transkulturelle Republik von Bürger:innen.[^TROC]"
