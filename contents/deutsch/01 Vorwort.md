@@ -8,7 +8,9 @@ Gleichzeitig läutete die Globalisierung eine Ära ein, die durch zunehmende Ung
 
 Das Internet ist eine mächtige Technologie, die Menschen über große Unterschiede hinweg zu neuen Kooperationen zusammenführt. Leider hat es sich in letzter Zeit auch als mächtiges Instrument erwiesen, um diese Zusammenarbeit zu vereiteln und neue Formen der Spaltung zu säen.
 
-Es ist kein Zufall, dass die Demokratie heute auf einem Tiefpunkt angelangt ist. Autoritäre Regime beherrschen inzwischen fast die Hälfte des weltweiten BIPs. Nur eine bescheidene Milliarde Menschen genießt die Vorzüge unter dem Dach demokratischer Systeme, während über zwei Milliarden Menschen unter autoritärer Herrschaft leben.
+Es ist kein Zufall, dass die Demokratie heute auf einem Tiefpunkt angelangt ist. Autoritäre Regime beherrschen inzwischen [fast die Hälfte](https://www.v-dem.net/documents/29/V-dem_democracyreport2023_lowres.pdf) des weltweiten BIPs. Nur eine bescheidene Milliarde Menschen genießt die Vorzüge unter dem Dach demokratischer Systeme, während über zwei Milliarden Menschen unter autoritärer Herrschaft leben.[^VDem] 
+
+[^VDem]: V-Dem Institute, *Democracy Report 2023* (Gothenburg, Sweden: V-Dem Institute, 2023): 7.
 
 Jede Kultur erzählt, ähnlich wie ein Fluss, ihre eigene Geschichte. Wir sehen den Fluss der Demokratie als einen Strom der Hoffnung. Wenn das Wasser versiegt, müssen wir es wieder nachfüllen.
 
