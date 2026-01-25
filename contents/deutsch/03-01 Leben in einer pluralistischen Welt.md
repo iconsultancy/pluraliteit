@@ -26,7 +26,7 @@ Im Wesentlichen kann jedes komplexe System – von Fluidströmungen über die En
 
 Entsprechend kann ⿻ auf Prozesse der Wissenschaft zurückgreifen, wie man diesen engen Korridor gezielt ansteuert und erweitert – was Komplexitätswissenschaftler:innen "[selbstorganisierte Kritikalität](https://en.wikipedia.org/wiki/Self-organized_criticality)" nennen. Dabei können wir auf die Weisheit vieler Wissenschaften zurückgreifen und sicherstellen, dass wir nicht übermäßig von einem einzigen Satz von Analogien vereinnahmt werden.
 
-###Mathematik
+### Mathematik
 
 Das 19. Jahrhundert war geprägt vom Aufstieg des Formalismus: Es ging darum, mathematische Strukturen, die wir verwenden, präzise und rigoros sowohl zu definieren, als auch ihre Eigenschaften zu bestimmen, um Inkonsistenzen und Fehler zu vermeiden. Zu Beginn des 20. Jahrhunderts hofften Mathematiker, die Mathematik gleichsam “[lösen](https://en.wikipedia.org/wiki/Principia_Mathematica)" zu können – möglicherweise sogar mit einem präzisen Algorithmus, der die Wahrheit oder Falschheit welcher mathematischen Behauptungen auch immer feststellen könnte[^20th]. Auf der anderen Seite war die Mathematik des 20. Jahrhunderts von einer Explosion an Komplexität und Ungewissheit gekennzeichnet.
 
@@ -54,7 +54,7 @@ Das 19. Jahrhundert war geprägt vom Aufstieg des Formalismus: Es ging darum, ma
 
 - **Relationalität in der Mathematik**: In der Mathematik sind verschiedene Zweige oft miteinander verbunden, und Erkenntnisse aus einem Bereich lassen sich auf andere übertragen. Algebraische Strukturen sind in vielen mathematischen Bereichen allgegenwärtig und bieten eine Sprache, um Beziehungen zwischen mathematischen Objekten auszudrücken und zu erforschen. Die algebraische Geometrie verbindet diese Strukturen mit der Geometrie. Darüber hinaus basiert die Topologie auf dem Verständnis der Beziehungen zwischen Formen und ihren Eigenschaften. Die Mischung aus Vielfalt und Vernetzung ist vielleicht das charakteristischste Merkmal der modernen Mathematik.
 
-###Physik
+### Physik
 
 Im Jahr 1897 verkündete Lord Kelvin berühmt-berüchtigt: "Es gibt in der Physik nichts Neues mehr zu entdecken." Im Gegensatz dazu stellte sich das folgende Jahrhundert als das fruchtbarste und revolutionärste in der Geschichte dieses Zweigs der Wissenschaften heraus.
 
@@ -72,7 +72,7 @@ Vielleicht war das auffälligste und am meisten konsistente Merkmal der Revoluti
 
 Die Anwendungen dieses vielfältigen Reichtums und des ⿻-Verständnisses physischer Realität prägte und zeigte sich in den größten Errungenschaften und tiefsten Katastrophen des 20. Jahrhunderts. Große Mächte nutzten die Kraft des Atoms, um die Weltpolitik zu gestalten. Globale Unternehmen ermöglichten eine beispiellose Kommunikation und Informationsgewinnung, indem sie ihr Verständnis der Quantenphysik nutzten, um immer kleinere Elektronik in die Hände ihrer Kund:innen zu packen. Das Verbrennen von Holz und Kohle durch Millionen von Familien ist zur Ursache ökologischer Verwüstung, politischer Konflikte und weltumspannender sozialer Bewegungen geworden – gestützt auf Informationen, die von winzigen Sensoren gesammelt wurden, die auf der ganzen Welt verteilt sind.
 
-###Biologie
+### Biologie
 
 War die definierende Idee der Makrobiologie des 19. Jahrhunderts (bezogen auf fortgeschrittene Organismen und ihre Interaktionen) die "natürliche Selektion", so war das Pendant des 20. Jahrhunderts das Konzept der "Ökosysteme". Während die natürliche Selektion den "darwinistischen" Wettbewerb ums Überleben angesichts knapper Ressourcen betonte, rückt die Ökosystem-Perspektive – eng verbunden mit der Idee der "erweiterten Evolutionssynthese" – folgende Aspekte in den Mittelpunkt:
 
@@ -90,7 +90,7 @@ War die definierende Idee der Makrobiologie des 19. Jahrhunderts (bezogen auf fo
 
 Diese Verschiebung passierte nicht alleine in der rein wissenschaftlichen Theorie. Sie führte zu einigen der bedeutendsten Veränderungen im menschlichen Verhalten und in der Interaktion mit der Natur im 20. Jahrhundert. Insbesondere die Umweltbewegung und ihre Bemühungen zum Schutz von Ökosystemen, der Biodiversität, der Ozonschicht und des Klimas entstanden aus dieser Wissenschaft der "Ökologie" und stützen sich stark auf sie – so sehr, dass diese Bewegung oft mit diesem Begriff bezeichnet wird.
 
-###Neurowissenschaften
+### Neurowissenschaften
 
 Die modernen Neurowissenschaften begannen Ende des 19. Jahrhunderts, als Camillo Golgi, Santiago Ramón y Cajal und ihre Mitarbeitenden Neuronen und deren elektrische Aktivierungen als fundamentale funktionale Einheit des Gehirns isolierten. Diese Analyse wurde durch die Arbeit von Alan Hodgkin und Andrew Huxley zu konkreten physiologischen Modellen verfeinert, die damit elektrische Theorien der neuronalen Kommunikation entwickelten und an Tieren ausprobierten. In jüngerer Zeit jedoch haben wir eine Reihe von Entdeckungen gesehen, die Chaos- und Komplexitätstheorie in den Mittelpunkt der Gehirnfunktion rücken:
 Verteilung von Gehirnfunktionen: Mathematische Modellierung, bildgebende Verfahren der Hirnforschung und Experimente zur Aktivierung einzelner Neuronen legen nahe, dass viele, wenn nicht die meisten Gehirnfunktionen über verschiedene Hirnregionen verteilt sind und aus Interaktionsmustern entstehen, anstatt primär durch physische Lokalisation bestimmt zu werden.
@@ -110,7 +110,7 @@ Wissenschaftspolitische Forschung, die ⿻ in der Wissenschaft direkt berücksic
 
 Selbst im Verständnis der wissenschaftlichen Praxis ist daher eine ⿻-Perspektive, die in vielen sich überschneidenden Ebenen sozialer Organisation verankert ist, entscheidend. Wissenschaftliche Erkenntnisse über die treibenden Kräfte hinter der Entstehung disruptiver, innovativer Kenntnisse wurden in anderen Gemeinschaften kreativer Zusammenarbeit – wie bei Patenten und Software-Projekten auf GitHub – repliziert. Dies zeigt, dass ein ⿻-Blickwinkel die Entwicklung von Wissenschaft und Technologie jeglicher Prägung unterstützen kann.
 
-###Eine zukünftige ⿻?
+### Eine zukünftige ⿻?
 
 Die Annahmen der technokratischen und libertären Zukunftsvisionen weichen von diesen ⿻-Grundlagen stark ab.
 In der technokratischen Vision, die wir im vorherigen Kapitel diskutiert haben, soll die "Schmudeligkeit" bestehender Verwaltungssysteme durch ein groß angelegtes, einheitliches, rationales, wissenschaftliches, künstlich intelligentes Planungssystem ersetzt werden. Jenseits lokaler Kontexte und sozialer Vielfalt wird dieser monopolistische Akteur als Instanz vorgestellt, die "unvoreingenommene" Antworten auf wirtschaftliche und soziale Probleme gibt – und dabei soziale Brüche und Unterschiede überwindet. Tatsächlich versucht diese Akteur aber bestenfalls, die soziale Vielfalt und Heterogenität zu übertünchen oder schlimmstenfalls auszulöschen – jene Diversität also, die die ⿻-Sozialwissenschaft gerade als definierend für ihre Untersuchungsgegenstände, Beschäftigungsfelder und Werte betrachtet.
