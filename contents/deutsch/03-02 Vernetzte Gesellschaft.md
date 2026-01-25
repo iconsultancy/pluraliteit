@@ -26,6 +26,7 @@ Wirtschaftssystemen (Frankfurt a. M.: Suhrkamp, 1978 [engl. Orig. 1944]).
 
 Vor der Moderne wurden Individuen in Familien hineingeboren, die in verwandtschaftsbasierten Institutionen verwurzelt waren und nahezu alles bereitstellten: Lebensunterhalt, Nahrung und Sinn – und denen man sich größtenteils nicht entziehen konnte. Keine "offiziellen Dokumente" waren nötig oder nützlich, da Menschen selten über die Grenzen ihrer unmittelbaren Gemeinschaft hinaus reisten. Solche Institutionen wurden durch das Römische Reich und die Ausbreitung des Christentums in seinem Gefolge erodiert. Als europäische Städte in den ersten Jahrhunderten des zweiten Jahrtausends wuchsen, begann sich unpersönliches prosoziales Verhalten der Bürger:innen durch die Entstehung einer Vielfalt außerverwandtschaftlicher sozialer Institutionen wie Klöster, Universitäten und Zünfte zu entwickeln. Papierbasierte Ausweise der Zugehörigkeit zu solchen Institutionen begannen, das informelle Verwandtschaftswissen zu ersetzen. Insbesondere Kirchenaufzeichnungen über Taufen halfen dabei, das Fundament für das zu legen, was zur weit verbreiteten Praxis der Ausstellung von Geburtsurkunden wurde. Diese wiederum entwickelte sich zum grundlegenden Dokument, auf dem im Wesentlichen alle anderen Identifikationspraktiken in modernen Staaten basieren.[^universalreg]
 
+
 [^universalreg]: Es ist jedoch zu beachten, dass eine universelle Geburtenregistrierung ein sehr junges Phänomen ist, das in
 den USA erst 1940 erreicht wurde. Eine allgemeine Registrierung für Sozialversicherungsnummern begann sogar erst 1987, als das Programm „Enumeration at Birth“ (Geburtenzählung) auf Bundesebene in Zusammenarbeit mit den Bezirksbehörden eingeführt wurde.
 
@@ -162,4 +163,13 @@ Wieners Forschung galt fast ausschließlich physischen, biologischen und technis
 Zwar sah er ein solches Programm als "notwendig", hielt es aber nicht für "möglich". Mit Verweis auf die Quantenphysik argumentierte er, dass präzises Wissen auf Teilchenebene unmöglich sei. Naturwissenschaftlicher Fortschritt sei nur möglich, weil wir oberhalb dieser Ebene leben. In Gesellschaften aber gelte das Prinzip der Unschärfe ebenfalls, weshalb echte "Sozialwissenschaft" nach Wiener kaum machbar sei. So sehr er also den Arbeiten von George, Simmel und Dewey eine naturwissenschaftliche Grundlage geben wollte, so skeptisch blieb er gegenüber überhöhten Erwartungen.
 
 Gemeinsam ist all diesen Denkern die Einsicht in die vielschichtige und verflochtene Struktur der Gesellschaft, oft noch komplexer als in den Naturwissenschaften. Während ein Elektron nur ein Atom umkreist, eine Zelle zu einem Organismus gehört oder ein Planet einen Stern umkreist, sind Menschen und Organisationen stets Teil mehrerer, sich überschneidender größerer Einheiten, ohne dass eine klar in die andere eingebettet wäre. Doch wie lassen sich diese Fortschritte im Verstehen von Gesellschaft in ebenso fortschrittliche soziale Technologien übersetzen? Diese Frage wird im nächsten Kapitel behandelt.
+
+[^Soziologie]: Georg Simmel, _Soziologie: Untersuchungen Über Die Formen Der Vergesellschaftung_, Prague: e-artnow, 2017.
+[^InfluenceOfSimmel]: Miloš Broćić, and Daniel Silver, “The Influence of Simmel on American Sociology since 1975,” _Annual Review of Sociology_ 47, no. 1 (July 31, 2021): 87–108, https://doi.org/10.1146/annurev-soc-090320-033647.
+[^SecretSocieties]: Georg Simmel, “The Sociology of Secrecy and of Secret Societies,” _American Journal of Sociology_ 11, no. 4 (January 1906): 441–98, https://doi.org/10.1086/211418.
+[^PublicProblems]: John Dewey, op. cit.
+[^WEIRDest]: Joseph Henrich, _The WEIRDest People in the World How the West Became Psychologically Peculiar and Particularly Prosperous_, (New York Macmillan, 2010).
+[^TheModernState]: Andreas Anter, _Max Weber's Theory of the Modern State_, (Palgrave Macmillan, 2014).
+[^Cybernetics]: Norbert Wiener, *Cybernetics, Or Control and Communication in the Animal and the Machine* (Paris: Hermann & Cie, 1948).
+[^HumanUse]: Norbert Wiener, *Human Use of Human Beings* (Boston: Houghton Mifflin, 1950). 
 
