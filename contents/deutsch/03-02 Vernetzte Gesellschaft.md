@@ -67,7 +67,7 @@ Vor allem Karl Marx und Adam Smith sind in unserer Erinnerung sehr präsent, abe
 * den Tridemismus, der, wie wir oben in unserem Kapitel "Ein Blick vom Yushan" sahen, sein wirtschaftliches Bein fest im Georgismus gegründet hatte;
 * das "Landlord's Game" als Vorgänger zu Monopoly, das als pädagogisches Instrument entstand, um zu veranschaulichen, wie ein alternatives Regelwerk Monopole vermeiden und gemeinsamen Wohlstand ermöglichen könnte.[^Monopoly]
 
-[^PP]: Henry George, *Progress and Poverty: An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy* (New York: D. Appleton and Company, 1879)
+[^PP]: Henry George, Fortschritt und Armut. Eine Untersuchung der Ursache von Wirtschaftskrisen und Arbeitslosigkeit (Frankfurt a. M.: Campus, 1986 [engl. Orig. 1879]).
 [^Englandbio]: Christopher William England, *Land and Liberty: Henry George and the Crafting of Modern Liberalism* (Baltimore, MD: Johns Hopkins University Press, 2023).
 [^Monopoly]: Mary Pilon, *The Monopolists: Obsession, Fury and the Scandal Behind the World's Favorite Board Game* (New York: Bloomsbury, 2015).
 
