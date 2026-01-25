@@ -45,8 +45,17 @@ Das 19. Jahrhundert war geprägt vom Aufstieg des Formalismus: Es ging darum, ma
 [^chaos]: James Gleick, *Chaos: Making a New Science* (New York: Penguin, 2018).
 
 
-Abbildung 3-1-A: Die Mandelbrot-Menge (zur Charakterisierung des chaotischen Verhaltens einfacher quadratischer Funktionen in Abhängigkeit von Parameterwerten) in zwei Maßstäben. Quelle: Wikipedia CC 3.0 BY-SA.
-Relationalität in der Mathematik: In der Mathematik sind verschiedene Zweige oft miteinander verbunden, und Erkenntnisse aus einem Bereich lassen sich auf andere übertragen. Algebraische Strukturen sind in vielen mathematischen Bereichen allgegenwärtig und bieten eine Sprache, um Beziehungen zwischen mathematischen Objekten auszudrücken und zu erforschen. Die algebraische Geometrie verbindet diese Strukturen mit der Geometrie. Darüber hinaus basiert die Topologie auf dem Verständnis der Beziehungen zwischen Formen und ihren Eigenschaften. Die Mischung aus Vielfalt und Vernetzung ist vielleicht das charakteristischste Merkmal der modernen Mathematik.
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Pictures the Mandelbrot set, a canoncical circular snowflake shaped fractal, at two scales.">
+
+**<figcaption>Abbildung 3-1-A: Die Mandelbrot-Menge (zur Charakterisierung des chaotischen Verhaltens einfacher quadratischer Funktionen in Abhängigkeit von Parameterwerten) in zwei Maßstäben. Quelle: Wikipedia CC 3.0 BY-SA.</figcaption>**
+</figure>
+<br></br>
+
+
+
+
+- **Relationalität in der Mathematik**: In der Mathematik sind verschiedene Zweige oft miteinander verbunden, und Erkenntnisse aus einem Bereich lassen sich auf andere übertragen. Algebraische Strukturen sind in vielen mathematischen Bereichen allgegenwärtig und bieten eine Sprache, um Beziehungen zwischen mathematischen Objekten auszudrücken und zu erforschen. Die algebraische Geometrie verbindet diese Strukturen mit der Geometrie. Darüber hinaus basiert die Topologie auf dem Verständnis der Beziehungen zwischen Formen und ihren Eigenschaften. Die Mischung aus Vielfalt und Vernetzung ist vielleicht das charakteristischste Merkmal der modernen Mathematik.
 
 Physik
 Im Jahr 1897 verkündete Lord Kelvin berühmt-berüchtigt: "Es gibt in der Physik nichts Neues mehr zu entdecken." Im Gegensatz dazu stellte sich das folgende Jahrhundert als das fruchtbarste und revolutionärste in der Geschichte dieses Zweigs der Wissenschaften heraus.
