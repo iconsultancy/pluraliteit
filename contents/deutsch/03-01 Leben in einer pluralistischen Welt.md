@@ -31,7 +31,7 @@ Entsprechend kann ⿻ auf Prozesse der Wissenschaft zurückgreifen, wie man dies
 Das 19. Jahrhundert war geprägt vom Aufstieg des Formalismus: Es ging darum, mathematische Strukturen, die wir verwenden, präzise und rigoros sowohl zu definieren, als auch ihre Eigenschaften zu bestimmen, um Inkonsistenzen und Fehler zu vermeiden. Zu Beginn des 20. Jahrhunderts hofften Mathematiker, die Mathematik gleichsam “[lösen](https://en.wikipedia.org/wiki/Principia_Mathematica)" zu können – möglicherweise sogar mit einem präzisen Algorithmus, der die Wahrheit oder Falschheit welcher mathematischen Behauptungen auch immer feststellen könnte[^20th]. Auf der anderen Seite war die Mathematik des 20. Jahrhunderts von einer Explosion an Komplexität und Ungewissheit gekennzeichnet.
 
 
-[^20th]: Alfred North Whitehead and Bertrand Russell, *Principia Mathematica* (Cambridge, UK: Cambridge University Press, 1910).  
+[^20th]: Alfred North Whitehead und Bertrand Russell, Principia Mathematica (Cambridge, UK: Cambridge University Press, 1910). Deutsche Ausgabe: Principia Mathematica. Vorwort und Einleitungen (Frankfurt am Main: Suhrkamp, 2008). 
 
 - **Gödels Theorem**: Eine Reihe mathematischer Erkenntnisse aus dem frühen 20. Jahrhundert, allen voran Gödels Theorem, zeigte, dass es grundlegende und nicht weiter reduzierbare Aspekte in Kernbereichen der Mathematik gibt, die nicht vollständig gelöst werden können. Ebenso bewies Alonzo Church, dass bestimmte mathematische Probleme durch Rechenverfahren "unentscheidbar" sind[^Church]. Dies zerstörte den Traum, die gesamte Mathematik auf Berechnungen grundlegender Axiome zu reduzieren.
 
