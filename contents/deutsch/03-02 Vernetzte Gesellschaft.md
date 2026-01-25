@@ -49,7 +49,10 @@ umstritten und regelmäßig dem politischen Druck zur „Reform“ in Richtung d
 Cotta, 2022 [engl. Orig. 2021]).
 
 Dieses Regime begann sich während der Renaissance und Aufklärung zu entwickeln, indem traditionelle, gemeinschaftsbasierte Eigentums- und Identitätssysteme sowie multisektorale Repräsentationsformen im Namen von "Rationalität" und "Modernität" verdrängt wurden, die den Weg zum modernen Staat ebneten[^TheModernState]. Dieses System festigte sich und eroberte buchstäblich die Welt während des industriellen und kolonialen neunzehnten Jahrhunderts und wurde im Werk Max Webers kanonisiert. Es erreichte seinen ultimativen Ausdruck in der "hohen Moderne" der Mitte des zwanzigsten Jahrhunderts, als:
-Eigenschaften weiter in standardisierte, messbare und vergleichbare Kategorien gepresst wurden – ein Prozess der Vereinheitlichung, welcher die Vielfalt auf handhabbare Normgrößen reduzierte (etwa durch einheitliche Kleidungsgrößen oder standardisierte Bildungsabschlüsse); Identitätsdokumente mit biometrischen Daten verstärkt wurden; Eine-Person-Eine-Stimme-Systeme auf eine breite Palette von Organisationen ausgedehnt wurden.
+
+- Eigenschaften weiter in standardisierte, messbare und vergleichbare Kategorien gepresst wurden – ein Prozess der Vereinheitlichung, welcher die Vielfalt auf handhabbare Normgrößen reduzierte (etwa durch einheitliche Kleidungsgrößen oder standardisierte Bildungsabschlüsse);
+- Identitätsdokumente mit biometrischen Daten verstärkt wurden;
+- Eine-Person-Eine-Stimme-Systeme auf eine breite Palette von Organisationen ausgedehnt wurden.
 
 Regierungen und Organisationen auf der ganzen Welt übernahmen diese Systeme aus guten Gründen. Sie waren einfach und somit skalierbar; sie erlaubten es Menschen aus sehr unterschiedlichen Hintergründen, einander schnell zu verstehen und damit produktiv zu interagieren. Früher bremsten gemeinschaftliche Eigentumssysteme die Innovation, weil Außenstehende und Unternehmer kaum durch die vielen lokalen Regeln durchblicken konnten. Das Privateigentum hingegen erleichterte Entwicklung und Handel, weil weniger Menschen Veränderungen blockieren konnten. Auch die staatlichen Sozialprogramme des 20. Jahrhunderts hätten ohne eine klare und einheitliche Datenbank für Ansprüche kaum Renten und Arbeitslosenhilfe breit zugänglich machen können.
 
