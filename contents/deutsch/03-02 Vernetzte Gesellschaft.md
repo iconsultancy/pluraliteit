@@ -60,8 +60,9 @@ Tatsächlich waren diese Institutionen zentral für den Aufstieg liberaler Demok
 
 ### Henry George und der vernetzte Wert
 
-Vor allem Karl Marx und Adam Smith sind in unserer Erinnerung sehr präsent, aber der soziale Denker, der möglicherweise den größten Einfluss während und unmittelbar nach seiner Lebenszeit hatte, war Henry George. Als Autor des jahrelang meistverkauften Buchs in englischer Sprache nach der Bibel, "Fortschritt und Armut", inspirierte George oder begründete wohl viele der erfolgreichsten politischen Bewegungen und sogar kulturellen Artefakte in den USA des frühen zwanzigsten Jahrhunderts, darunter:
-die amerikanische Mitte-Links, mit einem beinahe erfolgreichen United Labor-Kandidat für das Bürgermeisteramt von New York City;
+Vor allem Karl Marx und Adam Smith sind in unserer Erinnerung sehr präsent, aber der soziale Denker, der möglicherweise den größten Einfluss während und unmittelbar nach seiner Lebenszeit hatte, war Henry George.[^Englandbio]. Als Autor des jahrelang meistverkauften Buchs in englischer Sprache nach der Bibel, "[Fortschritt und Armut](https://oll.libertyfund.org/titles/george-progress-and-poverty)", inspirierte George oder begründete wohl viele der erfolgreichsten politischen Bewegungen und sogar kulturellen Artefakte in den USA des frühen zwanzigsten Jahrhunderts, darunter[^PP]:
+
+- die amerikanische Mitte-Links, mit einem beinahe erfolgreichen United Labor-Kandidat für das Bürgermeisteramt von New York City;
 die Progressive und Social-Gospel-Bewegungen, die beide ihre Namen auf sein Werk zurückführten;
 den Tridemismus, der, wie wir oben in unserem Kapitel "Ein Blick vom Yushan" sahen, sein wirtschaftliches Bein fest im Georgismus gegründet hatte;
 das "Landlord's Game" als Vorgänger zu Monopoly, das als pädagogisches Instrument entstand, um zu veranschaulichen, wie ein alternatives Regelwerk Monopole vermeiden und gemeinsamen Wohlstand ermöglichen könnte.
