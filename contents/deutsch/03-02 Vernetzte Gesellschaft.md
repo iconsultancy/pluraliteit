@@ -93,9 +93,11 @@ Da dies ein Buch über Technologie ist, bietet die San Francisco Bay Area eine b
 [^Sax]: AnnaLee Saxenian, *The New Argonauts: Regional Advantage in a Global Economy* (Cambridge, MA: Harvard University Press, 2007).
 
 Um die Sache noch komplexer zu machen, ist das Einkommen aus Eigentum nur ein Stück dessen, was es bedeutet "zu besitzen". Rechtsgelehrte beschreiben Eigentum typischerweise als ein Bündel von Rechten:
-"usus" (Zugang zum Land);
-"abusus" (darauf zu bauen oder es zu veräußern);
-"fructus" (davon zu profitieren).
+
+- "usus" (Zugang zum Land);
+- "abusus" (darauf zu bauen oder es zu veräußern);
+- "fructus" (davon zu profitieren).
+  
 Wer sollte unter welchen Umständen Zugang zum Land der Bay Area haben können? Wem sollte es erlaubt sein, etwas darauf zu bauen oder exklusive Rechte dazu an andere zu verkaufen? Die meisten dieser Fragen wurden in Georges Schriften kaum erwähnt, geschweige denn geklärt. In diesem Sinne fordert sein Werk, über die einfachen Antworten hinauszugehen, die Privateigentum bietet. Das mag erklären, warum seine enorm einflussreichen Ideen nur teilweise in einer kleinen Anzahl von (zugegebenermaßen höchst erfolgreichen) Orten wie Estland und Taiwan umgesetzt wurden.
 
 George lädt uns ein, eine ⿻-Welt zu denken, in der Wert nicht isoliert, sondern dynamisch und vernetzt entsteht. Eine Welt, in der verschiedene Entitäten auf unterschiedlichen Ebenen – Universitäten, Gemeinden, Nationalstaaten und mehr – alle in verschiedenen Graden zum Wertschöpfungsprozess beitragen. Dies ist vergleichbar mit Netzwerken von Wellen und Neuronen, die unterschiedlich zur Wahrscheinlichkeit beitragen, Teilchen an bestimmten Positionen zu finden oder Gedanken in einem Geist entstehen zu lassen. Sowohl für Gerechtigkeit als auch Produktivität sollten Eigentum und Wert in unterschiedlichen Graden zu diesen sich überschneidenden sozialen Kreisen gehören. In diesem Sinne war George ein Begründer der ⿻-Sozialwissenschaft.
