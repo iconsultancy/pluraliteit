@@ -104,7 +104,12 @@ George lädt uns ein, eine ⿻-Welt zu denken, in der Wert nicht isoliert, sonde
 
 ### Georg Simmel und das intersektionale (In)dividuum
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
 
+<figcaption>Abbildung 3-2-B. Georg Simmel. Quelle: Wikipedia, gemeinfrei(https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG)<figcaption>
+</figure>
+<br></br>
 Abbildung 3-2-B. Georg Simmel. Quelle: Wikipedia, gemeinfrei.
 
 Aber wenn Netzwerkdenken in Georges Werk implizit war, brauchte es einen anderen Denker, jenseits des Atlantiks, um es explizit zu machen und dabei versehentlich diesem Denken einen Namen zu geben. Georg Simmel, in Abbildung B abgebildet, war ein deutscher Philosoph und Soziologe der Jahrhundertwende zum zwanzigsten Jahrhundert, der die Idee sozialer Netzwerke mitbegründete. Die ungenaue Übersetzung oder vielleicht die Fehlinterpretation, die Simmels Werk auf ein "Netz" (Web) reduzierte, setzte sich schließlich global durch. In seiner Übersetzung von Georg Simmels klassischer Soziologie (1908) aus dem Jahr 1955 entschied sich Reinhard Bendix dafür, Simmels zentrale These als ein "web of group-affiliations" zu beschreiben, anstelle der von Bendix als "fast bedeutungslos" abgetanen direkten Übersetzung "intersection of social circles" ("Überschneidung sozialer Kreise"). Auch wenn sich die genaue Entstehungsgeschichte schwer nachzeichnen lässt, ist es möglich, dass wir – hätte Bendix die entgegengesetzte Entscheidung getroffen – heute nicht vom "World Wide Web", sondern vielleicht von "intersecting global circles" sprechen würden.
