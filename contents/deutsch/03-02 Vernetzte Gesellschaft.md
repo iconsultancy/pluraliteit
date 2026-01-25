@@ -169,7 +169,8 @@ Gemeinsam ist all diesen Denkern die Einsicht in die vielschichtige und verfloch
 [^SecretSocieties]: Georg Simmel, “The Sociology of Secrecy and of Secret Societies,” _American Journal of Sociology_ 11, no. 4 (January 1906): 441–98, https://doi.org/10.1086/211418.
 [^PublicProblems]: John Dewey, op. cit.
 [^WEIRDest]: Joseph Henrich, _The WEIRDest People in the World How the West Became Psychologically Peculiar and Particularly Prosperous_, (New York Macmillan, 2010).
-[^TheModernState]: Andreas Anter, _Max Weber's Theory of the Modern State_, (Palgrave Macmillan, 2014).
+[^TheModernState]: Andreas Anter, Max Webers Theorie des modernen Staates. Herkunft, Struktur und Bedeutung (Berlin:
+Duncker & Humblot, 2007 [engl. Ausgabe: Palgrave Macmillan, 2014]).
 [^Cybernetics]: Norbert Wiener, *Cybernetics, Or Control and Communication in the Animal and the Machine* (Paris: Hermann & Cie, 1948).
 [^HumanUse]: Norbert Wiener, *Human Use of Human Beings* (Boston: Houghton Mifflin, 1950). 
 
