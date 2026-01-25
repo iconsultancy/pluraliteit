@@ -107,7 +107,7 @@ George lädt uns ein, eine ⿻-Welt zu denken, in der Wert nicht isoliert, sonde
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
 
-<figcaption>Abbildung 3-2-B. Georg Simmel. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), gemeinfrei.<figcaption>
+<figcaption>Abbildung 3-2-B. Georg Simmel. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), gemeinfrei. <figcaption>
 </figure>
 <br></br>
 
