@@ -121,11 +121,12 @@ Selbst im Verständnis der wissenschaftlichen Praxis ist daher eine ⿻-Perspekt
 ### Eine zukünftige ⿻?
 
 Die Annahmen der technokratischen und libertären Zukunftsvisionen weichen von diesen ⿻-Grundlagen stark ab.
+
 In der technokratischen Vision, die wir im vorherigen Kapitel diskutiert haben, soll die "Schmudeligkeit" bestehender Verwaltungssysteme durch ein groß angelegtes, einheitliches, rationales, wissenschaftliches, künstlich intelligentes Planungssystem ersetzt werden. Jenseits lokaler Kontexte und sozialer Vielfalt wird dieser monopolistische Akteur als Instanz vorgestellt, die "unvoreingenommene" Antworten auf wirtschaftliche und soziale Probleme gibt – und dabei soziale Brüche und Unterschiede überwindet. Tatsächlich versucht diese Akteur aber bestenfalls, die soziale Vielfalt und Heterogenität zu übertünchen oder schlimmstenfalls auszulöschen – jene Diversität also, die die ⿻-Sozialwissenschaft gerade als definierend für ihre Untersuchungsgegenstände, Beschäftigungsfelder und Werte betrachtet.
+
 Im Zentrum der libertären Vision wird die Souveränität des atomistischen Individuums (oder in manchen Versionen einer homogenen und stark gleichgeschalteten Gruppe von Individuen) angestrebt. Soziale Beziehungen werden am besten in Begriffen von "Kund:innen", "erfolgreicher Exit" und anderen kapitalistischen Dynamiken verstanden. Demokratie und andere Methoden des Umgangs mit Vielfalt werden als Fehlfunktionen von Systemen betrachtet, die nicht ausreichend Gestaltungsmöglichkeiten und Freiheit zulassen.
 
-Aber dies können nicht die einzigen Entwicklungsmöglichkeiten nach vorn sein. Die ⿻-Wissenschaft hat uns die Kraft gezeigt, ein ⿻-Verständnis der Welt zu nutzen, mit der physische Technologien entwickelt werden können. Wir müssen uns fragen, wie eine Gesellschaft und Informationstechnologie aussehen kann, die auf ein derartiges Verständnis menschlicher Gesellschaften aufgebaut ist.
-Glücklicherweise hat das 20. Jahrhundert die systematische Entwicklung einer solchen Vision gesehen – von den philosophischen und sozialwissenschaftlichen Grundlagen bis hin zu den ersten technologischen Ausdrucksformen.
+Aber dies können nicht die einzigen Entwicklungsmöglichkeiten nach vorn sein. Die ⿻-Wissenschaft hat uns die Kraft gezeigt, ein ⿻-Verständnis der Welt zu nutzen, mit der physische Technologien entwickelt werden können. Wir müssen uns fragen, wie eine Gesellschaft und Informationstechnologie aussehen kann, die auf ein derartiges Verständnis menschlicher Gesellschaften aufgebaut ist. Glücklicherweise hat das 20. Jahrhundert die systematische Entwicklung einer solchen Vision gesehen – von den philosophischen und sozialwissenschaftlichen Grundlagen bis hin zu den ersten technologischen Ausdrucksformen.
 
 Zusammenfassend:
 ⿻ bietet uns eine realitätsnahe Zukunftsperspektive von Wissenschaft und Gesellschaft.
