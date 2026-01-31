@@ -157,7 +157,7 @@ Vergessene Träume bewahren eine eigenwillige Präsenz, die leise, aber unüberh
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999." />
 
- <figcaption>Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), verwendet unter CC 4.0 BY-SA.</figcaption>
+ <figcaption>Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: [Wikipedia] (https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), verwendet unter CC 4.0 BY-SA.</figcaption>
  </figure>
  <br></br>
 
