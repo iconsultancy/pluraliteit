@@ -71,10 +71,12 @@ Baran argumentierte, dass zentralisierte Vermittlungsstellen zwar unter normalen
 
 Trotz der offensichtlichen Bedrohung, die sie für private Interessen darstellte, erregte die Paketvermittlung die positive Aufmerksamkeit einer anderen Organisation, die ihre Entstehung der Gefahr verheerender Angriffe verdankte: ARPA. Auf einer Konferenz 1967 lernte ARPANETs erster Programmmanager, Lawrence Roberts, die Paketvermittlung durch eine Präsentation von Donald Davies kennen, der die gleiche Idee wie Baran gleichzeitig und unabhängig entwickelte und sich bald auf Barans Argumente stützte, um das Konzept dem Team zu verkaufen. Abbildung A zeigt die dezentrale logische Struktur des frühen ARPANET.
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET." />
 
-
-
-Abbildung 3-3-A. Frühe logische Struktur des ARPANET. Quelle: Wikipedia, Public Domain.
+ **<Abbildung 3-3-A. Frühe logische Struktur des ARPANET. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
+ </figure>
+ <br></br>
 
 Während das vernetzte Denken einerseits von technischer Resilienz motiviert war, wurde es auf  einem anderen Weg vom Wunsch nach kreativer Gestaltung angetrieben. Ted Nelson, der ursprünglich Soziologie studierte, ließ sich in seiner Arbeit von einem Campusbesuch im Jahr 1959 inspirieren, bei dem er die Kybernetik-Pionierin Margaret Mead empfing, deren Vision demokratischer und pluralistischer Medien ihn stark prägte. Im weiteren Verlauf entwickelte er sich zu einem Künstler. Nach diesen frühen Erfahrungen widmete er ab seinen frühen Zwanzigern sein Leben der Entwicklung von „Project Xanadu“, das darauf abzielte, eine revolutionäre, menschenzentrierte Schnittstelle für Computernetzwerke zu schaffen. Obwohl Xanadu so viele Bestandteile umfasste, die Nelson für unverzichtbar hielt, dass es erst in den 2010er-Jahren vollständig veröffentlicht wurde, lag seine zentrale Idee – gemeinsam mit Engelbart entwickelt – im „Hypertext“, wie Nelson ihn nannte.
 
