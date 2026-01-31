@@ -96,12 +96,19 @@ Diese Kultur manifestierte sich in der Entwicklung des "Request for Comments" (R
 
 Ein Großteil dessen, was aus diesem Projekt hervorging, ist so weithin bekannt, dass es kaum einer Wiederholung bedarf. Während der 1970er Jahre produzierte Taylors Xerox PARC eine Reihe teurer und daher kommerziell erfolgloser, aber revolutionärer "persönlicher Arbeitsstationen", die viele Elemente enthielten, die später den Personal Computer der 1990er Jahre ausmachten. Zeitgleich begannen Unternehmen wie Apple und Microsoft, als Computerkomponenten einer breiteren Bevölkerung zugänglich wurden, erste erschwingliche Computer auf den Markt zu bringen – auch wenn sie noch nicht wirklich benutzerfreundlich waren. In dem Bemühen, seine Erfindungen zu kommerzialisieren, gewährte Xerox dem Apple-Mitbegründer Steve Jobs Zugang zu seiner Technologie im Austausch für Unternehmensanteile – was zur Einführung des Macintosh als modernem Personalcomputer führte. Kurz danach kam es auch zur  Massenverbreitung von Microsofts Windows-Betriebssystem. Bis zum Jahr 2000 besaß die Mehrheit der Amerikaner einen Personalcomputer und die Internetnutzung verbreitete sich stetig, wie in Abbildung B dargestellt.
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online." />
+
+ <figcaption>Abbildung 3-3-B. Anteil der Bevölkerung mit Internetzugang im Zeitverlauf weltweit und in verschiedenen Regionen. Quelle: Our World in Data.[^WiD]</figcaption>
+ </figure>
+ <br></br>
+
+[^WiD]: World Bank, "World Development Indicators" December 20, 2023 at https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators.
 
 
 
-Abbildung 3-3-B. Anteil der Bevölkerung mit Internetzugang im Zeitverlauf weltweit und in verschiedenen Regionen. Quelle: Our World in Data.
 
-Das Internet und seine Unzulänglichkeiten
+### Das Internet und seine Unzulänglichkeiten
 
 Parallel dazu entwickelte sich von Beginn an auch das Internet. Es wuchs immer weiter, um diese Personalcomputer zu verbinden. Während der späten 1960er und frühen 1970er Jahre entstanden verschiedene Netzwerke parallel zum größten Netzwerk, dem ARPANET. Sie breiteten sich unter Universitäten, Regierungen außerhalb der Vereinigten Staaten, internationalen Standardisierungsgremien und innerhalb von Unternehmen wie BBN und Xerox aus. Unter der Führung von Kahn und Cerf und mit Unterstützung von ARPA (nun in DARPA umbenannt, um seinen "Verteidigungs"-Fokus zu betonen) begannen diese Netzwerke, das TCP/IP-Protokoll zu nutzen, um miteinander zu kommunizieren. Als dieses Netzwerk wuchs, suchte DARPA nach einer anderen Agentur, um es zu betreuen, angesichts der eigenen Grenzen seiner fortschrittlichen Technologiemission. Obwohl verschiedene US-Regierungsbehörden sich daran versuchten, verfügte die National Science Foundation über die größte Gruppe wissenschaftlicher Teilnehmer:innen, und ihr NSFNET wuchs schnell zum größten Netzwerk heran. Das führte schließlich zur Stilllegung des ARPANET im Jahr 1990. Zur gleichen Zeit begann das NSFNET, sich mit Netzwerken in anderen wohlhabenden Ländern zu verbinden.
 
