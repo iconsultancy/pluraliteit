@@ -1,4 +1,4 @@
-# Der verlorene Dao
+# Der verlorene Dao 
 
 Entscheidungen über die Entwicklung und Nutzung von Computertechnologie müssen nicht nur "im öffentlichen Interesse" getroffen werden, sondern die Öffentlichkeit muss selbst in die Lage versetzt werden, aktiv die Prozesse zu gestalten, die ihre Zukunft bestimmen. – J. C. R. Licklider, "Computer und Regierung", 1980[^CandG]
 
