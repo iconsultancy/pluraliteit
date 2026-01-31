@@ -157,7 +157,7 @@ Vergessene Träume bewahren eine eigenwillige Präsenz, die leise, aber unüberh
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999." />
 
- <figcaption>Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: [Wikipedia](https://www.wikipedia.org) [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), verwendet unter CC 4.0 BY-SA.</figcaption>
+Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), verwendet unter CC 4.0 BY-SA.</figcaption>
  </figure>
  <br></br>
 
@@ -183,7 +183,7 @@ Während Wikis selbst bedeutende Anwendungen gefunden haben, hatten sie einen no
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_impact/oss_impact.gif" width="100%" alt="Gif showing the share of working age population that are contributors to open source software overtime by countries of the work over the last few years.  Share rises from about 1 to 2% in most countries and concentrates in North America, Europe, Oceania and East Asia, especially Taiwan. 
  ">
 
- Abbildung 3-3-D. GitHub-Mitwirkende als Anteil der erwerbsfähigen Bevölkerung nach Ländern. Quelle: GitHub Innovation Graph[^GHgraph], Weltbank[^WB] und Taiwanesisches Innenministerium[^TaiwanMI].</figcaption>
+Abbildung 3-3-D. GitHub-Mitwirkende als Anteil der erwerbsfähigen Bevölkerung nach Ländern. Quelle: GitHub Innovation Graph[^GHgraph], Weltbank[^WB] und Taiwanesisches Innenministerium[^TaiwanMI].</figcaption>
  </figure>
  <br></br>
  
