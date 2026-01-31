@@ -1,10 +1,23 @@
 # Der verlorene Dao
 
-Entscheidungen über die Entwicklung und Nutzung von Computertechnologie müssen nicht nur "im öffentlichen Interesse" getroffen werden, sondern die Öffentlichkeit muss selbst in die Lage versetzt werden, aktiv die Prozesse zu gestalten, die ihre Zukunft bestimmen. – J. C. R. Licklider, "Computer und Regierung", 1980
+Entscheidungen über die Entwicklung und Nutzung von Computertechnologie müssen nicht nur "im öffentlichen Interesse" getroffen werden, sondern die Öffentlichkeit muss selbst in die Lage versetzt werden, aktiv die Prozesse zu gestalten, die ihre Zukunft bestimmen. – J. C. R. Licklider, "Computer und Regierung", 1980[^CandG]
+
+[^CandG]: J.C.R. Licklider, "Computers and Government" in Michael L. Dertouzos and Joel Moses eds., _The Computer Age: A Twenty-Year View_ (Cambridge, MA: MIT Press, 1980)
+
+---
+
 Kann ein ⿻-Verständnis der Gesellschaft die Grundlage für soziale Transformationen schaffen, die ebenso tiefgreifend sind wie jene, die Disziplinen wie die Quantenmechanik und die Ökologie in den Naturwissenschaften, der physischen Technologie und unserem Verhältnis zur Natur bewirkt haben? Liberale Demokratien rühmen sich oft, pluralistische Gesellschaften zu sein – was darauf hindeutet, dass sie die aus der ⿻-Sozialwissenschaft verfügbaren Lehren bereits gezogen haben. Doch trotz dieses formellen Bekenntnisses zu Pluralismus und Demokratie wurde fast jedes Land durch die begrenzt verfügbarer Informationssysteme gezwungen, soziale Institutionen in einem monistisch-atomistischen Modell zu vereinheitlichen und zu vereinfachen – ein Ansatz, der in direktem Konflikt mit ihren eigenen Werten steht. Die große Hoffnung der ⿻-Sozialwissenschaft und der darauf aufbauenden ⿻-Technologie ist es, das Potenzial der Informationstechnologie zu nutzen, um diese Einschränkungen zu überwinden.
-⿻ startet
+
+### ⿻ startet
+
 Dies war die Aufgabe, der sich die jüngere Generation verschrieb, die Wieners Vorbild folgte, jedoch stärker aus den Human- und Sozialwissenschaften stammte. Diese Generation umfasste eine Reihe von Pionier:innen der angewandten Kybernetik, darunter die Anthropologin Margaret Mead¹⁵⁸ (die die Ästhetik des Internets maßgeblich beeinflusste), W. Edwards Deming¹⁵⁹ (dessen Einfluss auf die japanischen und, in etwas geringerem Umfang, taiwanesischen inklusiven industriellen Qualitätspraxen wir bereits oben betrachtet haben), sowie Stafford Beer¹⁶⁰ (der die Unternehmenskybernetik begründete und zu einer Art Vordenker für soziale Anwendungen von Wieners Ideen wurde – einschließlich in Chiles kurzer kybernetisch-sozialistischer Phase der frühen 1970er-Jahre). Sie entwickelten seine Vision weiter, wenn auch eher pragmatischer, und schufen Technologien, die das Informationszeitalter grundlegend prägten. Doch die ehrgeizigste und weitreichendste Auswirkung dieser Arbeit wurde durch ein Ereignis angekündigt, das im Oktober 1957 wie eine Lichtkugel über den Himmel zog. In seinem Buch The Dream Machine hat M. Mitchell Waldrop dieses Ereignis meisterhaft erzählt. Vieles, was jetzt folgt, stammt aus seiner Darstellung.
-Sputnik und die Advanced Research Projects Agency
+
+[^Surround]: Fred Turner, _The Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties_ (Chicago: University of Chicago Press, 2013).
+[^Deming]: While we do not have space to pursue Deming's or Mead's stories in anything like the depth we do the development of the internet, in many ways the work of these two pioneers parallels many of the themes we develop and in the industiral and cultural spheres laid the groundwork for ⿻ just as Licklider and his disciples did in computation. UTHSC. “Deming’s 14 Points,” May 26, 2022. https://www.uthsc.edu/its/business-productivity-solutions/lean-uthsc/deming.php.
+[^Davies]: Dan Davies, _The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind_ (London: Profile Books, 2024).
+[^DreamMachine]: M. Mitchell Waldrop, _The Dream Machine_ (New York: Penguin, 2002).
+
+### Sputnik und die Advanced Research Projects Agency
 
 Einen Monat nach dem Start des ersten Orbitalsatelliten durch die Sowjetunion wurde  der Bericht des Gaither-Komitees verbreitet, in dem behauptet wurde, dass die USA bei der Entwicklung von Raketen hinter die Sowjets zurückgefallen sei. Die darauffolgende moralische Krise hatte panische Züge und zwang die Eisenhower-Regierung zu Notmaßnahmen, um die strategische Überlegenheit Amerikas gegenüber der Öffentlichkeit unter Beweis zu stellen. Dabei hatte Eisenhower – trotz oder gerade wegen seiner eigenen militärischen Vergangenheit – tiefes Misstrauen gegenüber dem, was er den "militärisch-industriellen Komplex" Amerikas bezeichnete, und hegte gleichzeitig grenzenlose Bewunderung für Wissenschaftler. Er zielte daher darauf ab, die Emotionen des Kalten Krieges in eine nationale Strategie zur Verbesserung von wissenschaftlicher Forschung und Bildung umzulenken.
 
