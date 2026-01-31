@@ -154,9 +154,12 @@ Während sich das Internet-Rückgrat, wenn auch eingeschränkt, weiterentwickelt
 
 Vergessene Träume bewahren eine eigenwillige Präsenz, die leise, aber unüberhörbar bleibt. Während Lick 1990 starb, erlebten viele der frühen Internet-Pioniere sowohl ihren Triumph als auch ihre Tragödie.
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999." />
 
-
-Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: Wikipedia, verwendet unter CC 4.0 BY-SA.
+ <figcaption>Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), verwendet unter CC 4.0 BY-SA.</figcaption>
+ </figure>
+ <br></br>
 
 Ted Nelson (zu sehen in Abbildung C) und viele andere Pioniere des Projekts Xanadu setzen ihre Kritik am Internet und ihre Reformbestrebungen bis heute fort. Engelbart sprach, organisierte und schrieb bis zu seinem Tod 2013 über seine Vision der "Steigerung des kollektiven IQ". Zu diesen Aktivitäten gehörte – gemeinsam mit Terrence Winograd (Doktorvater der Google-Gründer) – die Unterstützung einer Gemeinschaft an der Stanford-Universität, die einerseits die Online-Deliberation und die nächste Generation von ⿻-Schlüsselpersonen hervorbrachte, wie wir weiter unten sehen werden. Während keiner dieser Ansätze die direkten Erfolge ihrer früheren Jahre erreichte, spielten sie entscheidende Rollen bei der Inspiration und in einigen Fällen sogar als Brutstätte für eine neue Generation von ⿻-Innovatoren, die dazu beigetragen haben, den Traum von ⿻ wiederzubeleben und zu artikulieren.
 
