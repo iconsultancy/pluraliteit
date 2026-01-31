@@ -160,7 +160,7 @@ Abbildung 3-3-C. Ted Nelson an der Keio-Universität, Japan, 1999. Quelle: Wikip
 
 Ted Nelson (zu sehen in Abbildung C) und viele andere Pioniere des Projekts Xanadu setzen ihre Kritik am Internet und ihre Reformbestrebungen bis heute fort. Engelbart sprach, organisierte und schrieb bis zu seinem Tod 2013 über seine Vision der "Steigerung des kollektiven IQ". Zu diesen Aktivitäten gehörte – gemeinsam mit Terrence Winograd (Doktorvater der Google-Gründer) – die Unterstützung einer Gemeinschaft an der Stanford-Universität, die einerseits die Online-Deliberation und die nächste Generation von ⿻-Schlüsselpersonen hervorbrachte, wie wir weiter unten sehen werden. Während keiner dieser Ansätze die direkten Erfolge ihrer früheren Jahre erreichte, spielten sie entscheidende Rollen bei der Inspiration und in einigen Fällen sogar als Brutstätte für eine neue Generation von ⿻-Innovatoren, die dazu beigetragen haben, den Traum von ⿻ wiederzubeleben und zu artikulieren.
 
-Lichtblicke
+### Lichtblicke
 
 Während, wie wir in der Einleitung hervorgehoben haben, der vorherrschende Entwicklungsweg der Technologie in Richtungen geht, die ihn auf Kollisionskurs mit der Demokratie bringen, hat diese neue Generation von Führungspersönlichkeiten ein konträres Muster gebildet: verstreute, aber deutlich erkennbare Lichtblicke, die gemeinsam Hoffnung geben, dass ⿻ eines Tages die Technologie im Großen und Ganzen beleben könnte. Für den durchschnittlichen Internetnutzer ist vielleicht Wikipedia das anschaulichste Beispiel.
 
