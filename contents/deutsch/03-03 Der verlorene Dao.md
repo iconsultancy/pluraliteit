@@ -183,7 +183,7 @@ Während Wikis selbst bedeutende Anwendungen gefunden haben, hatten sie einen no
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_impact/oss_impact.gif" width="100%" alt="Gif showing the share of working age population that are contributors to open source software overtime by countries of the work over the last few years.  Share rises from about 1 to 2% in most countries and concentrates in North America, Europe, Oceania and East Asia, especially Taiwan. 
  ">
 
- <figcaption>Abbildung 3-3-D. GitHub-Mitwirkende als Anteil der erwerbsfähigen Bevölkerung nach Ländern. Quelle: GitHub Innovation Graph, Weltbank und Taiwanesisches Innenministerium.[^GHgraph], World Bank[^WB] and Taiwan Ministry of Interior[^TaiwanMI]   .</figcaption>
+ figcaption>Abbildung 3-3-D. GitHub-Mitwirkende als Anteil der erwerbsfähigen Bevölkerung nach Ländern. Quelle: GitHub Innovation Graph, Weltbank und Taiwanesisches Innenministerium.[^GHgraph], World Bank[^WB] and Taiwan Ministry of Interior[^TaiwanMI]   .</figcaption>
  </figure>
  <br></br>
  
