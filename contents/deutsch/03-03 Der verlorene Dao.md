@@ -74,7 +74,7 @@ Trotz der offensichtlichen Bedrohung, die sie für private Interessen darstellte
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET." />
 
- **<Abbildung 3-3-A. Frühe logische Struktur des ARPANET. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
+ Abbildung 3-3-A. Frühe logische Struktur des ARPANET. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
  </figure>
  <br></br>
 
