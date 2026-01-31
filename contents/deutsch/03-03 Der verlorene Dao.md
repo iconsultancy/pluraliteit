@@ -105,9 +105,6 @@ Ein Großteil dessen, was aus diesem Projekt hervorging, ist so weithin bekannt,
 
 [^WiD]: World Bank, "World Development Indicators" December 20, 2023 at https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators.
 
-
-
-
 ### Das Internet und seine Unzulänglichkeiten
 
 Parallel dazu entwickelte sich von Beginn an auch das Internet. Es wuchs immer weiter, um diese Personalcomputer zu verbinden. Während der späten 1960er und frühen 1970er Jahre entstanden verschiedene Netzwerke parallel zum größten Netzwerk, dem ARPANET. Sie breiteten sich unter Universitäten, Regierungen außerhalb der Vereinigten Staaten, internationalen Standardisierungsgremien und innerhalb von Unternehmen wie BBN und Xerox aus. Unter der Führung von Kahn und Cerf und mit Unterstützung von ARPA (nun in DARPA umbenannt, um seinen "Verteidigungs"-Fokus zu betonen) begannen diese Netzwerke, das TCP/IP-Protokoll zu nutzen, um miteinander zu kommunizieren. Als dieses Netzwerk wuchs, suchte DARPA nach einer anderen Agentur, um es zu betreuen, angesichts der eigenen Grenzen seiner fortschrittlichen Technologiemission. Obwohl verschiedene US-Regierungsbehörden sich daran versuchten, verfügte die National Science Foundation über die größte Gruppe wissenschaftlicher Teilnehmer:innen, und ihr NSFNET wuchs schnell zum größten Netzwerk heran. Das führte schließlich zur Stilllegung des ARPANET im Jahr 1990. Zur gleichen Zeit begann das NSFNET, sich mit Netzwerken in anderen wohlhabenden Ländern zu verbinden.
@@ -116,15 +113,18 @@ Eines dieser Länder war das Vereinigte Königreich, wo der Forscher Tim Berners
 
 In der Boom- und Bust-Euphorie der Jahrtausendwende schenkte jedoch kaum jemand in der Technikwelt dem Gespenst Aufmerksamkeit, das bald die Branche heimsuchte: dem längst vergessenen Ted Nelson. Gefangen in seiner jahrzehntelangen Suche nach dem idealen Netzwerk- und Kommunikationssystem warnte Nelson unermüdlich vor der Unsicherheit, der ausbeuterischen Struktur und den unmenschlichen Aspekten des entstehenden World Wide Web. Ohne sichere Identitätssysteme (Xanadu-Prinzipien 1 und 3) würde eine Mischung aus Anarchie und Landnahmen durch Nationalstaaten und Unternehmen unvermeidlich sein. Ohne eingebettete Protokolle für Handel (Xanadu-Prinzipien 9 und 15) würde Online-Arbeit entwertet oder das Finanzsystem von Monopolen kontrolliert werden. Ohne bessere Strukturen für den sicheren Informationsaustausch und die Informationskontrolle (Xanadu-Prinzipien 8 und 16) würden Überwachung und Informations-Silos allgegenwärtig sein. Unabhängig von seinem scheinbaren Erfolg sei das WWW-Internet dazu verdammt, böse zu enden.
 
-Obwohl Nelson eine Art Außenseiter war, wurden seine Bedenken überraschend breit geteilt, selbst von den Mainstream-Internet-Pionieren, die scheinbar allen Grund hatten, ihren Erfolg zu feiern. Bereits 1980, während sich TCP/IP formierte, skizzierte Lick in seinem klassischen Essay "Computer und Regierung" "zwei Szenarien" (eines gut, das andere schlecht) für die Zukunft des "Computing": Es könnte entweder von monopolistischer Unternehmenskontrolle dominiert und sein Potenzial erstickt werden, oder es könnte eine umfassende gesellschaftliche Mobilisierung geben, die das Computing dazu bringt, der Demokratie zu dienen und sie zu unterstützen. In dem negativen Szenario prognostizierte Lick verschiedene gesellschaftliche Missstände, die den Beginn des Informationszeitalters unterm Strich zu einem Hindernis für die demokratische gesellschaftliche Entfaltung machen könnten. Diese umfassten:
-Allgegenwärtige Überwachung und öffentliches Misstrauen gegenüber der Regierung;
-Lähmung der Regierungsfähigkeit, Gesetze zu erlassen oder durchzusetzen, da sie hinter den starken Technologien zurückbleiben, die Bürger:innen nutzen;
-Entwertung kreativer Berufe;
-Monopolisierung und unternehmerische Ausbeutung;
-Allgegenwärtige digitale Fehlinformationen;
-Informations-Silos, die einen Großteil des Netzwerk-Potenzials untergraben;
-Regierungsdaten und -statistiken werden zunehmend ungenau und irrelevant;
-Kontrolle der Basis-Plattformen für Sprache und öffentlichen Diskurs durch private Einrichtungen.
+Obwohl Nelson eine Art Außenseiter war, wurden seine Bedenken überraschend breit geteilt, selbst von den Mainstream-Internet-Pionieren, die scheinbar allen Grund hatten, ihren Erfolg zu feiern. Bereits 1980, während sich TCP/IP formierte, skizzierte Lick in seinem klassischen Essay "Computer und Regierung" "zwei Szenarien" (eines gut, das andere schlecht) für die Zukunft des "Computing": Es könnte entweder von monopolistischer Unternehmenskontrolle dominiert und sein Potenzial erstickt werden, oder es könnte eine umfassende gesellschaftliche Mobilisierung geben, die das Computing dazu bringt, der Demokratie zu dienen und sie zu unterstützen.[^ComputGov] In dem negativen Szenario prognostizierte Lick verschiedene gesellschaftliche Missstände, die den Beginn des Informationszeitalters unterm Strich zu einem Hindernis für die demokratische gesellschaftliche Entfaltung machen könnten. Diese umfassten:
+
+[^ComputGov]: Licklider, "Comptuers and Government", op. cit.
+
+1. Allgegenwärtige Überwachung und öffentliches Misstrauen gegenüber der Regierung;
+2. Lähmung der Regierungsfähigkeit, Gesetze zu erlassen oder durchzusetzen, da sie hinter den starken Technologien zurückbleiben, die Bürger:innen nutzen;
+3. Entwertung kreativer Berufe;
+4. Monopolisierung und unternehmerische Ausbeutung;
+5. Allgegenwärtige digitale Fehlinformationen;
+6. Informations-Silos, die einen Großteil des Netzwerk-Potenzials untergraben;
+7. Regierungsdaten und -statistiken werden zunehmend ungenau und irrelevant;
+8. Kontrolle der Basis-Plattformen für Sprache und öffentlichen Diskurs durch private Einrichtungen.
 
 Je mehr sich die Internetnutzung ausbreitete, desto weniger relevant erschienen solche Bedenken. Die Regierung spielte nicht die zentrale Rolle, die Lick sich vorgestellt hatte. Aber bis zum Jahr 2000 gingen die wenigen Kommentator:innen, die überhaupt von seinen Warnungen wussten, davon aus, dass wir definitiv auf dem Weg zu Licks Szenario 2 seien. Doch an einigen Stellen wuchs die Besorgnis gegen Ende des ersten Jahrzehnts des neuen Jahrtausends. Der Virtual-Reality-Pionier Jaron Lanier läutete die Alarmglocken in zwei seiner Bücher ("Du bist kein Gadget" und "Wer besitzt die Zukunft?") und unterstrich Nelsons und seine eigene Version von Licks Bedenken über die Zukunft des Internets. Während diese zunächst nur als Verstärkung von Nelsons Randideen erschienen, brachte schließlich eine Reihe von Weltereignissen – die wir im Abschnitt "Informationstechnologie und Demokratie: Eine sich weitende Kluft" diskutieren werden – einen Großteil der Welt dazu, die Grenzen der entstandenen Internetwirtschaft und -gesellschaft zu erkennen. Das half, den Techlash zu entfachen. Dieses Muster hatte eine verblüffende Ähnlichkeit mit den Warnungen von Lick und Nelson. Der Sieg des Internets war möglicherweise ein weitaus größerer Pyrrhussieg, als es anfangs schien.
 
