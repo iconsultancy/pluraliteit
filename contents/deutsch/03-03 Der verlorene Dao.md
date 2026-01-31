@@ -57,13 +57,15 @@ Taylor und Lick waren naturgemäß Kollegen. Obwohl Taylor nie seine Doktorarbei
 
 Im Kern der Entwicklung dessen, was später das Internet wurde, stand der Austausch zentralisierter, linearer und atomisierter Strukturen durch ⿻-Beziehungen und Governance. Dies geschah auf drei Ebenen, die sich Anfang der 1990er Jahre zum World Wide Web zusammenfügten:
 
-Paketvermittlung, die zentrale Vermittlungsstellen ersetzen;
-Hypertext zum Ersatz linearer Texte;
-Offene Standardisierungsprozesse zum Ersatz von top-down Entscheidungsfindungen durch Regierungen und Unternehmen.
+1. Paketvermittlung, die zentrale Vermittlungsstellen ersetzen;
+2. Hypertext zum Ersatz linearer Texte;
+3. Offene Standardisierungsprozesse zum Ersatz von top-down Entscheidungsfindungen durch Regierungen und Unternehmen.
 
 Alle drei Ideen hatten ihre Ursprünge an den Rändern der frühen Gemeinschaft, die Lick formte, und entwickelten sich zu Kernmerkmalen der ARPANET-Gemeinschaft.
 
-Während das Konzept von Netzwerken, die Redundanz und das Teilen von Informationen von Licks ursprünglicher Vision durchdrungen war, war es Paul Barans Bericht von 1964 "Über verteilte Kommunikation", der klar artikulierte, wie und warum Kommunikationsnetzwerke eine ⿻ statt einer zentralisierten Struktur anstreben sollten.
+Während das Konzept von Netzwerken, die Redundanz und das Teilen von Informationen von Licks ursprünglicher Vision durchdrungen war, war es Paul Barans Bericht von 1964 "Über verteilte Kommunikation", der klar artikulierte, wie und warum Kommunikationsnetzwerke eine ⿻ statt einer zentralisierten Struktur anstreben sollten.[^Baran]
+
+[^Baran]: Paul Baran, "On Distributed Communications Networks," *IEEE Transactions on Communications Systems* 12, no. 1 (1964): 1-9.
 
 Baran argumentierte, dass zentralisierte Vermittlungsstellen zwar unter normalen Bedingungen hohe Zuverlässigkeit bei geringen Kosten erreichten, aber gegenüber Störungen fragil seien. Im Gegensatz dazu könnten Netzwerke mit vielen Zentren aus billigen und weniger zuverlässigen Komponenten aufgebaut werden und dennoch selbst verheerende Angriffe überstehen – indem sie "um Schäden herumrouten" und dynamische Wege durch das Netzwerk basierend auf Verfügbarkeit wählen, statt einer vorab spezifizierten Planung folgen. Während Baran Unterstützung und Ermutigung von Wissenschaftlern der Bell Labs erhielt, wurden seine Ideen von AT&T, dem nationalen Telefonmonopolisten, rundweg abgelehnt. In dessen Firmenkultur war eine  hochwertige, zentralisiert ausgerichtete Maschinerie tief verwurzelt.
 
