@@ -1,5 +1,5 @@
+# Der verlorene Dao
 
-3-3 Der verlorene Dao
 Entscheidungen über die Entwicklung und Nutzung von Computertechnologie müssen nicht nur "im öffentlichen Interesse" getroffen werden, sondern die Öffentlichkeit muss selbst in die Lage versetzt werden, aktiv die Prozesse zu gestalten, die ihre Zukunft bestimmen. – J. C. R. Licklider, "Computer und Regierung", 1980
 Kann ein ⿻-Verständnis der Gesellschaft die Grundlage für soziale Transformationen schaffen, die ebenso tiefgreifend sind wie jene, die Disziplinen wie die Quantenmechanik und die Ökologie in den Naturwissenschaften, der physischen Technologie und unserem Verhältnis zur Natur bewirkt haben? Liberale Demokratien rühmen sich oft, pluralistische Gesellschaften zu sein – was darauf hindeutet, dass sie die aus der ⿻-Sozialwissenschaft verfügbaren Lehren bereits gezogen haben. Doch trotz dieses formellen Bekenntnisses zu Pluralismus und Demokratie wurde fast jedes Land durch die begrenzt verfügbarer Informationssysteme gezwungen, soziale Institutionen in einem monistisch-atomistischen Modell zu vereinheitlichen und zu vereinfachen – ein Ansatz, der in direktem Konflikt mit ihren eigenen Werten steht. Die große Hoffnung der ⿻-Sozialwissenschaft und der darauf aufbauenden ⿻-Technologie ist es, das Potenzial der Informationstechnologie zu nutzen, um diese Einschränkungen zu überwinden.
 ⿻ startet
