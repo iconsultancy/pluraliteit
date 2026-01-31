@@ -74,7 +74,7 @@ Trotz der offensichtlichen Bedrohung, die sie für private Interessen darstellte
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET." />
 
- Abbildung 3-3-A. Frühe logische Struktur des ARPANET. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>
+Abbildung 3-3-A. Frühe logische Struktur des ARPANET. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>
  </figure>
  <br></br>
 
@@ -99,7 +99,7 @@ Ein Großteil dessen, was aus diesem Projekt hervorging, ist so weithin bekannt,
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online." />
 
- <figcaption>Abbildung 3-3-B. Anteil der Bevölkerung mit Internetzugang im Zeitverlauf weltweit und in verschiedenen Regionen. Quelle: Our World in Data.[^WiD]</figcaption>
+ Abbildung 3-3-B. Anteil der Bevölkerung mit Internetzugang im Zeitverlauf weltweit und in verschiedenen Regionen. Quelle: Our World in Data.[^WiD]</figcaption>
  </figure>
  <br></br>
 
