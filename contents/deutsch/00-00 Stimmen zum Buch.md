@@ -65,7 +65,7 @@
 <br></br>
 
 >"Glen und Audrey leiten ein Team, das eine Masterclass darin anbietet, wie man fortschrittliche Computertechnik nutzen kann, um menschliche Sozial- und Wirtschaftssysteme zu ergänzen, anstatt sie zu ersetzen, und uns gleichzeitig zeigt und erklärt, wie digitale Technologie die Welt dramatisch kooperativer und produktiver machen kann."<br></br>
-–  [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan), Pehong Chen Distinguished Professor of Computer Science and Statistics an der University of California, Berkeley, erster Preisträgerdes [World Laureates Association Prize](https://www.thewlaprize.org/) in Computer Science or Mathematics und von [*Science*](https://www.science.org/content/article/who-s-michael-jordan-computer-science-new-tool-ranks-researchers-influence) zum einflussreichsten Informatiker der Welt im Jahr 2016 benannt.
+–  [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan), Pehong Chen Distinguished Professor of Computer Science and Statistics an der University of California, Berkeley, erster Preisträger des [World Laureates Association Prize](https://www.thewlaprize.org/) in Computer Science or Mathematics und von [*Science*](https://www.science.org/content/article/who-s-michael-jordan-computer-science-new-tool-ranks-researchers-influence) zum einflussreichsten Informatiker der Welt im Jahr 2016 benannt.
 
 <br></br>
 
@@ -76,7 +76,7 @@
 <br></br>
 
 >"Digitale Technologien, die eigentlich Freiheit und Demokratie fördern sollten, haben sich in Waffen der Desinformation, des Extremismus und der Überwachung verwandelt. Dieses wunderbare Buch skizziert eine technische und philosophische Strategie, die sich auf praktische Anwendungen in Taiwan stützt, um das alles besser zu machen."<br></br>
-– Daron Acemoglu, Nobelpreisträger und Elizabeth und James Killian Professor für Wirtschaftswissenschaften am Massachusetts Institute of Technology, Gewinner der John-Bates-Clark-Medaille und Mitautor von Power and Progress und Why Nations Fail
+– [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu), Nobelpreisträger und Elizabeth und James Killian Professor für Wirtschaftswissenschaften am Massachusetts Institute of Technology, Gewinner der John Bates Clark Medaille und Mitautor von [*Power and Progress*](https://www.hachettebookgroup.com/titles/daron-acemoglu/power-and-progress/9781541702530/?lens=publicaffairs) und [*Why Nations Fail*](https://en.wikipedia.org/wiki/Why_Nations_Fail)
 
 <br></br>
 
