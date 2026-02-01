@@ -91,32 +91,32 @@
 <br></br>
 
 >"Audrey Tang setzt einen neuen Maßstab dafür, was es bedeutet, eine bahnbrechende Führungskraft zu sein. Ich hoffe, dass wir alle den Mut haben werden, ihrem Weg zu folgen, den sie hier so eloquent darlegt."<br></br>
-– Claudia López Hernández, ehemalige Bürgermeisterin und erste weibliche Bürgermeisterin von Bogotá, Kolumbien, und höchste jemals gewählte LGBT-Beamtin im globalen Süden
+– [Claudia López Hernández](https://en.wikipedia.org/wiki/Claudia_L%C3%B3pez), ehemalige Bürgermeisterin und erste weibliche Bürgermeisterin von Bogotá, Kolumbien, und höchste jemals gewählte LGBT-Beamtin im globalen Süden
 
 <br></br>
 
 >"Es ist klar, dass die Technologien die Zukunft von Kultur und Demokratie beeinflussen werden. Uns fehlt eine pluralistische... Vision für das Leben mit ihnen! Glücklicherweise verkörpert dieses Buch die Prinzipien, für die es eintritt. Wie die künstliche Intelligenz ist es eine monumentale kollektive Leistung, die größer ist als die Summe ihrer Teile."<br></br>
-– Holly Herndon, Musikerin, Künstlerin, Co-Moderatorin von Interdependence und Mitbegründerin von Spawning
+– [Holly Herndon](https://en.wikipedia.org/wiki/Holly_Herndon), Musikerin, Künstlerin, Co-Moderatorin von [*Interdependence*](https://interdependence.fm/) und Mitbegründer von [Spawning](https://spawning.ai/)
 
 <br></br>
 
 >"Das Projekt von Audrey Tang und Glen Weyl wird Taiwan (und anderen Ländern) auf dem Weg zu einer neuen Sozialdemokratie wirksam und sinnvoll helfen."<br></br>
-– Karatani Kōjin, Autor von The Structure of World History und Träger des Berggruen-Preises für Kultur und Philosophie
+– [Karatani Kōjin](https://en.wikipedia.org/wiki/Kojin_Karatani), Autor von [*The Structure of World History*](https://www.dukeupress.edu/the-structure-of-world-history) und Träger des Berggruen-Preises für Kultur und Philosophie
 
 <br></br>
 
 >"Pluralität enthüllt die kraftvolle Blaupause von Taiwans widerstandsfähiger digitaler Transformation... bietet wertvolle Einblicke für besorgte Bürger überall und... kann helfen, die Demokratie zu bewahren inmitten... eines prekären Moments in der Geschichte für Freiheit und offene Gesellschaften auf der ganzen Welt."<br></br>
-– Frank McCourt, Gründer von McCourt Global und Project Liberty und Mitautor von Our Biggest Fight
+– [Frank McCourt](https://en.wikipedia.org/wiki/Frank_McCourt_(executive)), Gründer von [McCourt Global](https://www.mccourt.com/) und [Project Liberty](https://www.projectliberty.io/) und Mitautor von [*Our Biggest Fight*](https://ourbiggestfight.com/)
 
 <br></br>
 
 >"Ich finde es aufregend, die Regeln für neue Spiele zu lesen und mir die Welt, die sie aufbauen, vorzustellen; diese Aufregung bekomme ich hier, aber das Spiel sind globale Angelegenheiten und die Art, wie Gemeinschaften zusammenarbeiten. Fantastisch!"<br></br>
-– Richard Garfield, Schöpfer von Magic: The Gathering
+– [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), Schöpfer von [*Magic: The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
 
 <br></br>
 
 >"(Sie) haben ein brillantes Buch mit atemberaubenden Möglichkeiten geschrieben, das ... Hoffnung in einer dunklen Zeit bietet ... und sich auf Disziplinen wie Mathematik und Literatur bezieht... die Leser werden wahrscheinlich eine Menge Dinge finden, die sie zum Nachdenken anregen und herausfordern... (und) sie sind eingeladen, sich an der Diskussion zu beteiligen!"<br></br>
-– Anne-Marie Slaughter, Geschäftsführerin der New America Foundation, ehemalige Direktorin für politische Planung im US-Außenministerium und Autorin von Unfinished Business und The Chess Board and the Web
+– [Anne-Marie Slaughter](https://en.wikipedia.org/wiki/Anne-Marie_Slaughter), Geschäftsführerin der [New America Foundation](https://www.newamerica.org/), ehemalige Direktorin für politische Planung im US-Außenministerium und Autorin von [*Unfinished Business*](https://www.penguinrandomhouse.com/books/225053/unfinished-business-by-anne-marie-slaughter/) und [*The Chess Board and the Web*](https://yalebooks.yale.edu/book/9780300234664/the-chessboard-and-the-web/)
 
 <br></br>
 
