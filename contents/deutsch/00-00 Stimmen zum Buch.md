@@ -36,8 +36,7 @@
 
 <br></br>
 
->"Wie sieht eine freie und offene Zukunft in einem technologisch fortgeschrittenen, politisch herausfordernden und sich rasch entwickelnden 21. Jahrhundert aus? Glen, Audrey und ihre Co-Autor:innen bieten einen überzeugenden Ausblick auf einen Weg in die Zukunft."
->– Vitalik Buterin, Gründer von Ethereum
+>"Wie sieht eine freie und offene Zukunft in einem technologisch fortgeschrittenen, politisch herausfordernden und sich rasch entwickelnden 21. Jahrhundert aus? Glen, Audrey und ihre Co-Autor:innen bieten einen überzeugenden Ausblick auf einen Weg in die Zukunft."<br></br>- [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), Founder of [Ethereum](https://ethereum.org/en/)
 
 <br></br>
 
