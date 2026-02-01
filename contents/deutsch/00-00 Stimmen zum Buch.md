@@ -81,19 +81,17 @@
 <br></br>
 
 >"Wie sähe die Welt aus, wenn unsere liebsten Träume in der Bewegung für soziale Gerechtigkeit...wahr geworden wären? (Sie) bieten radikale und doch pragmatische Lösungen, um ... die Demokratie neu zu erfinden ... (um) wirklich den Menschen zu dienen ... Einige ... wurden ... umgesetzt und dienen als Leuchtfeuer ... für einen echten Wandel."<br></br>
-– Stav Shaffir, Anführerin der Israeli Social Justice protests, die "Occupy" inspirierten, und jüngstes weibliches Mitglied der Knesset
+– [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), Anführerin der [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests), die "Occupy" inspirierten, und jüngstes weibliches Mitglied der Knesset
 
 <br></br>
 
 >"Viel zu lange wurden Vielfalt und Technologie von den Kräften der Säkularisierung als Schwerter benutzt. In den geschickten Händen dieser Autoren werden sie auf bemerkenswerte Weise zu einem Schild für die Gläubigen umgeschmiedet."<br></br>
-– Rev. Johnnie Moore Jr, Präsident des Congress of Christian Leaders, ehemaliges Mitglied der United States Commission 
-on International Religious Freedom
+– [Rev. Johnnie Moore Jr.](https://en.wikipedia.org/wiki/Johnnie_Moore_Jr.), Präsident des  [Congress of Christian Leaders](https://congressofchristianleaders.com/), ehemaliges Mitglied der [United States Commission on International Religious Freedom](https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom) und informeller Berater von Päsident Trump in seiner ersten Amtszeit
 
 <br></br>
 
 >"Audrey Tang setzt einen neuen Maßstab dafür, was es bedeutet, eine bahnbrechende Führungskraft zu sein. Ich hoffe, dass wir alle den Mut haben werden, ihrem Weg zu folgen, den sie hier so eloquent darlegt."<br></br>
-– Claudia López Hernández, ehemalige Bürgermeisterin und erste weibliche Bürgermeisterin von Bogotá, Kolumbien, und 
-höchste jemals gewählte LGBT-Beamtin im globalen Süden
+– Claudia López Hernández, ehemalige Bürgermeisterin und erste weibliche Bürgermeisterin von Bogotá, Kolumbien, und höchste jemals gewählte LGBT-Beamtin im globalen Süden
 
 <br></br>
 
