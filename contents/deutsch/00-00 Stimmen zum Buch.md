@@ -192,13 +192,12 @@ ehemaliger Direktor der Forschungseinheit für Quantencomputer von Microsoft [St
 <br></br>
 
 >"Pluralität ist optimistisch und pragmatisch zugleich und bietet einen Fahrplan, um die Demokratie für das Zeitalter der künstlichen Intelligenz neu zu schmieden ... wir müssen uns nicht auf die libertären oder autoritären Visionen beschränken ... ein dritter Weg ... stützt sich auf Offenheit, Pluralität und den menschlichen Geist. Sehr lesenswert!"<br></br>
-– Mark Surman, Präsident und geschäftsführender Direktor der Mozilla Foundation
+– [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), Präsident und geschäftsführender Direktor der [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
 
 <br></br>
 
 >"Kann der öffentliche Sektor aufkommende Technologien genauso schnell nutzen wie der Rest der Gesellschaft? Audrey Tang hat in der Praxis bewiesen, dass dies möglich ist, und hier zeigt sie Ihnen, wie Sie es auch tun können."<br></br>
-– Shlomit Wagman, ehemalige Generaldirektorin der israelischen Behörde für das Verbot von Geldwäsche und Terrorfinanzierung  
-und der Behörde für den Schutz der Privatsphäre
+– [Shlomit Wagman](https://cyber.harvard.edu/people/shlomit-wagman), ehemalige Generaldirektorin der israelischen Behörde für das Verbot von Geldwäsche und Terrorfinanzierung ([Israel Money Laundering and Terror Financing Prohibition Authority](https://www.gov.il/en/departments/impa/govil-landing-page)) und der Behörde für den Schutz der Privatsphäre ([Privacy Protection Authority](https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page))
 
 <br></br>
 
