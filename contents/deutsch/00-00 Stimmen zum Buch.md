@@ -171,17 +171,17 @@
 <br></br>
 
 >"In einer Zeit der Angst und der Spaltung bieten Glen Weyl und Audrey Tang eine seltene, fundierte Vision, wie Technologie und Demokratie harmonieren und uns in eine bessere Zukunft führen können."<br></br>
-– Tristan Harris, Mitbegründer des Center for Humane Technology und Hauptdarsteller von The Social Dilemma
+– [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Mitbegründer des [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) und Hauptdarsteller in [*The Social Dilemma*](https://www.thesocialdilemma.com/)
 
 <br></br>
 
 >"Ein spannender, kreativer und provokanter Ideenkatalog, wie man bei einigen der grundlegendsten Probleme der Welt Fortschritte erzielen kann. Nach der Lektüre dieses Buches werden Sie nie wieder auf dieselbe Weise denken."<br></br>
-– Jason Furman, ehemaliger Vorsitzender des Council of Economic Advisors und Aetna-Professor für die Praxis der Wirtschaftspolitik, Harvard University
+– [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), ehemaliger Vorsitzender des Council of Economic Advisors und Aetna-Professor für die Praxis der Wirtschaftspolitik, Harvard University
 
 
 >"(D)ieses Buch ... stellt Taiwan ins Zentrum der Welt. Wird es der Dreh- und Angelpunkt eines Konflikts oder ... die Spitze einer ... demokratisierenden Revolution des Friedens, der Menschlichkeit und der Technologie sein? Dies ist die Frage unseres Jahrhunderts. Tang, Weyl und ihre Mitarbeitenden haben einen Leitfaden für die Suche nach der Antwort geschrieben."<br></br>
-– Michael Hartley Freedman, Gewinner der Fields Medal, des MacArthur Fellowship und der National Medal of Science und 
-ehemaliger Direktor der der Forschungseinheit für Quantencomputer von Microsoft Station Q
+– [Michael Hartley Freedman](https://en.wikipedia.org/wiki/Michael_Freedman), Gewinner der [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal), des [MacArthur Fellowship](https://www.macfound.org/programs/awards/fellows/) und der [National Medal of Science](https://en.wikipedia.org/wiki/National_Medal_of_Science) sowie 
+ehemaliger Direktor der Forschungseinheit für Quantencomputer von Microsoft [Station Q](https://news.microsoft.com/stories/stationq/)
 
 <br></br>
 
