@@ -36,22 +36,21 @@
 
 <br></br>
 
->"Wie sieht eine freie und offene Zukunft in einem technologisch fortgeschrittenen, politisch herausfordernden und sich rasch entwickelnden 21. Jahrhundert aus? Glen, Audrey und ihre Co-Autor:innen bieten einen überzeugenden Ausblick auf einen Weg in die Zukunft."<br></br>- [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), Founder of [Ethereum](https://ethereum.org/en/)
+>"Wie sieht eine freie und offene Zukunft in einem technologisch fortgeschrittenen, politisch herausfordernden und sich rasch entwickelnden 21. Jahrhundert aus? Glen, Audrey und ihre Co-Autor:innen bieten einen überzeugenden Ausblick auf einen Weg in die Zukunft."<br></br>- [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), Gründer von [Ethereum](https://ethereum.org/en/)
 
 <br></br>
 
->"Die Demokratie wurde oft als Konfrontation gegensätzlicher Werte verstanden. In Taiwan jedoch hat sie sich zu einem Gespräch unter einer Vielfalt von Wertvorstellungen entwickelt. Audrey Tang hat uns gezeigt, wie sich eine "digitale Demokratie" schaffen lässt, die die Beschränkungen von Ideologien hinter sich lässt – das ist der wesentliche Beitrag dieses Buches." <br></br> - Tsai Ing-wen, ehem. Präsidentin der Republik China (Taiwan)
+>"Die Demokratie wurde oft als Konfrontation gegensätzlicher Werte verstanden. In Taiwan jedoch hat sie sich zu einem Gespräch unter einer Vielfalt von Wertvorstellungen entwickelt. Audrey Tang hat uns gezeigt, wie sich eine "digitale Demokratie" schaffen lässt, die die Beschränkungen von Ideologien hinter sich lässt – das ist der wesentliche Beitrag dieses Buches." <br></br> - [Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen), ehem. Präsidentin der Republik China (Taiwan)
 
 <br></br>
 
 >"Sie bieten uns ein Portal in eine Zukunft, in der die Technologie Demokratie, Pluralismus und eine umfassende menschliche Entfaltung unterstützt. Wir wissen, dass diese Zukunft möglich ist, denn Tang hat sie in Taiwan aufgebaut. Die hier geschaffenen konzeptionellen Grundlagen leiten einen dringend benötigten Paradigmenwechsel für das moderne Leben ein."<br></br>
->– Danielle S. Allen, politische Philosophin, James Bryan Conant Universitätsprofessorin in Harvard, MacArthur Fellow 
-und Autorin von Our Declaration und Cuz
+>– [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), politische Philosophin, James Bryan Conant Universitätsprofessorin in Harvard, MacArthur Fellow und Autorin von [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) und [*Cuz*](https://wwnorton.com/books/9781631494949)
 
 <br></br>
 
 >"Pluralität liest sich wie optimistische Science-Fiction und ist bereits Realität! Können Demokratien auf der ganzen Welt in Taiwans Fußstapfen treten und die freie Gesellschaft für das digitale Zeitalter aufrüsten? Ich drücke die Daumen, dass es ein Happy End gibt."<br></br>
-– Joseph Gordon-Levitt, Emmy-prämierter Künstler und Gründer von HITRECORD
+– [Joseph Gordon-Levitt](https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt), Emmy-prämierter Künstler und Gründer von [HITRECORD](https://hitrecord.org/)
 
 <br></br>
 
