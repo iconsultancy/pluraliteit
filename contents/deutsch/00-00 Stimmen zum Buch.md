@@ -55,7 +55,7 @@
 <br></br>
 
 >"Pluralität ist ... ein wahrhaft faszinierender ... potenzieller globaler Beschleuniger ... der Zusammenarbeit mit afrikanischer Perspektive ... ein Muss für afrikanische Vordenker, die sich der Herausforderung stellen, das 21. Jahrhundert zum afrikanischen Jahrhundert zu machen."<br></br>
-– Oby Ezekwesili, Mitbegründerin von Transparency International, #BringBackOurGirls, Gründerin von School of Politics, Policy and Governance und #FixPolitics, und nigerianische Spitzenpolitikerin
+– [Oby Ezekwesili](https://en.wikipedia.org/wiki/Oby_Ezekwesili), Mitbegründer von [Transparency International](https://www.transparency.org/en), [#BringBackOurGirls](https://bringbackourgirls.ng/), Gründer der [School of Politics, Policy and Governance](https://thesppg.org/our-program/) und [#FixPolitics](https://www.fixpolitics.org/), und nigerianische Spitzenpolitikerin
 
 <br></br>
 
