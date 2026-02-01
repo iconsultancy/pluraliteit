@@ -1,6 +1,6 @@
-### Stimmen zum Buch
+# Stimmen zum Buch
 
-# Stimmen aus dem deutschsprachigen Raum
+## Stimmen aus dem deutschsprachigen Raum
 
 > „Ob digitale Technologien zu einem Gehäuse der Hörigkeit beitragen oder Freiheit und Demokratie fördern, das ist eine zentrale Frage in der Auseinandersetzung mit autoritären Kräften. Dieses Buch skizziert, gestützt auf praktische Erfahrungen in Taiwan, Strategien und Lösungen, die auch für den deutschsprachigen Raum erschlossen werden sollten.“
 > – Reinhard Bütikofer, Ko-Vorsitzender der Deutsch-Taiwanischen-Dialogplattform, ehemaliges Mitglied des Europäischen Parlaments
@@ -26,7 +26,7 @@
 > – Doreen Denstädt, ehemalige Justizministerin Thüringens und Gründungsmitglied von Verwaltung und Demokratie e. V.
 >
 
-# Stimmen aus dem englischen Originaltext
+## Stimmen aus dem englischen Originaltext
 
 >
 
