@@ -202,20 +202,20 @@ ehemaliger Direktor der Forschungseinheit für Quantencomputer von Microsoft [St
 <br></br>
 
 >"(S)ingularität... weckt die Angst, dass die Technologie den Menschen überholen wird. Dieses bahnbrechende Buch bietet ... eine überzeugende, mutige Alternative. Weyl und Tang zeigen auf, wie Technologie eine pluralistische Welt voranbringen kann, um Beziehungen zu stärken und Menschen über alle Unterschiede hinweg zusammenzubringen."<br></br>
-– Mike Kubzansky, CEO des Omidyar Network
+– [Mike Kubzansky](https://omidyar.com/omidyar_team/mike-kubzansky/), CEO des [Omidyar Network](https://omidyar.com/)
 
 <br></br>
 
 >"(V)isionär in Gestaltung, Ausführung und Inhalt."<br></br>
-– Brad Carson,, Präsident der University of Tulsa und Americans for Responsible Innovation, ehemaliger US-Kongressabgeordneter und Unterstaatssekretär der Armee
+– [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), Präsident der [University of Tulsa](https://utulsa.edu/) und [Americans for Responsible Innovation](https://responsibleinnovation.org/), ehemaliger US-Kongressabgeordneter und Unterstaatssekretär der Armee
 
 <br></br>
 
 >"Regulierung ist nach wie vor ein schwer zu fassender Weg, um unsere technofeudalen Herren zu bändigen. Es wird nicht gelingen, die Macht zu zerstreuen. Die Pluralität zeigt uns einen anderen Weg auf – offen und demokratisch –, um diese Mächte zu umgehen und zu unterbrechen."<br></br>
-– Cristina Caffarra,, Honorarprofessorin am University College London und Mitbegründerin des CEPR Competition Research Policy Network
+– [Cristina Caffarra](https://cristinacaffarra.com/), Honorarprofessorin am [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) und Mitbegründerin des [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
 
 <br></br>
 
 >"Pluralität ist eine Sozialphilosophie des Technologiezeitalters … ein dritter Weg jenseits von Libertarismus und Technokratie. Ihr Wesen liegt im Entstehen von Leben am Rand des Chaos, und ob dieses Ideal verwirklicht wird, hängt davon ab, ob die Leserinnen und Leser dieses Buches zu echten Aktivisten und Aktivistinnen werden, die sich mutig in diesen Rand stürzen."<br></br>
-– Ken Suzuki, Mitgründer und Executive Chair von SmartNews, Inc. sowie Erfinder des Propagational Investment Currency System (PICSY)
+– [Ken Suzuki](https://www.linkedin.com/in/ken-suzuki-03489/), Mitbegründer und Executive Chair von SmartNews, Inc. sowie Erfinder des [Propagational Investment Currency SYstem(PICSY)](https://nameteki.kensuzuki.org/english)
 
