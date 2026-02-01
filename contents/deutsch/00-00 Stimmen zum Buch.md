@@ -24,7 +24,8 @@
 
 > „Pluralität ist eine Einladung, mutig neu zu denken, wie wir miteinander verbunden sind – analog wie digital. Beeindruckend zeigen die Autor*innen, wie Technologie und Demokratie sich gegenseitig stärken – wenn wir sie als Räume für Begegnung, Mitgefühl und gemeinsames Lernen verstehen. Ein Buch das Hoffnung für die Zukunft birgt.„
 > – Doreen Denstädt, ehemalige Justizministerin Thüringens und Gründungsmitglied von Verwaltung und Demokratie e. V.
->
+
+<br></br>
 
 ## Stimmen aus dem englischen Originaltext
 
@@ -33,7 +34,7 @@
 >
 
 > "In der unermesslichen, grenzenlosen Weite der Pluralität ist jedes Leben ein einzigartiges und kostbares Dasein ... Unabhängig davon, wie gefährlich die äußeren Umstände auch sein mögen ... lasst uns positive Maßnahmen ergreifen, damit die Samen des gemeinsamen Guten die Erde durchbrechen und zu Blumen des Mitgefühls, der Freude und der Harmonie erblühen können."
->– Seine Heiligkeit der Dalai Lama XIV von Tibet
+– Seine Heiligkeit der [Dalai Lama XIV](https://www.dalailama.com/) von Tibet
 
 <br></br>
 
