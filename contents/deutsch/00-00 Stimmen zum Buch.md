@@ -60,18 +60,18 @@
 <br></br>
 
 >"Mit Witz, Gelehrsamkeit und Optimismus argumentieren Audrey Tang und ihre Mitarbeiter:innen, dass wir uns die digitale Technologie zunutze machen können, um dem Autoritarismus entgegenzutreten, und dass wir dies tun können, indem wir uns auf die Grundsätze einer offenen Gesellschaft stützen, anstatt davor zurückzuschrecken."<br></br>
-– Anne Applebaum, Gewinnerin des Pulitzer Prize und Autorin von The Twilight of Democracy und Red Famine
+– [Anne Applebaum](https://en.wikipedia.org/wiki/Anne_Applebaum), Gewinnerin des [Pulitzer Prize](https://www.pulitzer.org/winners/anne-applebaum) und Autorin von [*The Twilight of Democracy*](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/) und [*Red Famine*](https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/)
 
 <br></br>
 
 >"Glen und Audrey leiten ein Team, das eine Masterclass darin anbietet, wie man fortschrittliche Computertechnik nutzen kann, um menschliche Sozial- und Wirtschaftssysteme zu ergänzen, anstatt sie zu ersetzen, und uns gleichzeitig zeigt und erklärt, wie digitale Technologie die Welt dramatisch kooperativer und produktiver machen kann."<br></br>
-– Michael I. Jordan, Pehong Chen Distinguished Professor of Computer Science and Statistics an der University of California, Berkeley, erster Preisträgerdes  World Laureates Association Prize in Computer Science or Mathematics und von Science 
-zum einflussreichsten Informatiker der Welt im Jahr 2016 .
+–  [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan), Pehong Chen Distinguished Professor of Computer Science and Statistics an der University of California, Berkeley, erster Preisträgerdes [World Laureates Association Prize](https://www.thewlaprize.org/) in Computer Science or Mathematics und von [*Science*](https://www.science.org/content/article/who-s-michael-jordan-computer-science-new-tool-ranks-researchers-influence) zum einflussreichsten Informatiker der Welt im Jahr 2016 benannt.
 
 <br></br>
 
 >"Im Bereich der Finanztechnologie und der digitalen Infrastruktur sind Kenia und andere afrikanische Länder... den veralteten Modellen im globalen Norden voraus. Mit Pluralität können wir dies ... vertiefen ..., um unser Wachstum zu beschleunigen und Teil globaler Modelle für eine integrativere, partizipativere und produktivere Zukunft zu werden."<br></br>
-– Ory Okolloh-Mwangi, Mitbegründerin von Ushahidi und Partnerin bei Verod-Kepple Africa Ventures
+– [Ory Okolloh-Mwangi](https://en.wikipedia.org/wiki/Ory_Okolloh), Mitbegründerin von [Ushahidi](https://en.wikipedia.org/wiki/Ushahidi) und Partnerin bei [Verod-Kepple Africa Ventures](https://vkav.vc/)
+
 
 <br></br>
 
