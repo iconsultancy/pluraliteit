@@ -121,27 +121,26 @@
 <br></br>
 
 >"Freuen Sie sich! Hier ist ein Ausbruch von Kreativität, der uns einen Blick auf die humanistische High-Tech-Zukunft gibt, die wir für möglich hielten."<br></br>
-– Jaron Lanier, Erfinder der virtuellen Realität, Autor von Who Owns the Future? und The Dawn of the New Everything und Microsofts Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
+– [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), Erfinder der virtuellen Realität, Autor von [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) und [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) und Microsofts Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
 
 <br></br>
 
 >"Endlich haben wir ein Buch, das die Pluralität in den Mittelpunkt stellt - sowohl in der Theorie als auch in der Praxis. Es ist ein dringend benötigter Leitfaden für die Entwicklung neuer Strategien, um die Beziehung zwischen Technologie und Demokratie zu steuern und über den üblichen westlichen Rahmen hinaus zu denken."<br></br>
-– Kate Crawford, leitende Forscherin bei Microsoft Research, Forschungsprofessorin an der University of Southern California, Künstlerin, Musikerin und Autorin von Atlas of AI
+– [Kate Crawford](https://katecrawford.net/), leitende Forscherin bei Microsoft Research, Forschungsprofessorin an der University of Southern California, Künstlerin, Musikerin und Autorin von [*Atlas of AI*](https://en.wikipedia.org/wiki/Atlas_of_AI)
 
 <br></br>
 
 >"(P)opulisten auf der ganzen Welt nutzen Technologie, um Nationen zu spalten…Pluralität lädt zu einer neuen Reise ein, auf der wir die Technologie nutzen können, um diesen Raum in der Welt der Annullierung zurückzuerobern, um uns stärker zu verbinden und unseren Sinn für Menschlichkeit zurückzubringen, UBUNTU, wie wir in Afrika sagen."<br></br>
-– Mmusi Maimane, südafrikanischer Präsidentschaftskandidat, ehemaliger Oppositionsführer, Gründer von Build One South Africa und Pastor und Ältester der Liberty Church
+– [Mmusi Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), südafrikanischer Präsidentschaftskandidat, ehemaliger Oppositionsführer, Gründer von [Build One South Africa](https://www.bosa.co.za/) und Pastor und Ältester der [Liberty Church](https://www.lty.church/)
 
 
 >"In klarer und untechnischer Prosa wird hier eine weitreichende Vision dargelegt, wie so viel von dem, was wir in den letzten Jahrzehnten über Technologie und Gesellschaft gelernt haben, integriert werden kann, um die Zukunft der Demokratie neu zu gestalten - von jemandem, der dies tatsächlich vor Ort tut."<br></br>
-– Alex "Sandy" Pentland, erster akademischer Leiter des MIT Media Lab und Mitbegründer der Computational Social Science und Data Science
+– [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), erster akademischer Leiter des MIT Media Lab und Mitbegründer der Computational Social Science und Data Science
 
 <br></br>
 
 >"(Ein) bemerkenswertes Buch, das zugängliche, tiefgreifende und neuartige Einblicke in die Art und Weise bietet, wie die Technologie unser Leben beeinflusst hat, beeinflusst, beeinflussen wird und beeinflussen sollte. Es stützt sich auf eine Fülle von Belegen, um ein schlagkräftiges Argument für die Förderung der Pluralität zu liefern ... Es enthält wichtige Lektionen für uns alle."<br></br>
-– Colin Mayer, Peter Moores Professor für Managementstudien an der Oxford Saïd School of Management und Autor von 
-Prosperity: Better Business Makes the Greater Good
+– [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor für Managementstudien an der Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) und Autor von [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
 
 <br></br>
 
