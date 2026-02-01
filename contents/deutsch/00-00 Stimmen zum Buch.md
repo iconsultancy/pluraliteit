@@ -150,18 +150,23 @@
 
 <br></br>
 
+>Hin und wieder erscheint ein Buch, das das Paradigma völlig neu definiert... Graeber und Wengrow... Asimov... Mary Shelly... jetzt haben Audrey Tang, Glen Weyl und ihre Mitstreiter die Tore zu dem aufgestoßen, was es bedeutet, im 21. Jahrhundert Mensch zu sein... Kaufen Sie es... Verwirklichen Sie es. <br></br> 
+— [Manda Scott](https://en.wikipedia.org/wiki/Manda_Scott), Bestsellerautorin von [*Boudica*](https://mandascott.co.uk/boudica-dreaming-the-eagle/) und [*A Treachery of Spies*](https://mandascott.co.uk/a-treachery-of-spies/)
+
+<br></br>
+
 >"Wenn die Internettechnologie die Fragmentierung beschleunigt hat, sollte es möglich sein, eine angenehme Koexistenz zu erreichen. Plurarität ist voll von Hinweisen für diesen Zweck."<br></br>
-– Aono Yoshihisa, Mitbegründer und CEO von Cybozu
+– [Aono Yoshihisa](https://www.crunchbase.com/person/yoshihisa-aono), Mitbegründer und  CEO von [Cybozu](https://cybozu.co.jp/en/company/)
 
 <br></br>
 
 >"Pluralität ist ein wichtiges Buch über eine der zentralen Herausforderungen unserer Zeit - den Aufbau von Zusammenarbeit und gemeinsamer Zielsetzung bei aller Vielfalt. Die Autoren gehen diese Herausforderung nicht nur in der Politik an, sondern bieten auch wertvolle Einblicke in Technologie, Wirtschaft und darüber hinaus."<br></br>
-– Julius Krein, Gründer und Chefredakteur, American Affairs
+– [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Gründer und Chefredakteur von [*American Affairs*](https://americanaffairsjournal.org/)
 
 <br></br>
 
 >"Anhand von Taiwan, der am meisten unterschätzten Demokratie der Welt, liefert Pluralität ein überzeugendes Argument dafür, dass digitale Technologien genutzt werden können, um ... eine demokratischere Zukunft zu ermöglichen ... Die Lektüre dieses brillanten Buches hinterließ ... ein neues Gefühl der Dringlichkeit, lieferte aber auch echte Gründe zur Hoffnung."<br></br>
-– Steven Levitsky,, David Rockerfeller Professor für Regierungslehre in Harvard und Mitautor von How Democracies Die und Tyranny of the Minority
+– [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky), David Rockerfeller Professor für Regierungslehre in Harvard und Mitautor von [*How Democracies Die*](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) und [*Tyranny of the Minority*](https://www.penguinrandomhouse.com/books/706046/tyranny-of-the-minority-by-steven-levitsky-and-daniel-ziblatt/)
 
 <br></br>
 
