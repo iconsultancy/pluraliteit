@@ -130,9 +130,15 @@
 
 <br></br>
 
+>Ich habe die ersten Kapitel im ✈️ gelesen und kann es nur wärmstens empfehlen. Früher habe ich viel gelesen, aber mittlerweile langweilen mich Bücher meistens. Dieses hier hat jedoch wieder mein Interesse geweckt. Es ist dringend notwendig, damit wir nicht diese apokalyptische Macho-Vorstellung von der Zukunft haben. Es liegt übrigens in unseren Händen.  <br></br> 
+— [Violeta Ayala](https://en.wikipedia.org/wiki/Violeta_Ayala), erste Quechua-Muttersprachlerin unter den [Oscar-Preisträgern](https://www.oscars.org/) und preisgekrönte XR-Filmemacherin
+
+<br></br>
+
 >"(P)opulisten auf der ganzen Welt nutzen Technologie, um Nationen zu spalten…Pluralität lädt zu einer neuen Reise ein, auf der wir die Technologie nutzen können, um diesen Raum in der Welt der Annullierung zurückzuerobern, um uns stärker zu verbinden und unseren Sinn für Menschlichkeit zurückzubringen, UBUNTU, wie wir in Afrika sagen."<br></br>
 – [Mmusi Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), südafrikanischer Präsidentschaftskandidat, ehemaliger Oppositionsführer, Gründer von [Build One South Africa](https://www.bosa.co.za/) und Pastor und Ältester der [Liberty Church](https://www.lty.church/)
 
+<br></br>
 
 >"In klarer und untechnischer Prosa wird hier eine weitreichende Vision dargelegt, wie so viel von dem, was wir in den letzten Jahrzehnten über Technologie und Gesellschaft gelernt haben, integriert werden kann, um die Zukunft der Demokratie neu zu gestalten - von jemandem, der dies tatsächlich vor Ort tut."<br></br>
 – [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), erster akademischer Leiter des MIT Media Lab und Mitbegründer der Computational Social Science und Data Science
