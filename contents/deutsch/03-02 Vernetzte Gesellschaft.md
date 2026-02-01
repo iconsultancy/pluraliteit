@@ -35,7 +35,7 @@ Dies half dabei, die Abhängigkeit von persönlichen Beziehungen zu umgehen und 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/taxonomies.png" width="100%" alt="A diagram displaying a range of different forms of recognition of leanring achievement in terms of formality and importance.">
 
-<figcaption>Abbildung 3-2-A Flexible Taxonomie (Kategorisierungsschema) für ein breites Spektrum der Anerkennung. Quelle: Learning Agents Inc. (https://www.learningagents.ca)<figcaption>
+Abbildung 3-2-A Flexible Taxonomie (Kategorisierungsschema) für ein breites Spektrum der Anerkennung. Quelle: [Learning Agents Inc.](https://www.learningagents.ca)<figcaption>
 </figure>
 <br></br>
 
@@ -109,7 +109,7 @@ George lädt uns ein, eine ⿻-Welt zu denken, in der Wert nicht isoliert, sonde
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
 
-<figcaption>Abbildung 3-2-B. Georg Simmel. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG) , gemeinfrei. <figcaption>
+Abbildung 3-2-B. Georg Simmel. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG) , gemeinfrei. <figcaption>
 </figure>
 <br></br>
 
