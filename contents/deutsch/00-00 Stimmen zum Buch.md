@@ -130,7 +130,7 @@
 
 <br></br>
 
->Ich habe die ersten Kapitel im ✈️ gelesen und kann es nur wärmstens empfehlen. Früher habe ich viel gelesen, aber mittlerweile langweilen mich Bücher meistens. Dieses hier hat jedoch wieder mein Interesse geweckt. Es ist dringend notwendig, damit wir nicht diese apokalyptische Macho-Vorstellung von der Zukunft haben. Es liegt übrigens in unseren Händen.  <br></br> 
+>"Ich habe die ersten Kapitel im ✈️ gelesen und kann es nur wärmstens empfehlen. Früher habe ich viel gelesen, aber mittlerweile langweilen mich Bücher meistens. Dieses hier hat jedoch wieder mein Interesse geweckt. Es ist dringend notwendig, damit wir nicht diese apokalyptische Macho-Vorstellung von der Zukunft haben. Es liegt übrigens in unseren Händen."  <br></br> 
 — [Violeta Ayala](https://en.wikipedia.org/wiki/Violeta_Ayala), erste Quechua-Muttersprachlerin unter den [Oscar-Preisträgern](https://www.oscars.org/) und preisgekrönte XR-Filmemacherin
 
 <br></br>
@@ -150,7 +150,7 @@
 
 <br></br>
 
->Hin und wieder erscheint ein Buch, das das Paradigma völlig neu definiert... Graeber und Wengrow... Asimov... Mary Shelly... jetzt haben Audrey Tang, Glen Weyl und ihre Mitstreiter die Tore zu dem aufgestoßen, was es bedeutet, im 21. Jahrhundert Mensch zu sein... Kaufen Sie es... Verwirklichen Sie es. <br></br> 
+>"Hin und wieder erscheint ein Buch, das das Paradigma völlig neu definiert... Graeber und Wengrow... Asimov... Mary Shelly... jetzt haben Audrey Tang, Glen Weyl und ihre Mitstreiter die Tore zu dem aufgestoßen, was es bedeutet, im 21. Jahrhundert Mensch zu sein... Kaufen Sie es... Verwirklichen Sie es." <br></br> 
 — [Manda Scott](https://en.wikipedia.org/wiki/Manda_Scott), Bestsellerautorin von [*Boudica*](https://mandascott.co.uk/boudica-dreaming-the-eagle/) und [*A Treachery of Spies*](https://mandascott.co.uk/a-treachery-of-spies/)
 
 <br></br>
@@ -178,6 +178,7 @@
 >"Ein spannender, kreativer und provokanter Ideenkatalog, wie man bei einigen der grundlegendsten Probleme der Welt Fortschritte erzielen kann. Nach der Lektüre dieses Buches werden Sie nie wieder auf dieselbe Weise denken."<br></br>
 – [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), ehemaliger Vorsitzender des Council of Economic Advisors und Aetna-Professor für die Praxis der Wirtschaftspolitik, Harvard University
 
+<br></br>
 
 >"(D)ieses Buch ... stellt Taiwan ins Zentrum der Welt. Wird es der Dreh- und Angelpunkt eines Konflikts oder ... die Spitze einer ... demokratisierenden Revolution des Friedens, der Menschlichkeit und der Technologie sein? Dies ist die Frage unseres Jahrhunderts. Tang, Weyl und ihre Mitarbeitenden haben einen Leitfaden für die Suche nach der Antwort geschrieben."<br></br>
 – [Michael Hartley Freedman](https://en.wikipedia.org/wiki/Michael_Freedman), Gewinner der [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal), des [MacArthur Fellowship](https://www.macfound.org/programs/awards/fellows/) und der [National Medal of Science](https://en.wikipedia.org/wiki/National_Medal_of_Science) sowie 
@@ -186,7 +187,7 @@ ehemaliger Direktor der Forschungseinheit für Quantencomputer von Microsoft [St
 <br></br>
 
 >"Es ist eine Freude, endlich eine Vision für die Zukunft des menschlichen Fortschritts zu sehen, die so klar in der Vergangenheit begründet ist. Mit der Pluralität haben wir einen Rahmen für den Bau von Motoren, die die in der menschlichen Vielfalt schlummernde Energie für die nächsten hundert Jahre Wirtschaftswachstum nutzbar machen."<br></br>
-– Oded Galor, Autor von The Journey of Humanity und Herbert Goldberger Professor für Wirtschaft an der Brown University
+– [Oded Galor](https://www.odedgalor.com/), Autor von[*The Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* und Herbert Goldberger Professor für Wirtschaft an der Brown University
 
 <br></br>
 
