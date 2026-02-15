@@ -19,7 +19,7 @@
 <br></br>
 
 > „Pluralität ist eine Einladung, mutig neu zu denken, wie wir miteinander verbunden sind – analog wie digital. Beeindruckend zeigen die Autor*innen, wie Technologie und Demokratie sich gegenseitig stärken – wenn wir sie als Räume für Begegnung, Mitgefühl und gemeinsames Lernen verstehen. Ein Buch das Hoffnung für die Zukunft birgt.„<br></br>
-– Doreen Denstädt, ehemalige Justizministerin Thüringens und Gründungsmitglied von Verwaltung und Demokratie e. V.
+– [Doreen Denstädt](https://de.wikipedia.org/wiki/Doreen_Denst%C3%A4dt?wprov=sfti1), ehemalige Justizministerin Thüringens und Gründungsmitglied von [Verwaltung für Demokratie e. V.](https://verwaltung-fuer-demokratie.de/)
 
 <br></br>
 
