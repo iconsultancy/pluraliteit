@@ -14,7 +14,7 @@
 
 <br></br>
 
-> "In ihren Gedanken und Aussagen ist Audrey Tang den meisten ihrer Mitmenschen immer mindestens einen Schritt voraus. Wer das moderne Taiwan in allen Facetten verstehen will, sollte sich mit ihr beschäftigen - und versuchen, Anschluss zu halten."<br></br>- Klaus Bardenhagen,  Journalist und Autor von "Die wichtigste Insel der Welt - Was Sie wissen müssen, um Taiwan zu verstehen“
+> "In ihren Gedanken und Aussagen ist Audrey Tang den meisten ihrer Mitmenschen immer mindestens einen Schritt voraus. Wer das moderne Taiwan in allen Facetten verstehen will, sollte sich mit ihr beschäftigen - und versuchen, Anschluss zu halten."<br></br>- [Klaus Bardenhagen](https://www.linkedin.com/in/klaus-bardenhagen-893054179?utm_source=share_via&utm_content=profile&utm_medium=member_ios),  Journalist und Autor von "[Die wichtigste Insel der Welt - Was Sie wissen müssen, um Taiwan zu verstehen](https://www.lehmanns.de/shop/sozialwissenschaften/63712174-9783451399213-die-wichtigste-insel-der-welt)“
 
 <br></br>
 
