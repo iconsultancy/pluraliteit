@@ -2,8 +2,7 @@
 
 ## Stimmen aus dem deutschsprachigen Raum
 
-> „Ob digitale Technologien zu einem Gehäuse der Hörigkeit beitragen oder Freiheit und Demokratie fördern, das ist eine zentrale Frage in der Auseinandersetzung mit autoritären Kräften. Dieses Buch skizziert, gestützt auf praktische Erfahrungen in Taiwan, Strategien und Lösungen, die auch für den deutschsprachigen Raum erschlossen werden sollten.“<br></br>
-- [Reinhard Bütikofer](https://de.wikipedia.org/wiki/Reinhard_B%C3%BCtikofer), Ko-Vorsitzender der [Deutsch-Taiwanischen-Dialogplattform](https://dtdp.de/), ehemaliges Mitglied des Europäischen Parlaments
+> „Ob digitale Technologien zu einem Gehäuse der Hörigkeit beitragen oder Freiheit und Demokratie fördern, das ist eine zentrale Frage in der Auseinandersetzung mit autoritären Kräften. Dieses Buch skizziert, gestützt auf praktische Erfahrungen in Taiwan, Strategien und Lösungen, die auch für den deutschsprachigen Raum erschlossen werden sollten.“<br></br> - [Reinhard Bütikofer](https://de.wikipedia.org/wiki/Reinhard_B%C3%BCtikofer), Ko-Vorsitzender der [Deutsch-Taiwanischen-Dialogplattform](https://dtdp.de/), ehemaliges Mitglied des Europäischen Parlaments
 
 <br></br>
 
@@ -12,8 +11,7 @@
 
 <br></br>
 
-> „Pluralität zeigt: Technologie kann Brücken bauen – zwischen Menschen, Kulturen und Ideen. Digitale Zukunft heißt nicht Automatisierung gegen Demokratie, sondern Vielfalt für Zusammenarbeit. Aus Taiwan für die Welt: Pluralität ist die Bauanleitung für eine vernetzte, demokratische Gesellschaft.“<br></br>
-- Dr. Ian-Tsing Dieu, Generaldirektor der [Taipeh Vertretung in der Bundesrepublik Deutschland, Büro München](https://www.roc-taiwan.org/demuc_de/index.html)
+> „Pluralität zeigt: Technologie kann Brücken bauen – zwischen Menschen, Kulturen und Ideen. Digitale Zukunft heißt nicht Automatisierung gegen Demokratie, sondern Vielfalt für Zusammenarbeit. Aus Taiwan für die Welt: Pluralität ist die Bauanleitung für eine vernetzte, demokratische Gesellschaft.“<br></br> - Dr. Ian-Tsing Dieu, Generaldirektor der [Taipeh Vertretung in der Bundesrepublik Deutschland, Büro München](https://www.roc-taiwan.org/demuc_de/index.html)
 
 <br></br>
 
