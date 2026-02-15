@@ -12,7 +12,8 @@
 
 <br></br>
 
-> „Pluralität zeigt: Technologie kann Brücken bauen – zwischen Menschen, Kulturen und Ideen. Digitale Zukunft heißt nicht Automatisierung gegen Demokratie, sondern Vielfalt für Zusammenarbeit. Aus Taiwan für die Welt: Pluralität ist die Bauanleitung für eine vernetzte, demokratische Gesellschaft.“<br></br>- Dr. Ian-Tsing Dieu, Generaldirektor der Taipeh Vertretung in der Bundesrepublik Deutschland, Büro München
+> „Pluralität zeigt: Technologie kann Brücken bauen – zwischen Menschen, Kulturen und Ideen. Digitale Zukunft heißt nicht Automatisierung gegen Demokratie, sondern Vielfalt für Zusammenarbeit. Aus Taiwan für die Welt: Pluralität ist die Bauanleitung für eine vernetzte, demokratische Gesellschaft.“<br></br>
+- Dr. Ian-Tsing Dieu, Generaldirektor der [Taipeh Vertretung in der Bundesrepublik Deutschland, Büro München](https://www.roc-taiwan.org/demuc_de/index.html)
 
 <br></br>
 
