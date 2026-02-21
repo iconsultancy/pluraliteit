@@ -23,7 +23,7 @@
 
 <br></br>
 
-> "Digitalisierung und KI setzen unsere Demokratie unter Druck, aber sie bieten auch große Chancen. Dieses Buch ist voller neuer Ideen, wie kreativere digitale Entschei-dungsprozesse  unsere Demokratie und die politische Debatte bereichern können. Uns begegnen in diesem Werk aber nicht nur spannende theoretische Konzepte, sondern vieles, was in der demokratischen Praxis der Republik Taiwan bereits erprobt wurde."<br></br> – Günter Krings, stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion
+> "Digitalisierung und KI setzen unsere Demokratie unter Druck, aber sie bieten auch große Chancen. Dieses Buch ist voller neuer Ideen, wie kreativere digitale Entschei-dungsprozesse  unsere Demokratie und die politische Debatte bereichern können. Uns begegnen in diesem Werk aber nicht nur spannende theoretische Konzepte, sondern vieles, was in der demokratischen Praxis der Republik Taiwan bereits erprobt wurde."<br></br> – [Günter Krings](https://de.wikipedia.org/wiki/G%C3%BCnter_Krings?wprov=sfti1), stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion und ehemaliger Parlamentarischer Staatssekretär beim Bundesminister des Innern
 
 <br></br>
 
