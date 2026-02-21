@@ -31,11 +31,11 @@
 
 <br></br>
 
-> „Die technologischen Entwicklungen rund ums Internet, soziale Medien, Smartphone und Ii, aber erst recht die Übermacht der Tech-Konzerne, machen vielen Angst, auch mir. Um so wichtiger sind Bücher, die Hinweise geben, wie die digitale Revolution gelingen könnte, ohne die Demokratie zu zerstören. Bücher wie „Plurality“ von Audrey Tang und E. Glen  Weyl.“<br></br> - Navid Kermani, Schriftsteller, Träger des Friedenspreises des deutschen Buchhandels
+> „Die technologischen Entwicklungen rund ums Internet, soziale Medien, Smartphone und Ii, aber erst recht die Übermacht der Tech-Konzerne, machen vielen Angst, auch mir. Um so wichtiger sind Bücher, die Hinweise geben, wie die digitale Revolution gelingen könnte, ohne die Demokratie zu zerstören. Bücher wie „Plurality“ von Audrey Tang und E. Glen  Weyl.“<br></br> - [Navid Kermani](https://de.wikipedia.org/wiki/Navid_Kermani?wprov=sfti1), Schriftsteller, Träger des Friedenspreises des deutschen Buchhandels
 
 <br></br>
 
-> „Dieses Buch ist gleichermaßen visionär wie konkret, konzeptionell wie praxisnah, und zeichnet nicht nur eine langfristige Perspektive, sondern beschreibt auch, wie man sich Schritt für Schritt einer pluralistischen Gesellschaft annähern kann und was wir alle dabei gewinnen können. Mit der Betonung von Open Source, verbindlichen offenen Standards und mehr öffentlich finanzierten digitalen Infrastrukturen, die durch neue Digitalsteuern möglich werden können, liefert Plurality gute Argumente in einer hochaktuellen Debatte rund um digitale Unabhängigkeit in einer geopolitisch instabilen Zeit und zum Widerstand gegen den toxischen Einfluss der TechBro Milliardäre auch auf die deutsche Gesellschaft.“ <br></br> - ［Anke Domscheit-Berg]( https://de.wikipedia.org/wiki/Anke_Domscheit-Berg?wprov=sfti1), ehemaliges Mitglied des Deutschen Bundestags
+> „Dieses Buch ist gleichermaßen visionär wie konkret, konzeptionell wie praxisnah, und zeichnet nicht nur eine langfristige Perspektive, sondern beschreibt auch, wie man sich Schritt für Schritt einer pluralistischen Gesellschaft annähern kann und was wir alle dabei gewinnen können. Mit der Betonung von Open Source, verbindlichen offenen Standards und mehr öffentlich finanzierten digitalen Infrastrukturen, die durch neue Digitalsteuern möglich werden können, liefert Plurality gute Argumente in einer hochaktuellen Debatte rund um digitale Unabhängigkeit in einer geopolitisch instabilen Zeit und zum Widerstand gegen den toxischen Einfluss der TechBro Milliardäre auch auf die deutsche Gesellschaft.“ <br></br> - [Anke Domscheit-Berg]( https://de.wikipedia.org/wiki/Anke_Domscheit-Berg?wprov=sfti1), ehemaliges Mitglied des Deutschen Bundestags und Mitbegründerin des „Government 2.0 Netzwerk Deutschland“ 
 
 <br></br>
 
