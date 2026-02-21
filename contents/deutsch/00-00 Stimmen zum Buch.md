@@ -23,6 +23,18 @@
 
 <br></br>
 
+> "Digitalisierung und KI setzen unsere Demokratie unter Druck, aber sie bieten auch große Chancen. Dieses Buch ist voller neuer Ideen, wie kreativere digitale Entschei-dungsprozesse  unsere Demokratie und die politische Debatte bereichern können. Uns begegnen in diesem Werk aber nicht nur spannende theoretische Konzepte, sondern vieles, was in der demokratischen Praxis der Republik Taiwan bereits erprobt wurde."<br></br> – Günter Krings, stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion
+
+<br></br>
+
+> "Taiwan hat bewiesen, dass Digitalisierung die Demokratie genau dort stärken kann, wo Europa sie zu verlieren droht – durch den Aufbau souveräner Infrastruktur, die den Bürgern dient, nicht Milliardären. Demokratie kann nicht mit Technologien überleben, die von denjenigen kontrolliert werden, die Algorithmen gegen die Demokra-tie einsetzen. Die Plurality-Vision zeigt uns, dass das größte Potenzial der Technologie nicht darin liegt, menschliches Urteilsvermögen durch KI zu ersetzen. Es geht vielmehr darum, Unterschiede zu überbrücken und über Unterschiede hinweg zusammenzuar-beiten. Wir müssen uns entscheiden: algorithmischer Pluralismus, der allen selbstbe-stimmt Chancen eröffnet, oder algorithmische Fremdbestimmung, die Macht in den Händen von Tech-Oligarchen konzentriert. Europas Zukunft hängt davon ab, dass wir Pluralität annehmen – nicht als passive Konsumenten fremder Plattformen, sondern als Architekten eines demokratischen digitalen Ökosystems, in dem Vielfalt zu unserer größten Quelle von Resilienz, Innovation und Wettbewerbsfähigkeit wird." <br></br> – Ale-xandra Geese, stellvertretende Vorsitzende der Fraktion Grüne/EFA im Europäischen Parlament
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
 ## Stimmen aus dem englischen Originaltext
 
 >
