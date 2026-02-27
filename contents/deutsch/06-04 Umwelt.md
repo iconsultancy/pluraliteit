@@ -23,7 +23,7 @@ Zu Beginn des 21. Jahrhunderts prägte der Nobelpreisträger Paul Jozef Crutzen 
 
 Natürlich sind auch wir Menschen nicht immun gegen die Auswirkungen dieser Umweltveränderungen. Allein an den Folgen der Luftverschmutzung sterben [jedes Jahr fast 6,7 Millionen Menschen](https://www.unep.org/news-and-stories/story/world-must-band-together-combat-air-pollution-which-kills-7-million-year#:~:text=Exposure%20to%20air%20pollution%20significantly,million%20premature%20deaths%20a%20year.), darunter etwa eine halbe Million Kleinkinder. In Ländern mit besonders starker Umweltverschmutzung sinkt die durchschnittliche Lebenserwartung um bis zu sechs Jahre.[^WHO]
 
-[^WHO]: World Health Organization, "Air Pollution Resource Guide" at https://www.who.int/health-topics/air-pollution#tab=tab_1.
+[^WHO]: Weltgesundheitsorganisation, "Air Pollution Resource Guide" unter https://www.who.int/health-topics/air-pollution#tab=tab_1.
 
 ### Datenkoalitionen für Umweltmaßnahmen 
 
@@ -58,7 +58,7 @@ Ziel ist es, dass diese Gemeinschaften von passiven Forschungsobjekten zu aktive
 
 In den letzten Jahren ist eine wachsende Bewegung zu beobachten, die fließenden Gewässern eine "natürliche Rechtspersönlichkeit" zuspricht. Zu diesen Wasserläufen mit eigenen Rechten und ernannten Wächtern und Wächterinnen gehören der Magpie River ([Muteshekau Shipu](https://nonprofitquarterly.org/environmental-personhood-a-radical-approach-to-climate-justice/#:~:text=In%202021%2C%20the%20Canadian%20government,and%20the%20rights%20of%20nature.)) in Kanada, der [Whanganui](https://apnews.com/article/religion-sacred-rivers-new-zealand-86d34a78f5fc662ccd554dd7f578d217) in Neuseeland, sowie die Flüsse Ganga und [Yamuna](https://www.sierraclub.org/sierra/india-s-yamuna-river-now-enjoys-legal-personhood-will-be-enough-clean-it) in Indien.[^rivers] Dies impliziert eine gemeinsame Verpflichtung, diese Ökosysteme für künftige Generationen zu erhalten.
 
-[^rivers]: Mihnea Tanasescu, "When a River is a Person: From Ecuador to New Zealand, Nature Gets its Day in Court", *Open Rivers* 8, Fall 2017 at https://openrivers.lib.umn.edu/article/when-a-river-is-a-person-from-ecuador-to-new-zealand-nature-gets-its-day-in-court.
+[^rivers]: Mihnea Tanasescu, "When a River is a Person: From Ecuador to New Zealand, Nature Gets its Day in Court", *Open Rivers* 8, Fall 2017 unter https://openrivers.lib.umn.edu/article/when-a-river-is-a-person-from-ecuador-to-new-zealand-nature-gets-its-day-in-court.
 
 Mithilfe Generativer Basismodelle (GFMs) können Datenkoalitionen gemeinsam erhobene Umweltdaten in Werkzeuge transformieren, die eine Art "Kommunikation" mit der Natur ermöglichen. Diese können als wertvolle Werkzeuge für den Wissensaustausch und die kollektive Problemlösung komplexer, grenzüberschreitender Herausforderungen dienen. Zur Förderung der  Nachhaltigkeit in der Umwelt erweisen sich GFMs als neues Modell für die Koexistenz zwischen Technologie und Mensch. Umweltdaten, die aus verifizierbaren Beziehungen stammen, schaffen einen Mehrwert, beispielsweise die Überwachung der Luft- und Wasserqualität. Durch diese Impulse in Form von Bildern, Tönen und Nachrichten werden Menschen involviert, die Echtzeit-Feedback zu Ideen liefern und weitere naturbewusste Partner:innen ermutigen, sich den Bemühungen anzuschließen.
 
