@@ -34,7 +34,8 @@ Im Gegensatz zu den USA und der VR China agierten die Europäische Union (EU) un
 
 ### Ein selten beschrittener Pfad
 
-So wie sich Taiwans Yushan (Jade)-Berg aus dem Schnittpunkt der eurasischen und pazifischen tektonischen Platte erhebt, entspringt der politische Ansatz, den wir in unserem Kapitel Life of a Digital Democracy untersucht haben, aus dem Schnittpunkt der Philosophien hinter den drei digitalen Imperien wie in Abbildung A dargestellt. 
+So wie sich Taiwans Yushan (Jade)-Berg aus dem Schnittpunkt der eurasischen und pazifischen tektonischen Platte erhebt, entspringt der politische Ansatz, den wir in unserem Kapitel [Das Leben einer digitalen Demokratie](https://www.plurality.net/v/chapters/2-2/de/?mode=dark) untersucht haben, aus dem Schnittpunkt der Philosophien hinter den drei digitalen Imperien wie in Abbildung A dargestellt. 
+
 Vom US-Modell hat Taiwan den Schwerpunkt auf ein dynamisches, dezentralisiertes, freies, unternehmerisches Ökosystem übernommen, das skalierbare und exportierbare Technologien hervorbringt, vor allem innerhalb des Open-Source-Ökosystems.
 Vom europäischen Modell hat es den Schwerpunkt auf Menschenrechte und Demokratie abgeleitet, die Grundlage für Bestrebungen sowohl für die Entwicklung einer grundlegenden digitalen öffentlichen Infrastruktur als auch für den Rest des digitalen Ökosystems sind. Aus dem Modell der VR China wurde die Bedeutung öffentlicher Investitionen für die proaktive Weiterentwicklung der Technologie und deren Ausrichtung auf gesellschaftliche Interessen abgeleitet.
 
