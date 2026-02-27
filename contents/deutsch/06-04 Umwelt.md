@@ -15,11 +15,12 @@ Menschliche Aktivitäten - insbesondere unsere Abhängigkeit von nicht-erneuerba
 - Versauerung der Meere
 - Massenaussterben von Arten
   
-Zu Beginn des 21. Jahrhunderts prägte der Nobelpreisträger Paul Jozef Crutzen den Begriff "Anthropozän", um diese neue Epoche zu kennzeichnen, die primär durch menschlichen Einfluss charakterisiert ist.
+Zu Beginn des 21. Jahrhunderts prägte der Nobelpreisträger Paul Jozef Crutzen den Begriff ""[Anthropozän](https://en.wikipedia.org/wiki/Anthropocene)"", um diese neue Epoche zu kennzeichnen, die primär durch menschlichen Einfluss charakterisiert ist.[^anthro] Die biologische Vielfalt hat dramatisch abgenommen: Allein zwischen [2001 und 2014](https://www.cnn.com/2020/06/01/world/sixth-mass-extinction-accelerating-intl/index.html) sind etwa 173 Arten verschwunden - das 25-fache der historischen Aussterberate. Im 20. Jahrhundert verschwanden rund 543 Wirbeltierarten, ein Ereignis, das unter natürlichen Bedingungen etwa 10.000 Jahre gedauert hätte.[^extinction]
 
-Die biologische Vielfalt hat dramatisch abgenommen:
-Allein zwischen 2001 und 2014 sind etwa 173 Arten verschwunden - das 25-fache der historischen Aussterberate.
-Im 20. Jahrhundert verschwanden rund 543 Wirbeltierarten, ein Ereignis, das unter natürlichen Bedingungen etwa 10.000 Jahre gedauert hätte.
+[^anthro]: Will Steffan, Paul J. Crutzen and John R. McNeill, "The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature?" in Ross E. Dunn, Laura J. Mitchell and Kerry Ward, eds., *The New World History* (Berkeley, CA: University of California Press, 2016).  Note that this proposal was recently rejected by the [International Union of Geological Sciences](https://www.theguardian.com/science/2024/mar/22/geologists-reject-declaration-of-anthropocene-epoch#:~:text=The%20guardians%20of%20the%20world's,planet%2Dchanging%20impact%20of%20humanity.).
+
+[^extinction]: Gerardo Ceballos, Paul R. Ehrlich, and Peter H. Raven, "Vertebrates on the Brink as Indicators of Biological Annihilation and the Sixth Mass Extinction", *Proceedings of the National Academy of Sciences* 117, no. 24: 13596-13602.
+
 Natürlich sind auch wir Menschen nicht immun gegen die Auswirkungen dieser Umweltveränderungen. Allein an den Folgen der Luftverschmutzung sterben jedes Jahr fast 6,7 Millionen Menschen, darunter etwa eine halbe Million Kleinkinder. In Ländern mit besonders starker Umweltverschmutzung sinkt die durchschnittliche Lebenserwartung um bis zu sechs Jahre.
 Datenkoalitionen für Umweltmaßnahmen 
 
