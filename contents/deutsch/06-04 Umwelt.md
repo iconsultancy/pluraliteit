@@ -21,8 +21,11 @@ Zu Beginn des 21. Jahrhunderts prägte der Nobelpreisträger Paul Jozef Crutzen 
 
 [^extinction]: Gerardo Ceballos, Paul R. Ehrlich, and Peter H. Raven, "Vertebrates on the Brink as Indicators of Biological Annihilation and the Sixth Mass Extinction", *Proceedings of the National Academy of Sciences* 117, no. 24: 13596-13602.
 
-Natürlich sind auch wir Menschen nicht immun gegen die Auswirkungen dieser Umweltveränderungen. Allein an den Folgen der Luftverschmutzung sterben jedes Jahr fast 6,7 Millionen Menschen, darunter etwa eine halbe Million Kleinkinder. In Ländern mit besonders starker Umweltverschmutzung sinkt die durchschnittliche Lebenserwartung um bis zu sechs Jahre.
-Datenkoalitionen für Umweltmaßnahmen 
+Natürlich sind auch wir Menschen nicht immun gegen die Auswirkungen dieser Umweltveränderungen. Allein an den Folgen der Luftverschmutzung sterben [jedes Jahr fast 6,7 Millionen Menschen](https://www.unep.org/news-and-stories/story/world-must-band-together-combat-air-pollution-which-kills-7-million-year#:~:text=Exposure%20to%20air%20pollution%20significantly,million%20premature%20deaths%20a%20year.), darunter etwa eine halbe Million Kleinkinder. In Ländern mit besonders starker Umweltverschmutzung sinkt die durchschnittliche Lebenserwartung um bis zu sechs Jahre.[^WHO]
+
+[^WHO]: World Health Organization, "Air Pollution Resource Guide" at https://www.who.int/health-topics/air-pollution#tab=tab_1.
+
+### Datenkoalitionen für Umweltmaßnahmen 
 
 Daten zu Klima, Luftqualität und Wasser werden oft von staatlichen Stellen erhoben und gepflegt. Diese Informationen sind wertvolle Ressourcen, die im internationalen Austausch allen Beteiligten zugutekommen. Umweltbewusstsein ist zu einer besonderen Triebfeder bei der Umsetzung der UN-Ziele für nachhaltige Entwicklung geworden, das von Open-Data-Organisationen und Umweltgruppen vorangetrieben wird. Die zivilgesellschaftliche Technologiebewegung hat einen neuen Raum für digitales soziales Engagement eröffnet. Sie stellt nicht nur einfach Werkzeuge zur Verfügung, sondern unterstützt die Zivilgesellschaft aktiv bei der Zusammenarbeit mit der Regierung, um mehr Umweltwissen zu schaffen. Dieses Wissen kann dann zu einer öffentlichen Bewegung entwickelt werden, die die Interessen mehrerer Parteien koordiniert.
 
