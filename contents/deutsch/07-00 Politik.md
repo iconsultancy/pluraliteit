@@ -107,10 +107,18 @@ Einige der transnationalen Netzwerke, die die digitalen Ministerien entscheidend
 
 Außerdem ist dieser Sektor in vielerlei Hinsicht besser für die Entwicklung von Infrastrukturen geeignet als die akademische Forschung, da öffentliche Infrastrukturen in der Realität im Allgemeinen nicht durch akademische Projekte aufgebaut werden. Die akademische Forschung ist in hohem Maße durch fachliche Schwerpunktsetzungen und Vorgaben eingeschränkt, die bei einer zivilen Infrastruktur, die allgemein nutzbar sein soll, sehr wahrscheinlich nicht eingehalten werden können. Akademische Karrieren hängen in einer Weise von Zitaten, Anerkennung und Neuheit ab, die mit den besten Erwartungen für Infrastrukturen kaum in Einklang gebracht werden kann. Diese sollen oft unsichtbar, "langweilig" und so einfach wie möglich mit anderen Infrastrukturen interoperabel (und nicht "neu") sein. Die akademische Forschung konzentriert sich oft auf ein definiertes fachliches Maß an Strenge und Überzeugungskraft, die in der Regel von der idealen Nutzererfahrung abweicht. Zwar ist die öffentliche Unterstützung der akademischen Forschung von entscheidender Bedeutung, und in einigen Bereichen können akademische Projekte zur ⿻ Infrastruktur beitragen, doch sollten Regierungen und private Sponsoren nicht in erster Linie auf den akademischen Forschungssektor schauen. Und während die akademische Forschung jährlich weltweit Hunderte von Milliarden Dollar an Fördermitteln erhält, haben Open-Source-Gemeinschaften in ihrer gesamten Geschichte wahrscheinlich weniger als zwei Milliarden Dollar erhalten, wenn man die bekannten [Quellen](https://www.nature.com/articles/d41586-021-03642-9) berücksichtigt, wie wir in Abbildung B veranschaulichen.[^DeSci]
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_funding/oss_funding.png" width="100%" alt='Figure compares cumulative historical funding of OSS projects v. venture capital, illustrating that the latter is roughly 3 orders of magnitude larger.'>
+
+**<figcaptionby> Abbildung 2-0-B. Vergleich der bekannten Finanzierung von Open-Source-Software und Risikokapitalinvestitionen. Quelle: Grafik der Autoren, verschiedene Quellen siehe Fußnote[^Sources]   </figcaption>**
+
+</figure>
+<br></br>
+
+[^Sources]: Jessica Lord, "What's New with GitHub Sponsors", *GitHub Blog*, April 4, 2023 at https://github.blog/2023-04-04-whats-new-with-github-sponsors/. GitCoin impact report at https://impact.gitcoin.co/. Kevin Owocki, "Ethereum 2023 Funding Flows: Visualizing Public Goods Funding from Source to Destination" at https://practicalpluralism.github.io/. Open Collective, "Fiscal Sponsors.  We need you!" *Open Collective Blog* March 1, 2024 at https://blog.opencollective.com/fiscal-sponsors-we-need-you/. Optimism Collective, "RetroPGF Round 3", *Optimism Docs* January 2024 at https://community.optimism.io/docs/governance/retropgf-3/#.  ProPublica, "The Linux Foundation" at https://projects.propublica.org/nonprofits/organizations/460503801.
 
 
-** Abbildung 2-0-B. Vergleich der bekannten Finanzierung von Open-Source-Software und Risikokapitalinvestitionen. Quelle: Grafik der Autoren, verschiedene Quellen siehe Fußnote.
-**
+[^DeSci]: Sarah Hamburg,  "Call to Join the Decentralized Science Movement", *Nature* 600, no. 221 (2021): Correspondence at https://www.nature.com/articles/d41586-021-03642-9.
 
 Dabei sind Open-Source-Gemeinschaften nur die Spitze des Eisbergs im Hinblick darauf, was für eine von der Öffentlichkeit getragenen und von der Zivilgesellschaft voran getriebenen Technologieentwicklung möglich ist. Organisationen wie die Mozilla- und Wikimedia-Stiftungen, die zwar in erster Linie mit Open-Source-Projekten arbeiten und diese vorantreiben, betreiben auch umfangreiche Entwicklungsaktivitäten jenseits der reinen Open-Source-Softwareentwicklung. Diese zusätzlichen Aktivitäten haben entscheidend dazu beigetragen, ihre Angebote weltweit deutlich zugänglicher zu machen. Außerdem gibt es keinen zwingenden Grund, warum Technologie von öffentlichem Interesse alle Merkmale von Open-Source-Code übernehmen muss.
 
