@@ -76,7 +76,7 @@ Wie sich Daten im Internet in Wissen verwandeln, hängt von unserer Beziehung zu
 
 Wenn es uns gelingt, reziproke Technologien geschickt mit kollektivem Wissen zu verknüpfen, können wir lebenslanges Lernen fördern und Menschen ermutigen, intellektuelle Risiken einzugehen und unbekannte Bereiche zu erforschen. Diese Lernenden können den Rahmen binärer Gegensätze überwinden und in interdisziplinären Prozessen vielfältige, grenzenlose Wissensnetzwerke der ⿻ schaffen. Dieses Ideal werden wir im Folgenden näher erläutern.
 
-#### Unendliche Spiele und ⿻ Bürger:innen
+### Unendliche Spiele und ⿻ Bürger:innen
 
 Der Geist des "Edutainment" verwebt das Streben nach Wissen mit dem Teilen von Freude. Mit unendlichen Kombinationsmöglichkeiten eröffnen sich zahllose Chancen für die gemeinsame Schaffung innovativen Denkens. Übertragen  wir diese Perspektive in den Kontext des kollaborativen Lernens, wird deutlich, dass wahrhaft freudvolles Lernen eher ein Prozess unendlicher Kombinationen ist. Es ist nicht auf enge Bewertungskriterien beschränkt, sondern ermutigt die Lernenden, sich von festgefahrenen Denkmustern zu lösen. Durch die Verflechtung vielfältiger Perspektiven entstehen kontinuierlich neue Erkenntnisse.
 
@@ -88,7 +88,7 @@ Andersons Analyse unterstreicht die Bedeutung von Narrativen und Diskursen bei d
 
 Gesellschaftliche, staatliche und kapitalistische Werte basieren oft auf kollektiven Abhängigkeiten – elterliche Erwartungen, partnerschaftliche Ansprüche, Gruppendruck sowie rationale und irrationale Selbsteinschätzungen. Diese sollten jedoch nicht zum alleinigen Maßstab für persönliches Wachstum und Lernen werden. Taylor Swifts Botschaft in ihrer Rede an der New York University – mutig die Person zu werden, die man im Herzen sein möchte – ermutigt zu einer natürlichen Selbstentdeckung[^NYU2022]. Sie befürwortet eine offene, vielfältige Lernreise, die die Freude am Lernen bewahrt und Menschen zur Erkundung antreibt.
 
-[^NYU2022]: https://www.youtube.com/watch?v=OBG50aoUwlI
+[^NYU2022]:https://www.youtube.com/watch?v=OBG50aoUwlI
 
 Die im Gruppenleben erworbenen Kenntnisse und Fähigkeiten, wie zum Beispiel schulische Etikette, sind wesentliche Werkzeuge für zwischenmenschliche Interaktionen, die Achtung der Menschenrechte, das Verständnis von Freiheit und Vielfalt sowie die Bewältigung verschiedener Situationen nach dem Schulabschluss, am Arbeitsplatz und im Leben allgemein. Dies verdeutlicht, dass Lernen nicht nur ein Prozess der Wissensanhäufung ist, sondern auch ein komplexer Vorgang zur "Identitätsfindung und des Aufbaus eines Gemeinschaftsgefühls". Ein anschauliches Beispiel hierfür ist die Amateurfunk-Gemeinschaft. Ihre bedeutenden Beiträge zur Wissenschaft, Industrie, zu sozialen Diensten und zur Satellitenkommunikation basieren auf der Freude am Lernen und einem ausgeprägten Gemeinschaftssinn.
 
