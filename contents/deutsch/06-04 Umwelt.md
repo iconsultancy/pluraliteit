@@ -56,7 +56,9 @@ Ziel ist es, dass diese Gemeinschaften von passiven Forschungsobjekten zu aktive
 
 ### Gespräche mit der Natur
 
-In den letzten Jahren ist eine wachsende Bewegung zu beobachten, die fließenden Gewässern eine "natürliche Rechtspersönlichkeit" zuspricht. Zu diesen Wasserläufen mit eigenen Rechten und ernannten Wächtern und Wächterinnen gehören der Magpie River (Muteshekau Shipu) in Kanada, der Whanganui in Neuseeland sowie die Flüsse Ganga und Yamuna in Indien. Dies impliziert eine gemeinsame Verpflichtung, diese Ökosysteme für künftige Generationen zu erhalten.
+In den letzten Jahren ist eine wachsende Bewegung zu beobachten, die fließenden Gewässern eine "natürliche Rechtspersönlichkeit" zuspricht. Zu diesen Wasserläufen mit eigenen Rechten und ernannten Wächtern und Wächterinnen gehören der Magpie River ([Muteshekau Shipu](https://nonprofitquarterly.org/environmental-personhood-a-radical-approach-to-climate-justice/#:~:text=In%202021%2C%20the%20Canadian%20government,and%20the%20rights%20of%20nature.)) in Kanada, der [Whanganui](https://apnews.com/article/religion-sacred-rivers-new-zealand-86d34a78f5fc662ccd554dd7f578d217) in Neuseeland, sowie die Flüsse Ganga und [Yamuna](https://www.sierraclub.org/sierra/india-s-yamuna-river-now-enjoys-legal-personhood-will-be-enough-clean-it) in Indien.[^rivers] Dies impliziert eine gemeinsame Verpflichtung, diese Ökosysteme für künftige Generationen zu erhalten.
+
+[^rivers]: Mihnea Tanasescu, "When a River is a Person: From Ecuador to New Zealand, Nature Gets its Day in Court", *Open Rivers* 8, Fall 2017 at https://openrivers.lib.umn.edu/article/when-a-river-is-a-person-from-ecuador-to-new-zealand-nature-gets-its-day-in-court.
 
 Mithilfe Generativer Basismodelle (GFMs) können Datenkoalitionen gemeinsam erhobene Umweltdaten in Werkzeuge transformieren, die eine Art "Kommunikation" mit der Natur ermöglichen. Diese können als wertvolle Werkzeuge für den Wissensaustausch und die kollektive Problemlösung komplexer, grenzüberschreitender Herausforderungen dienen. Zur Förderung der  Nachhaltigkeit in der Umwelt erweisen sich GFMs als neues Modell für die Koexistenz zwischen Technologie und Mensch.
 
