@@ -29,18 +29,20 @@ Natürlich sind auch wir Menschen nicht immun gegen die Auswirkungen dieser Umwe
 
 Daten zu Klima, Luftqualität und Wasser werden oft von staatlichen Stellen erhoben und gepflegt. Diese Informationen sind wertvolle Ressourcen, die im internationalen Austausch allen Beteiligten zugutekommen. Umweltbewusstsein ist zu einer besonderen Triebfeder bei der Umsetzung der UN-Ziele für nachhaltige Entwicklung geworden, das von Open-Data-Organisationen und Umweltgruppen vorangetrieben wird. Die zivilgesellschaftliche Technologiebewegung hat einen neuen Raum für digitales soziales Engagement eröffnet. Sie stellt nicht nur einfach Werkzeuge zur Verfügung, sondern unterstützt die Zivilgesellschaft aktiv bei der Zusammenarbeit mit der Regierung, um mehr Umweltwissen zu schaffen. Dieses Wissen kann dann zu einer öffentlichen Bewegung entwickelt werden, die die Interessen mehrerer Parteien koordiniert.
 
-In Taiwan nutzen gewöhnliche Bürger:innen das Location Aware Sensor System (LASS), ein offenes Netzwerk zur Umweltdatenerfassung, um selbständig und frei Informationen zu sammeln und zu teilen. Es entwickelt sich so zu einem Modell der digitalen Kommunikation, das lokales Wissen – in der Form von Bürgerwissenschaft (citizen science) – einbezieht. Anstatt sich auf behördliche Organisationen zu verlassen, um die öffentliche Wahrnehmung zu schärfen, setzt LASS auf direktes Handeln und erweitert  die Werte der Gemeinschaft um die Sorge für die Umwelt.
+In Taiwan nutzen gewöhnliche Bürger:innen das [Location Aware Sensor System](https://directory.civictech.guide/listing/location-aware-sensing-system-lass-environmental-sensor-network) (LASS), ein offenes Netzwerk zur Umweltdatenerfassung, um selbständig und frei Informationen zu sammeln und zu teilen. Es entwickelt sich so zu einem Modell der digitalen Kommunikation, das lokales Wissen – in der Form von Bürgerwissenschaft (citizen science) – einbezieht. Anstatt sich auf behördliche Organisationen zu verlassen, um die öffentliche Wahrnehmung zu schärfen, setzt LASS auf direktes Handeln und erweitert  die Werte der Gemeinschaft um die Sorge für die Umwelt.
 
 Diese Form der Bürgerwissenschaft, die Messungen von Luft, Wäldern und Flüssen umfasst, basiert auf dem Prinzip des Open-Source-Engagements. Sie trägt zur "Civil IoT"-Datenkoalition bei, die landesweit alle 3 bis 5 Minuten aktualisierte Messdaten in Echtzeit bereitstellt. Diese Daten dienen als gemeinsame Grundlage für Aktivist:innen und erleichtern die Entwicklung, Prüfung und Verbreitung von Lösungsansätzen.
 
 Datenkoalitionen sind eng mit bürgerinitiierten Technologien verknüpft, die aus sozialen Bewegungen hervorgehen. Weltweit sind zahlreiche Hackathon-Netzwerke entstanden, die mehrere Funktionen erfüllen:
-Sie dienen als sich gegenseitig unterstützende Plattformen für Mobilität.
-Sie fungieren als technologische Brücke zwischen natürlichen Umgebungen und Freiwilligen.
-Sie erleichtern kollektives Handeln auf globaler Ebene.
+
+- Sie dienen als sich gegenseitig unterstützende Plattformen für Mobilität.
+- Sie fungieren als technologische Brücke zwischen natürlichen Umgebungen und Freiwilligen.
+- Sie erleichtern kollektives Handeln auf globaler Ebene.
 
 Diese kollaborativen Netzwerke gehen über das bloße Sammeln von Informationen und die Neugestaltung von Werten hinaus. Sie zielen darauf ab, gemeinschaftliche Wissenssysteme zu gründen und Umweltgerechtigkeit zu fördern.
 
-Bevor der Naturschutz zu einem weit verbreiteten Konzept wurde, betrachteten konservative Denker wie Edmund Burke kommunale Gruppen als "kleine Platoons" – als soziale Bindeglieder zwischen Individuen und Staat. Effektive Kommunikation und Kultivierung lokaler Initiativen sind besonders wichtig, da Umweltprobleme oft die Schwächsten zuerst und am härtesten treffen. Betroffen sind insbesondere Familien mit niedrigem Einkommen und indigene Gemeinschaften.
+Bevor der Naturschutz zu einem weit verbreiteten Konzept wurde, betrachteten konservative Denker wie Edmund Burke kommunale Gruppen als "kleine Platoons" – als soziale Bindeglieder zwischen Individuen und Staat.
+[^Burke] Effektive Kommunikation und Kultivierung lokaler Initiativen sind besonders wichtig, da Umweltprobleme oft die Schwächsten zuerst und am härtesten treffen. Betroffen sind insbesondere Familien mit niedrigem Einkommen und indigene Gemeinschaften.
 
 Entscheidend sind Gesetzgebung und Politik, um sicherzustellen, dass die Mitglieder dieser Gemeinschaften gleichberechtigt an drei Kernprozessen beteiligt werden:
 
@@ -48,7 +50,9 @@ Entscheidend sind Gesetzgebung und Politik, um sicherzustellen, dass die Mitglie
 - Zuweisung von Mitteln
 - Umsetzung von Maßnahmen
 
-Ziel ist es, dass diese Gemeinschaften von passiven Forschungsobjekten zu aktiven, datenbasierten Akteuren transformiert werden. 
+Ziel ist es, dass diese Gemeinschaften von passiven Forschungsobjekten zu aktiven, datenbasierten Akteuren transformiert werden.
+
+[^Burke]: Edmund Burke, *Reflections on the Revolution in France and on the Proceedings in Certain Societies in London Relative to that Event* (London: James Dodley, 1790).
 
 ### Gespräche mit der Natur
 
