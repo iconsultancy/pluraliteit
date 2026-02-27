@@ -10,8 +10,8 @@ Mit der Verbreitung des Internets haben sich kollaborative Lernumgebungen zunehm
 
 [^OnlineEdu2032]: https://www.renub.com/online-education-market-p.php
 [^OECD]: https://www.oecd-ilibrary.org/education/oecd-skills-outlook-2023\_27452f29-en
-[^EEgrowth]: Economist Eric Hanushek's [research](https://www.educationnext.org/education-and-economic-growth/) shows that in developing countries, for each standard deviation increase in cognitive skills, the long-term economic growth rate can increase by 2 percentage points. This means that the impact of improving education quality on economic growth is even greater than years of schooling.
-[^RofCSE]: [Eric A. Hanushek and Ludger Woessmann's paper](https://www.aeaweb.org/articles?id=10.1257/jel.46.3.607), published in the 2008 Journal of Economic Literature, analyzed the relationship between cognitive skills and economic growth in 50 countries and found a significant positive correlation between the two.
+[^EEgrowth]: Die [Forschung](https://www.educationnext.org/education-and-economic-growth/) des Ökonomen Eric Hanushek zeigen, dass in Entwicklungsländern jede Standardabweichung bei den kognitiven Fähigkeiten die langfristige Wirtschaftswachstumsrate um 2 Prozentpunkte erhöhen kann. Dies bedeutet, dass die Auswirkungen einer Verbesserung der Bildungsqualität auf das Wirtschaftswachstum noch größer sind als die Anzahl der Schuljahre.
+[^RofCSE]: [Eric A. Hanushek und Ludger Woessmann](https://www.aeaweb.org/articles?id=10.1257/jel.46.3.607) untersuchten in ihrer 2008 im Journal of Economic Literature veröffentlichten Arbeit den Zusammenhang zwischen kognitiven Fähigkeiten und Wirtschaftswachstum in 50 Ländern und fanden eine signifikante positive Korrelation zwischen beiden.
 
 Dieses Kapitel zeigt auf, wie Gemeinschaften befähigt werden können, starre Lehrmodelle zu überwinden und sich an das ⿻-Umfeld des lebenslangen Lernens anzupassen. Durch unterhaltsame, gemeinschaftliche Problemlösungen und zielorientierte Projekte können wir kulturelle Gräben überbrücken.
 
