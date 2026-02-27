@@ -46,14 +46,13 @@ Das mobile Hochschulbildungssystem Minerva[^Minerva] sprengt die Grenzen des tra
 [^Minerva]: https://www.minerva.edu/
 [^WURI]: https://www.wuri.world/2023-global-top-100
 
-Die Zusammenarbeit im Bereich der Bürgertechnologien, die in der dynamischen taiwanesischen Technologiegesellschaft praktiziert wird (siehe Kapitel 2-2 "Das Leben einer digitalen Demokratie"), hat auch das Open-Source-Projekt "Moedict" hervorgebracht. An diesem Projekt sind Lehrende, Lernende und Eltern beteiligt, die durch praktische Anwendung lernen. Dieser Dienst hat:
-160.000 Mandarin-Einträge
-20.000 Taiwanesisch-Einträge
-14.000 Hakka-Einträge
+Die Zusammenarbeit im Bereich der Bürgertechnologien, die in der dynamischen taiwanesischen Technologiegesellschaft praktiziert wird (siehe Kapitel 2-2 "Das Leben einer digitalen Demokratie"), hat auch das Open-Source-Projekt "Moedict" hervorgebracht[^Moedict]. An diesem Projekt sind Lehrende, Lernende und Eltern beteiligt, die durch praktische Anwendung lernen. Dieser Dienst hat: 160.000 Mandarin-Einträge, 20.000 Taiwanesisch-Einträge und 14.000 Hakka-Einträge. Es handelt sich dabei um ein mehrsprachiges interaktives Online-Wörterbuch, das ein globales und zugleich lokalisiertes Paradigma der "kollaborativen Katalogisierung" darstellt. Es unterstützt nicht nur den Kommunikationsraum einer  breiten Community, sondern dient auch als Plattform für den Austausch zwischen verschiedenen Sprachen und Kulturen.  
 
-Es handelt sich dabei um ein mehrsprachiges interaktives Online-Wörterbuch, das ein globales und zugleich lokalisiertes Paradigma der "kollaborativen Katalogisierung" darstellt. Es unterstützt nicht nur den Kommunikationsraum einer  breiten Community, sondern dient auch als Plattform für den Austausch zwischen verschiedenen Sprachen und Kulturen.  
+Moedict hat den öffentlichen Sektor dazu inspiriert, die "Creative Commons"-Lizenz[^MoeData] aktiv zu übernehmen, was wiederum zur Entwicklung von KI-Modellen wie TAIDE in Taiwan beigetragen hat [^TaideData]. Dieses Projekt zeigt, wie lokale Sprachen und öffentliches Wissen in kollaborative Netzwerke integriert werden können. Die Anwendung eines solchen Open-Source-Paradigmas wie "Moedict" hat bereits vor einem Jahrzehnt enge Verbindungen zu offiziellen Bildungseinrichtungen und Organisationen für soziale Innovation geknüpft. Dies zeigt die Interoperabilität zwischen der Open-Source-Co-Editing-Kultur und dem formalen Bildungssystem.
 
-Moedict hat den öffentlichen Sektor dazu inspiriert, die "Creative Commons"-Lizenz aktiv zu übernehmen, was wiederum zur Entwicklung von KI-Modellen wie TAIDE in Taiwan beigetragen hat. Dieses Projekt zeigt, wie lokale Sprachen und öffentliches Wissen in kollaborative Netzwerke integriert werden können. Die Anwendung eines solchen Open-Source-Paradigmas wie "Moedict" hat bereits vor einem Jahrzehnt enge Verbindungen zu offiziellen Bildungseinrichtungen und Organisationen für soziale Innovation geknüpft. Dies zeigt die Interoperabilität zwischen der Open-Source-Co-Editing-Kultur und dem formalen Bildungssystem.
+[^Moedict]: https://www.moedict.tw/
+[^MoeData]: https://language.moe.gov.tw/001/Upload/Files/site\_content/M0001/respub/index.html
+[^TaideData]: https://taide.tw/index/training-data?type=2
 
 Online-Bibliotheken, Wikipedia und die in Kapitel 3-3 "The Lost Dao" beschriebene gemeinsame Nutzung von Bildern und Texten unter CC-Lizenz sind allesamt wertvolle globale Güter. Sie sind vergleichbar mit Gemeingütern und entstehen auf der Grundlage von Open-Source-Zusammenarbeit. Wie in einem riesigen Weltpark können Werke, die von Bürger:innen aus verschiedenen Ländern und Sprachräumen gemeinsam geschaffen wurden, von einer breiteren Öffentlichkeit verstanden und aktiv gepflegt werden. Dies fördert die Demokratisierung des Wissens und trägt dazu bei, Lücken in der politischen Bildung zu schließen.
 
