@@ -17,9 +17,17 @@ Dieses Kapitel zeigt auf, wie Gemeinschaften befähigt werden können, starre Le
 
 ### Resiliente Lernsysteme
 
-Die globalen PISA- und ICCS-Berichte für 2022 zeigen, dass Taiwan, Japan, Südkorea und Litauen während der Pandemie entgegen dem Trend Fortschritte erzielten und als resiliente Bildungssysteme gelten. In Taiwan sticht besonders das vielfältige Co-Creation-Lehrmodell des Lehrplans für die Grundbildung 2019 hervor. Es kombiniert erfolgreich physische und digitale Lernmittel und betrachtet "Spontaneität, Interaktion und Gemeinwohl" als neue Grundwerte, die ein Bewusstsein für globale nachhaltige Entwicklung fördern.
+Die globalen PISA[^PISA]- und ICCS-Berichte[^ICCS] für 2022 zeigen, dass Taiwan, Japan, Südkorea und Litauen während der Pandemie entgegen dem Trend Fortschritte erzielten und als resiliente Bildungssysteme gelten[^EdResilience]. In Taiwan sticht besonders das vielfältige Co-Creation-Lehrmodell des Lehrplans für die Grundbildung 2019 hervor. Es kombiniert erfolgreich physische und digitale Lernmittel und betrachtet "Spontaneität, Interaktion und Gemeinwohl" als neue Grundwerte, die ein Bewusstsein für globale nachhaltige Entwicklung fördern.[^EdSDGs].
 
-Ein Beispiel für diesen innovativen Ansatz ist die "Chenyuluoyan"-Schriftart auf dem Umschlag dieses Buches. Sie entstand als autonomes Lernprojekt zweier Gymnasiast:innen, das soziale Netzwerke und kollaboratives Teamlernen nutzte. Diese unabhängige Entwicklung verkörpert den Geist der Open-Source-Zusammenarbeit, die von individuellen Interessen ausgeht. Im offenen Austausch entfalten sich Wissen und Kreativität im Lernprozess und inspirieren weitere Teilnehmer:innen.
+[^ICCS]: https://www.iea.nl/studies/iea/iccs/2022
+[^PISA]: https://www.oecd.org/pisa/ & https://focustaiwan.tw/culture/202312060017
+[^EdResilience]: https://www.cna.com.tw/news/ahel/202312050365.aspx
+[^EdSDGs]: https://en.rti.org.tw/news/view/id/2010665
+
+Ein Beispiel für diesen innovativen Ansatz ist die "Chenyuluoyan"-Schriftart[^Font] auf dem Umschlag dieses Buches. Sie entstand als autonomes Lernprojekt zweier Gymnasiast:innen, das soziale Netzwerke und kollaboratives Teamlernen nutzte. Diese unabhängige Entwicklung verkörpert den Geist der Open-Source-Zusammenarbeit, die von individuellen Interessen ausgeht. Im offenen Austausch entfalten sich Wissen und Kreativität im Lernprozess und inspirieren weitere Teilnehmer:innen.[^FontBlog].
+
+[^Font]: https://github.com/Chenyu-otf/chenyuluoyan\_thin
+[^FontBlog]: https://blog.luckertw.com/chenyuluoyan-interview/
 
 Während Bildungseinrichtungen des letzten Jahrhunderts oft auf Auswendiglernen und detailliertem Erinnern basierten und der Mangel an offenen Inhalten Problemlösung und Teamarbeit fragmentierte, haben sich mit dem Aufkommen der experimentellen Bildung in verschiedenen Ländern selbstorganisierte Lernmodelle entwickelt. Diese fördern sowohl kritisches Denken als auch zwischenmenschliche Kommunikationsfähigkeiten. Diese Fähigkeiten schließen sich nicht gegenseitig aus, sondern ergänzen sich gegenseitig, und mithilfe der ⿻-Technologie überwinden sie ideologische Grenzen und stärken die soziale Resilienz.
 
