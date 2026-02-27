@@ -43,7 +43,7 @@ Vom europäischen Modell hat es den Schwerpunkt auf Menschenrechte und Demokrati
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Taiwanpolicymodel.png" width="100%" alt="Figure shows reshaped flags of the People's Republic of China, the United States of America and the European Union as if they were continental shelves, intersecting at a central island of Taiwan, topped by Yushan.  The PRC is symbolized by a puppeteer, the US by a child running wild, and Europe by a traffic cop.  Taiwan, in the center, is symbolized by people collaborating.">
 
-**<figcaption>Abbildung 2-0-A. Veranschaulichung, wie sich das taiwanesische Politikmodell aus der Schnittmenge konkurrierender Alternativen der VR China, USA und EU ergibt. Quelle: Von den Autoren erstellt, unter Verwendung von Logos aus dem Noun Project von Gan Khoon Lay, Alexis Lilly, Adrien Coquet und Rusma Trari Handini unter CC BY 3.0 auf https://thenounproject.com/.   </figcaption>**
+**<figcaption>Abbildung 2-0-A. Veranschaulichung, wie sich das taiwanesische Politikmodell aus der Schnittmenge konkurrierender Alternativen der VR China, USA und EU ergibt. Quelle: Von den Autoren erstellt, unter Verwendung von Logos aus dem Noun Project von Gan Khoon Lay, Alexis Lilly, Adrien Coquet und Rusma Trari Handini unter CC BY 3.0 aus dem [Noun Project](https://thenounproject.com/).   </figcaption>**
 
 </figure>
 <br></br>
