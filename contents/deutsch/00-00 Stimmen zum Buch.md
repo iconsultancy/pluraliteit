@@ -2,7 +2,11 @@
 
 ## Stimmen aus dem deutschsprachigen Raum
 
-> „Ob digitale Technologien zu einem Gehäuse der Hörigkeit beitragen oder Freiheit und Demokratie fördern, das ist eine zentrale Frage in der Auseinandersetzung mit autoritären Kräften. Dieses Buch skizziert, gestützt auf praktische Erfahrungen in Taiwan, Strategien und Lösungen, die auch für den deutschsprachigen Raum erschlossen werden sollten.“<br></br> - [Reinhard Bütikofer](https://de.wikipedia.org/wiki/Reinhard_B%C3%BCtikofer), Ko-Vorsitzender der [Deutsch-Taiwanischen-Dialogplattform](https://dtdp.de/), ehemaliges Mitglied des Europäischen Parlaments
+> „Silicon Valley fragt: Was kann Technologie? Plurality fragt: Was sollte Technologie für uns alle tun? Audrey Tang und Glen E. Weyl bauen mit diesem Buch genau die Brücke, die wir brauchen – zwischen technischer Innovation und menschlicher Verantwortung, zwischen Individualismus und Gemeinschaft. It's all about trust – und Plurality zeigt, wie wir dieses Vertrauen technologisch einlösen können."<br></br>– Jutta Juliane Meier, Gründerin & CEO, Identity Valley
+
+<br></br>
+
+>„Ob digitale Technologien zu einem Gehäuse der Hörigkeit beitragen oder Freiheit und Demokratie fördern, das ist eine zentrale Frage in der Auseinandersetzung mit autoritären Kräften. Dieses Buch skizziert, gestützt auf praktische Erfahrungen in Taiwan, Strategien und Lösungen, die auch für den deutschsprachigen Raum erschlossen werden sollten.“<br></br> - [Reinhard Bütikofer](https://de.wikipedia.org/wiki/Reinhard_B%C3%BCtikofer), Ko-Vorsitzender der [Deutsch-Taiwanischen-Dialogplattform](https://dtdp.de/), ehemaliges Mitglied des Europäischen Parlaments
 
 <br></br>
 
