@@ -2,7 +2,7 @@
 
 ## Stimmen aus dem deutschsprachigen Raum
 
-> „Silicon Valley fragt: Was kann Technologie? Plurality fragt: Was sollte Technologie für uns alle tun? Audrey Tang und Glen E. Weyl bauen mit diesem Buch genau die Brücke, die wir brauchen – zwischen technischer Innovation und menschlicher Verantwortung, zwischen Individualismus und Gemeinschaft. It's all about trust – und Plurality zeigt, wie wir dieses Vertrauen technologisch einlösen können."<br></br>– Jutta Juliane Meier, Gründerin & CEO, Identity Valley
+> „Silicon Valley fragt: Was kann Technologie? Plurality fragt: Was sollte Technologie für uns alle tun? Audrey Tang und Glen E. Weyl bauen mit diesem Buch genau die Brücke, die wir brauchen – zwischen technischer Innovation und menschlicher Verantwortung, zwischen Individualismus und Gemeinschaft. It's all about trust – und Plurality zeigt, wie wir dieses Vertrauen technologisch einlösen können."<br></br>– [Jutta Juliane Meier](https://www.linkedin.com/in/juttajulianemeier?utm_source=share_via&utm_content=profile&utm_medium=member_ios), Gründerin & CEO, [Identity Valley](https://identityvalley.eu/)
 
 <br></br>
 
