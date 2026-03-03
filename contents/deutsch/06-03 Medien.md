@@ -38,11 +38,14 @@ Diese Entwicklungen könnten unsere Fähigkeit zur Empathie und zum Verständnis
 Einer der bedeutendsten Trends des journalistischen Schaffens im Internetzeitalter ist der Aufstieg des sogenannten „Bürgerjournalismus“ und der verwandten „Open-Source-Intelligence“-Bewegung. Beide Ansätze zielen darauf ab, eine wesentlich breitere Vielfalt von Menschen zu befähigen, wichtige Ereignisse in ihrer Umgebung zu dokumentieren – weit über den Kreis der professionell tätigen Medienschaffenden oder der für Geheimdienste tätigen Fachleute hinaus.
 
 Diese Form des Journalismus hat bei der Dokumentation vieler bedeutender Ereignisse der letzten Jahre eine zentrale Rolle gespielt, von terroristischen Anschlägen über Kriege bis hin zu Fällen von Polizeigewalt. Allerdings sieht sie sich auch erheblicher Kritik und gesellschaftlichen Bedenken ausgesetzt, insbesondere in Bezug auf:
-Mögliche Voreingenommenheit
-Die Sorgfalt der Faktenüberprüfung
-Lesbarkeit und Verständlichkeit der Berichterstattung
+
+- Mögliche Voreingenommenheit
+- Die Sorgfalt der Faktenüberprüfung
+- Lesbarkeit und Verständlichkeit der Berichterstattung
 
 Es ist offensichtlich, wie viele der jüngsten technologischen Entwicklungen diese Problematik erheblich verschärfen könnten. Generative Basismodelle (GFMs) werden die Herstellung realistischer Fälschungen deutlich erleichtern und das Misstrauen gegenüber jeglichem Material erhöhen, das nicht rigoros und mehrfach validiert wurde. Die Echokammern der antisozialen Medien könnten die Verbreitung solcher Fälschungen auch ohne gründliche Überprüfung begünstigen. Sie tun dies, indem sie irreführende Inhalte multiplizieren und ein Umfeld – in der Art von Echokammern – schaffen, in dem Menschen eher geneigt sind, diesen Falschinformationen Glauben zu schenken.
+
+
 
 Es gibt jedoch auch gute anschauliche Beispiele dafür, wie Technologie diese Herausforderungen ausgleichen könnte. Wikipedia hat gezeigt, wie schnell und umfassend große Beteiligung einfache, weitgehend übereinstimmende Einschätzungen zu vielen Ereignissen hervorbringen kann – wenn auch noch nicht in der für den Journalismus erforderlichen Geschwindigkeit. Viele der zuvor beschriebenen und im Folgenden näher erläuterten Tools können dazu beitragen, die Herausforderungen einer strengen Überprüfung über große Distanzen hinweg und in großem Maßstab zu bewältigen. Sie ermöglichen es, schnell einen einfachen und sozial kontextbezogenen Konsens zu erreichen, der einen angemesseneren Rahmen schafft, um auch über „Objektivität“ nachzudenken.
 
