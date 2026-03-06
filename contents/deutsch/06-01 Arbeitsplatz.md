@@ -90,7 +90,7 @@ Besprechungen sind ein zentraler Bestandteil der Büroarbeit und beanspruchen im
 
 Es gibt eine Vielzahl von Zielen und Strukturen für Besprechungen, aber die vielleicht häufigste Form ist der Versuch, verschiedene Perspektiven zu einem gemeinsamen Projekt auszutauschen, um eine Abstimmung und Zuweisung von Verantwortlichkeiten zu erreichen. Solche Meetings weisen enge Parallelen zu den deliberativen Gesprächen auf, die wir in unserem Kapitel über [Augmented Deliberation (Erweiterte Meinungsbiludng)](https://www.plurality.net/v/chapters/5-4/de/?mode=dark).vorgestellt haben.
 
-Ein wichtiger Grund für die anhaltende Verbreitung synchroner Besprechungen trotz des Aufschwungs asynchroner Kommunikation über Dienste wie Slack, Teams und Trello ist, dass asynchrone Dialoge oft unter einem Mangel an gut durchdachtem Zeit- und Aufmerksamkeitsmanagement leiden, das für den Erfolg synchroner Besprechungen entscheidend ist.
+Ein wichtiger Grund für die anhaltende Verbreitung synchroner Besprechungen trotz des Aufschwungs asynchroner Kommunikation über Dienste wie [Slack](https://slack.com/), [Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) und [Trello](https://trello.com/) ist, dass asynchrone Dialoge oft unter einem Mangel an gut durchdachtem Zeit- und Aufmerksamkeitsmanagement leiden, das für den Erfolg synchroner Besprechungen entscheidend ist.
 
 Ansätze wie Polis, Remesh, All Our Ideas und ihre zunehmend ausgefeilten, auf Large Language Models (LLM) basierenden Erweiterungen versprechen, dies deutlich zu verbessern. Sie ermöglichen mehr und mehr einen asynchronen Informationsaustausch, der respektvoll, inkludierend und informativ ist und eine deutlich größere Anzahl von Teilnehmer:innen einbezieht.
 
