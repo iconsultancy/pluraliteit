@@ -40,7 +40,7 @@ Virtuelle Welten fördern die Teamkreativität durch mehrere Faktoren: Sie biete
 
 Teams, die sich persönlich treffen, nehmen oft an einer Vielzahl gemeinsamer Lernaktivitäten oder anderen nicht unmittelbar produktiven Tätigkeiten teil. Sie stärken das Vertrauen, den Zusammenhalt und den Teamgeist . Das Spektrum reicht von zwanglosen Mittagessen bis hin zu verschiedenen Arten extremer Teamsportarten. Beispiele hierfür sind:
 
-- Vertrauensfall (Trust falls)
+- Vertrauensfall (Trust falls)[^TrustFall]
 - Simulierte militärische Übungen
 - Hochseilgärten usw.
 
