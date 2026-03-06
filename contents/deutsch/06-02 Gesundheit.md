@@ -1,6 +1,6 @@
 # Gesundheit
 
-In den letzten 75 Jahren hat die Menschheit ihre weltweite Lebenserwartung um 25 Jahre erhöht – eine bemerkenswerte Steigerung im Vergleich zu den vorangegangenen 10.000 Jahren. Diese Fortschritte wurden durch ein einheitliches, auf einzelne Bausteine fokussiertes (atomistisches) Modell von Gesundheit und Gesundheitswesen erreicht, wie wir im Kapitel „Leben in einer ⿻-Welt“ erklärt haben.
+In den letzten 75 Jahren hat die Menschheit ihre weltweite Lebenserwartung um 25 Jahre erhöht – eine bemerkenswerte Steigerung im Vergleich zu den vorangegangenen 10.000 Jahren. Diese Fortschritte wurden durch ein einheitliches, auf einzelne Bausteine fokussiertes (atomistisches) Modell von Gesundheit und Gesundheitswesen erreicht, wie wir im Kapitel  [„Leben in einer ⿻-Welt“](https://www.plurality.net/v/chapters/3-1/de/) erklärt haben.
 
 Solche Modelle, wie beispielsweise die „Tropenmedizin“, wurden im Laufe der Jahrhunderte imperialer und kolonialer Herrschaft entwickelt und verfeinert. Ihre weltweite Umsetzung beschleunigte sich jedoch rapide nach der Gründung der Vereinten Nationen. Zu den Errungenschaften zählen:
 
@@ -11,19 +11,21 @@ Solche Modelle, wie beispielsweise die „Tropenmedizin“, wurden im Laufe der 
 
 Eine vielleicht noch dramatischere Veranschaulichung dieses Modells war die Reaktion auf COVID-19: Innerhalb von nur zwei Jahren nach dem Auftreten des Virus hatten bereits 70% der Weltbevölkerung mindestens eine Impfdosis erhalten.
 
-Trotz der bisherigen Erfolge stagnieren Fortschritte bei den gesundheitsbezogenen Zielen für nachhaltige Entwicklung (SDGs) oder kehren sich sogar um.
+Trotz der bisherigen Erfolge stagnieren Fortschritte bei den gesundheitsbezogenen Zielen für nachhaltige Entwicklung (SDGs) oder kehren sich sogar um[^UnitedNations].
 
-- Die Hälfte der Weltbevölkerung hat keinen Zugang zu grundlegenden Gesundheitsdiensten.
-- Gesundheitsausgaben, die in Armut stürzen, betreffen jedes Jahr Hunderte Millionen Menschen.
-- Psychische Gesundheitsdienste sind weltweit stark unterentwickelt.
-- Nicht übertragbare Krankheiten verursachen die Hälfte der vorzeitigen Todesfälle und kosten jährlich mehr als 2 Billionen Dollar.
-- In einigen Ländern haben weniger als 3% der Bevölkerung Zugang zu grundlegenden Hilfsmitteln wie Rollstühlen, Gehhilfen, Blindenstöcken, Prothesen, Brillen und Hörgeräten.
+- Die Hälfte der Weltbevölkerung hat keinen Zugang zu grundlegenden Gesundheitsdiensten[^TrackingUniversalHealthCoverage2023MonitoringReport].
+- Gesundheitsausgaben, die in Armut stürzen, betreffen jedes Jahr Hunderte Millionen Menschen[^TrackingUniversalHealthCoverage2023MonitoringReport].
+- Psychische Gesundheitsdienste sind weltweit stark unterentwickelt[^WorldMentalHealthReport2022].
+- Nicht übertragbare Krankheiten verursachen die Hälfte der vorzeitigen Todesfälle[^WHONCDs] und kosten jährlich mehr als 2 Billionen Dollar[^NCDAlliance].
+- In einigen Ländern haben weniger als 3% der Bevölkerung Zugang zu grundlegenden Hilfsmitteln wie Rollstühlen, Gehhilfen, Blindenstöcken, Prothesen, Brillen und Hörgeräten[^WHOAssistive].
 
 Wenn es uns gelingt, diese sozialen und intersubjektiven Gesundheitsbedrohungen – gemeint sind Gesundheitsrisiken, die von einer Gemeinschaft wahrgenommen und als Bedrohung für die Gesundheit erkannt werden – ebenso effektiv anzugehen wie mit dem atomistischen Modell, könnten wir die Lebenserwartung der Menschen im kommenden Jahrhundert leicht um weitere 20 Jahre steigern.
 
-Um dieses Ziel zu erreichen, muss ein ⿻-Gesundheitskonzept entwickelt werden (Abbildung A). Zweifellos benötigt die Welt weiterhin Ärzt:innen, Pflegekräfte, Gesundheitseinrichtungen, Labore, Impfstoffe, Medikamente und medizinische Geräte. Aber sie muss auch die Ko-Konstruktion gesundheitlicher Handlungsfähigkeit durch Individuen und ihre Gemeinschaften stärken – ein Begriff, den Jennifer Prah Ruger verwendet, um die Förderung der individuellen Fähigkeiten zu beschreiben, im Hinblick auf die eigene Gesundheit im eigenen Interesse handeln zu können..
+---
 
-Gesundheitliche Handlungsfähigkeit wird dabei zurecht als dynamisch entstehend, vielschichtig, eingebettet in andere Kontexte und komplex verstanden (siehe unser Kapitel „Leben in einer ⿻ -Welt“). Aus dieser Perspektive, und wie wir im Folgenden zeigen werden, sind die zentralen Hindernisse auf dem Weg zur nächsten großen Ära der menschlichen Lebensverlängerung:
+Um dieses Ziel zu erreichen, muss ein ⿻-Gesundheitskonzept entwickelt werden (Abbildung A). Zweifellos benötigt die Welt weiterhin Ärzt:innen, Pflegekräfte, Gesundheitseinrichtungen, Labore, Impfstoffe, Medikamente und medizinische Geräte. Aber sie muss auch die Ko-Konstruktion gesundheitlicher Handlungsfähigkeit durch Individuen und ihre Gemeinschaften stärken – ein Begriff, den Jennifer Prah Ruger verwendet, um die Förderung der individuellen Fähigkeiten zu beschreiben, im Hinblick auf die eigene Gesundheit im eigenen Interesse handeln zu können[^PrahRuger].
+
+Gesundheitliche Handlungsfähigkeit wird dabei zurecht als dynamisch entstehend, vielschichtig, eingebettet in andere Kontexte und komplex verstanden (siehe unser Kapitel [„Leben in einer ⿻-Welt“](https://www.plurality.net/v/chapters/3-1/de/)). Aus dieser Perspektive, und wie wir im Folgenden zeigen werden, sind die zentralen Hindernisse auf dem Weg zur nächsten großen Ära der menschlichen Lebensverlängerung:
 
 1. Fehlende Finanzierung
 2. Fehlende Märkte
