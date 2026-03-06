@@ -44,7 +44,7 @@ Teams, die sich persönlich treffen, nehmen oft an einer Vielzahl gemeinsamer Le
 - Simulierte militärische Übungen
 - Hochseilgärten usw.
 
-Was diese Aktivitäten eint, ist die Schaffung einer gemeinsamen Erfahrung, von der alle Mitglieder profitieren. Dies trägt wesentlich zur Entwicklung von Vertrauen untereinander bei. Dieser Prozess ähnelt dem, was wir im Kapitel über Post-Symbolische Kommunikation diskutiert haben: die Entwicklung starker und dauerhafter kooperativer Bindungen beim gemeinsamen Militärdienst.
+Was diese Aktivitäten eint, ist die Schaffung einer gemeinsamen Erfahrung, von der alle Mitglieder profitieren. Dies trägt wesentlich zur Entwicklung von Vertrauen untereinander bei. Dieser Prozess ähnelt dem, was wir im Kapitel über [Post-Symbolische Kommunikation](https://www.plurality.net/v/chapters/5-1/eng/?mode=dark) diskutiert haben: die Entwicklung starker und dauerhafter kooperativer Bindungen beim gemeinsamen Militärdienst.
 
 Viele dieser teambildenden Aktivitäten sind derzeit stark von der persönlichen Anwesenheit abhängig. Dies stellt hybride und vollständig remote arbeitende Teams vor Herausforderungen, insbesondere jene mit vielen Mitgliedern, die „remote” begonnen haben. Sie verpassen entweder die Vorteile solcher Teambildungsmaßnahmen oder können sie nur unter erheblichem Aufwand von Reisekosten realisieren. Hier bietet Immersive Shared Reality (ISR) ein beachtliches Potenzial zur Überwindung dieser Herausforderung.
 
