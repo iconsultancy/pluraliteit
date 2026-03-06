@@ -64,7 +64,9 @@ Genau dies versuchten viele der frühen ⿻ Experimente, die in „[Der verloren
 
 [^Lensman]: Daron Acemoglu and Todd Lensman, *Regulating Tranformative Technologies* (2023) at https://www.nber.org/papers/w31461.
 
-Selbst wenn Technologien erfolgreich im Interesse ihrer primären Nutzer:innengemeinschaften entwickelt werden, können sie erhebliche Auswirkungen auf Außenstehende haben, wenn man alle potenziellen systemischen Schäden berücksichtigt. Die Hauptgefahr besteht darin, dass Technologien als Waffen eingesetzt oder anderweitig von einer Gemeinschaft genutzt werden, um davon auf Kosten anderer zu profitieren. Dieser Effekt tritt häufiger auf, als es zunächst scheinen mag: Selbst scheinbar „hilfreiche“ und „harmlose“ Werkzeuge können der (oft privilegierten) Gemeinschaft, die sie frühzeitig einsetzt, soziale und wirtschaftliche Vorteile verschaffen. Diese Vorteile können dann zur Unterdrückung, Ausgrenzung oder  Kolonialisierung Anderer genutzt werden. Wie Microsoft-Chef Brad Smith wiederholt betont, können die meisten Werkzeuge auch als Waffe benutzt werden.				
+Selbst wenn Technologien erfolgreich im Interesse ihrer primären Nutzer:innengemeinschaften entwickelt werden, können sie erhebliche Auswirkungen auf Außenstehende haben, wenn man alle potenziellen systemischen Schäden berücksichtigt. Die Hauptgefahr besteht darin, dass Technologien als Waffen eingesetzt oder anderweitig von einer Gemeinschaft genutzt werden, um davon auf Kosten anderer zu profitieren. Dieser Effekt tritt häufiger auf, als es zunächst scheinen mag: Selbst scheinbar „hilfreiche“ und „harmlose“ Werkzeuge können der (oft privilegierten) Gemeinschaft, die sie frühzeitig einsetzt, soziale und wirtschaftliche Vorteile verschaffen. Diese Vorteile können dann zur Unterdrückung, Ausgrenzung oder  Kolonialisierung Anderer genutzt werden. Wie Microsoft-Chef Brad Smith wiederholt betont, können die meisten Werkzeuge auch als Waffe benutzt werden[^toolsweapons].
+
+[^toolsweapons]: Brad Smith and Carol Ann Browne, *Tools and Weapons: The Promise and the Peril of the Digital Age* (New York: Penguin, 2019).
 
 Dieser „Wettbewerbseffekt“ bringt gewisse Vorteile mit sich: Er fördert die Einführung und Verbreitung von Technologien in Gemeinschaften, die versuchen, einen Teil der Vorteile dieser Instrumente in ihrer Wettbewerbssituation zu nutzen. Zudem kann er einen Druck erzeugen, die daraus resultierenden Rivalitäten  aufzulösen.
 
@@ -80,7 +82,13 @@ So wird ein ambitioniertes, aber durchaus vernünftiges und klares Bild skizzier
 4. Die Keimzellen sollten aus starken Gemeinschaften bestehen, die über Institutionen verfügen, um mit systemischen Herausforderungen umzugehen und die systemischen Vorteile der Technologie zu fördern.
 5. Die Keimzellen sollten sich untereinander unterscheiden und über lose Kommunikationsnetzwerke miteinander verknüpft sein. Das gewährleistet eine ausgewogene Verbreitung, hilft Konflikte zu vermeiden und beugt unerwünschten Spillover-Effekten vor.
 
-Abbildung 6-0-B. Veranschaulichung des ⿻ Marketingansatzes zur Überbrückung und Bewältigung sozialer Unterschiede.
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Treechart.png" width="100%" alt="Chart shows an organization tree diagram beginning from general audience and flowing through culture, politics, business and research to subcategories.  For culture subcategories are religious and secular, for politics west and rest, for business tech and non-tech and for research science, social science and humanities.">
+
+**<figcaption>Abbildung 6-0-B. Veranschaulichung des ⿻ Marketingansatzes zur Überbrückung und Bewältigung sozialer Unterschiede.</figcaption>**
+
+</figure>
+<br></br>
 
 Obwohl es natürlich unmöglich ist, diese fünf Ziele gleichzeitig zu erreichen, und jedes für sich eine Herausforderung darstellt, bieten sie einen groben „Leitstern“, an dem wir uns bei der Betrachtung der Wirkungsbereiche von ⿻ Pluralität orientieren können. Um zu zeigen, dass der Versuch, diese Ziele zu erreichen, durchaus praktikabel ist, haben wir diese Kriterien bei der Vermarktung des Buches angewandt – ein Ansatz, den wir als „⿻ Marketing“ bezeichnen. Dies umfasste die Auswahl von Empfehlungen, Medienberichterstattung und die Organisation von Veranstaltungen.
 
