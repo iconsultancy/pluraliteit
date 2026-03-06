@@ -100,7 +100,7 @@ Inwieweit dieser Ansatz effektiv war und wie gut wir ihn umgesetzt haben, könne
 
 Betrachten wir zunächst die Frage nach der Größenordnung. Um die Vorteile der ⿻ Technologie innerhalb einer Gemeinschaft (Community) zu realisieren, muss die Gemeinschaft zumindest eine grobe Annäherung an die Vielfalt enthalten, die die Technologie zu umspannen versucht. Hier gibt es drastische Unterschiede zwischen den verschiedenen Technologierichtungen.
 
-Die intimsten Technologien postsymbolischer Kommunikation und geteilter immersiver  Realität können selbst in den kleinsten Gemeinschaften und Beziehungen eine starke Wirkung entfalten. Sie setzen der Skalierung  und der Diversifizierung von Keimzellen nur wenige Grenzen und machen es somit naheliegend, anderen oben genannten Kriterien den Vorrang zu geben.
+Die intimsten Technologien  [postsymbolischer Kommunikation](https://www.plurality.net/v/chapters/5-1/de/?mode=dark) und [geteilter immersiver  Realität](https://www.plurality.net/v/chapters/5-2/de/?mode=dark) können selbst in den kleinsten Gemeinschaften und Beziehungen eine starke Wirkung entfalten. Sie setzen der Skalierung  und der Diversifizierung von Keimzellen nur wenige Grenzen und machen es somit naheliegend, anderen oben genannten Kriterien den Vorrang zu geben.
 
 Am entgegengesetzten Spektrum werden Wahlsysteme und Märkte nur selten in intimen Gemeinschaften genutzt und erfordern eine erhebliche Größe, um relevant zu sein, insbesondere in ihren sozial komplexeren Formen. Dadurch ergeben sich weitaus weniger, dafür ehrgeizigere und potenziell riskante Möglichkeiten zum Einstieg.
 
