@@ -165,7 +165,30 @@ Dies könnte eine inklusivere und repräsentativere Arbeitswelt schaffen, in der
 
 Kurz gesagt, es ist durchaus vorstellbar, eine Zukunft mit echten ⿻-Arbeitsplätzen zu gestalten. Diese würden die Zusammenarbeit über ein breites Spektrum interner und externer Vielfalt hinweg einbeziehen und nutzen, um eine produktivere und inklusivere Zukunft zu erreichen. 
 
-[^Calc]: If, as noted in the chapter, about 50% of formal sector work will be remote and, as in this study, if team-building exercises increase team performance by about 25%, if this applies to about half of formal sector work and if about half the benefit goes into cost, we should expect a gain of about 2% of GDP from improved remote team-building.  If agglomeration benefits are about 12% for work facilities and this applies again to half of formal sector work and can be improved by 50%, again we get 2% of GDP.  If meetings are 25% of formal sector work time and can be improved by 25%, this is about 4% of GDP. Standard economic estimates of the costs of labor search and matching are about 4% of GPD, similar to the cost spent on human resources; if mitigated by 50% this would raise GDP by 2% (not to mention significantly dampen the cost of business cycle unemployment).  Finally, most GDP growth (of roughly 2-3% annually globally) has been traced by economists to technological advance through the research and development of new products, which is now about 80% in the private sector according to the figures we discussed in the introduction.  If the efficiency of this could be increased by a quarter through more flexible intrapreneurship, this could raise global GDP growth annually by half a percent. Cameron Klein, Deborah DiazGranados, Eduardo Salas, Huy Le, Shawn Burke, Rebecca Lyons, and Gerald Goodwin, “Does Team Building Work?” _Small Group Research_ 40, no. 2 (January 16, 2009): 181–222. https://doi.org/10.1177/1046496408328821. Michael Greenstone, Richard Hornbeck, and Enrico Moretti, “Identifying Agglomeration Spillovers: Evidence from Winners and Losers of Large Plant Openings,” _Journal of Political Economy_ 118, no. 3 (June 2010): 536–98. https://doi.org/10.1086/653714.
+[^Calc]: Wenn, wie im Kapitel erwähnt, etwa 50 % der Arbeit im formalen Sektor”remote” erfolgt
+und, wie in dieser Studie, Teambuilding-Übungen die Teamleistung um etwa 25 % steigern,
+wenn dies auf etwa die Hälfte der Arbeit im formalen Sektor zutrifft und wenn etwa die
+Hälfte des Nutzens in die Kosten einfließt, sollten wir einen Gewinn von etwa 2 % des BIP
+aus verbessertem Remote-Teambuilding erwarten. Wenn die Agglomerationsvorteile für Ar-
+beitseinrichtungen etwa 12 % betragen und dies wiederum auf die Hälfte der Arbeit im for-
+mellen Sektor zutrifft und um 50 % verbessert werden kann, erhalten wir wiederum 2 % des
+BIP. Wenn Besprechungen 25 % der Arbeitszeit im formellen Sektor ausmachen und um 25
+% verbessert werden können, entspricht dies etwa 4 % des BIP. Wirtschaftliche Stan-
+dardschätzungen der Kosten für die Suche nach Arbeitskräften und das Matching belaufen
+sich auf etwa 4 % des BIP, ähnlich wie die Kosten für Humanressourcen; bei einer Verringe-
+rung um 50 % würde dies das BIP um 2 % erhöhen (ganz abgesehen davon, dass die Kosten
+der konjunkturbedingten Arbeitslosigkeit erheblich gedämpft würden). Schließlich wird der
+größte Teil des BIP-Wachstums (weltweit etwa 2 bis 3 % pro Jahr) von Ökonomen auf den
+technologischen Fortschritt durch Forschung und Entwicklung neuer Produkte zurückge-
+führt, der nach den in der Einleitung erörterten Zahlen heute zu etwa 80 % im privaten Sek-
+tor liegt. Wenn die Effizienz dieses Bereichs durch flexibleres Intrapreneurship um ein Viertel
+gesteigert werden könnte, könnte dies das globale BIP-Wachstum jährlich um ein halbes Pro-
+zent erhöhen. Cameron Klein, Deborah Diaz-Granados, Eduardo Salas, Huy Le, Shawn
+Burke, Rebecca Lyons, und Gerald Goodwin, „Does Team Building Work? Small Group Re-
+search 40, no. 2 (January 16, 2009): 181–222. https://doi.org/10.1177/1046496408328821.
+Michael Greenstone, Richard Hornbeck, und Enrico Moretti, „Identifying Agglomeration
+Spillovers: Evidence from Win- ners and Losers of Large Plant Openings“, Journal of Politi-
+cal Economy 118, no. 3 (June 2010): 536–98. https://doi.org/10.1086/653714.
 [^Coinbase]: Ellen Huet, “Basecamp Follows Coinbase In Banning Politics Talk at Work,” _Bloomberg_, April 26, 2021, https://www.bloomberg.com/news/articles/2021-04-26/basecamp-follows-coinbase-in-banning-politics-talk-at-work.
 Ibid.
 [^Barrero]: Jose Barrero, Nicholas Bloom, and Steven J. Davis. 2023, “The Evolution of Working from Home,” __Stanford Institute for Economic Policy Research (SIEPR) Working Paper_ no. 23-19 (July 2023): https://siepr.stanford.edu/publications/working-paper/evolution-working-home.
