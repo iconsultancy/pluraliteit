@@ -14,13 +14,15 @@ Die von uns erörterten Fortschritte, die nur eine Auswahl der potenziellen Ausw
 5. Die Unterstützung einer effektiveren Bereitstellung gemeinsamer Unternehmensinfrastrukturen
 6. Eine dynamischere Anpassung an sich verändernde Industriezweige
 
-Unseren Schätzungen zufolge könnten die ersten vier dieser Komponenten das globale Bruttoinlandsprodukt insgesamt um etwa 10% steigern. Die letzte Komponente hat das Potenzial, die jährliche Wachstumsrate des BIP dauerhaft um einen halben Prozentpunkt pro Jahr zu erhöhen.
+Unseren Schätzungen zufolge könnten die ersten vier dieser Komponenten das globale Bruttoinlandsprodukt insgesamt um etwa 10% steigern. Die letzte Komponente hat das Potenzial, die jährliche Wachstumsrate des BIP dauerhaft um einen halben Prozentpunkt pro Jahr zu erhöhen.[^Calc]
+
+---
 
 ### Starke Remote-Teams 
 
 Die COVID-19-Pandemie hat die Arbeitswelt grundlegend verändert und brachte den Wandel, der über Jahrzehnte erwartet wurde innerhalb eines Jahres. Eine wegweisende Studie von Barreto et al. zeigt beispielsweise, dass der Anteil der Arbeit von zu Hause in der amerikanischen Erwerbsbevölkerung von 5% auf über 60% angestiegen ist.
 
-Eine besonders ausgeprägte Manifestation dieses Trends ist der Aufstieg der sogenannten „digitalen Nomaden“. Diese nutzen die zunehmenden Möglichkeiten der Fernarbeit, ständig zu reisen und eine Vielzahl von Remote-Arbeitsplätzen einzunehmen. Programme wie die regionale Initiative für digitale Nomaden in Sardinien oder die E-Staatsbürgerschaft bzw. Gold Card in Estland und Taiwan – letztere besitzt ein Autor dieses Buches – fördern diese Entwicklung.
+Eine besonders ausgeprägte Manifestation dieses Trends ist der Aufstieg der sogenannten „digitalen Nomaden“. Diese nutzen die zunehmenden Möglichkeiten der Fernarbeit, ständig zu reisen und eine Vielzahl von Remote-Arbeitsplätzen einzunehmen. Programme wie die regionale Initiative für digitale Nomaden in Sardinien oder die [E-Staatsbürgerschaft](https://www.e-resident.gov.ee/) and [Gold Card](https://goldcard.nat.gov.tw/en/)in Estland und Taiwan – letztere besitzt ein Autor dieses Buches – fördern diese Entwicklung.
 
 Obwohl es seit dem Ende der Pandemie eine deutliche Rückkehr zur Präsenzarbeit gegeben hat, scheint ein Teil des Wandels von Dauer zu sein. Barreto et al. stellen fest, dass Arbeitnehmer:innen nach der Pandemie durchschnittlich etwa die Hälfte der Woche von zu Hause aus arbeiten möchten und davon überzeugt sind, dass ihre Produktivität unter diesen Rahmenbedingungen ähnlich oder sogar besser ist.
 
