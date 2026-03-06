@@ -146,7 +146,7 @@ Diese Situation war besonders herausfordernd, da viele dieser Investitionen nich
 
 Verschiedene Unternehmen gehen mit dieser Herausforderung unterschiedlich um. Google (jetzt Alphabet) beispielsweise hat seinen Mitarbeitenden traditionell [20% ihrer Zeit](https://en.wikipedia.org/wiki/Side_project_time) zur Verfügung gestellt, damit sie leidenschaftliche Projekte für das Unternehmen außerhalb ihrer primären organisatorischen Rolle verfolgen können[^Google20]. Dies birgt jedoch die offensichtliche Gefahr, dass Einzelpersonen idiosynkratische Projekte verfolgen, die im schlimmsten Fall nicht mit der breiteren Unternehmensmission übereinstimmen und im besten Fall nicht skalierbar sind, da sie nicht genug Leute zusammenbringen, um an einem ehrgeizigen Projekt mitzuarbeiten.
 
-
+[^Google20]: Annika Steiber and Sverker Alänge, "A Corporate System for Continuous Innovation: the Case of Google Inc.", *European Journal of Innovation Management* 16, no. 2: 243-264.
 
 Eine natürliche Alternative zu den Extremen einer zentralisierten Verwaltung oder der unkoordinierten Einzelinitiative wäre die Nutzung von Gesprächs- und Finanzierungsinstrumenten. Eine Organisation wie OCTO könnte mit einem deutlich größeren Budget, aber weniger Ermessensspielraum ausgestattet werden. Ihre Aufgabe wäre es, Vermittlungs- und Vernetzungsdienste anzubieten sowie Mittel für Investitionen bereitzustellen, die von vielen Organisationseinheiten unterstützt werden.
 
