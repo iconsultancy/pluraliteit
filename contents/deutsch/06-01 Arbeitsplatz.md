@@ -108,18 +108,30 @@ Diese Technologien können auch repräsentative Informationen  aus verschiedenen
 ### Unterstützung von Intrapreneurship
 
 Eine weitere Folge traditioneller Hierarchien ist die Bildung unterschiedlicher Organisationen innerhalb des Mutterunternehmens, die von verschiedenen hochrangigen Führungskräften geleitet werden und jeweils eigene Kulturen, Ziele und Visionen entwickeln. Während diese internen Differenzierungen oft als wichtig für die Sicherstellung der Aufgabenerfüllung angesehen werden, gelten sie häufig auch als Hindernis für die organisatorische Zusammenarbeit und Dynamik. Sie haben das Potential, die Kooperation zu untergraben, die notwendig ist, eine gemeinsame Infrastruktur bereitzustellen, um den Anforderungen („Disruptionen”) eines sich wandelnden politischen, wirtschaftlichen, sozialen und technologischen Umfelds gerecht zu werden.
+
 Ein anschauliches Beispiel hierfür ist Microsoft, das Unternehmen, in dem einer von uns tätig ist. Microsoft wurde zeitweise für seine internen Organisationskonflikte kritisiert. Unter der Führung des derzeitigen CEO Satya Nadella arbeitet das Unternehmen daran, diese Herausforderung durch die Schaffung einer „One Microsoft“-Kultur zu überwinden.
+
 Nadella treibt dieses Anliegen beispielhaft mit seiner inspirierenden Führungsqualität voran. Nadella hat aber auch zur Schaffung von Institutionen beigetragen, die das organisatorische Äquivalent der zuvor erwähnten „Solidarität und Dynamik“ fördern sollen. Einer von uns arbeitete im Büro des Chief Technology Officers (OCTO) unter Kevin Scott. Zu den Aufgaben dieses Büros gehörte es, unternehmensübergreifende Investitionen zu koordinieren, die keine einzelne Organisation allein übernehmen wollte. Darüber hinaus förderte es das „Intrapreneurship“ – den Aufbau neuer Geschäftszweige, die sich häufig auf das Fachwissen bestehender Organisationseinheiten stützten.
+
 Während OCTO in der Zeit, in der der Autor dort tätig war, viele Erfolge verzeichnete (einschließlich der Anbahnung der inzwischen bekannten Partnerschaft mit OpenAI), bestand eine ständige Herausforderung darin, mit einem kleinen Mitarbeiter:innenstab zu arbeiten. Dieser war zwangsläufig weniger über die geschäftlichen Bedürfnisse und Möglichkeiten informiert als die Mitarbeitenden „vor Ort“, musste aber Entscheidungen über größere Investitionen und Initiativen treffen, die bereichsübergreifenden Nutzen bringen sollten. Ein herausragendes Beispiel war das unternehmensweite technische Projekt, an dem der Autor am intensivsten beteiligt war: die Web3-Strategie. Hier waren interessierte und fachkundige Mitarbeitende weit über das Unternehmen verstreut.
+
 Diese Situation war besonders herausfordernd, da viele dieser Investitionen nicht direkt dem Nettogewinn eines internen Start-ups zugutekommen sollten, sondern anderen Geschäftsbereichen. Wegen dieser Umstände – und aufgrund der Struktur der Arbeitsverhältnisse bei Microsoft – ist es schwierig, die üblichen hohen Anreize für einen möglichen Erfolg als Ausgleich für das Risiko des Scheiterns anzuwenden.
+
 Verschiedene Unternehmen gehen mit dieser Herausforderung unterschiedlich um. Google (jetzt Alphabet) beispielsweise hat seinen Mitarbeitenden traditionell 20% ihrer Zeit zur Verfügung gestellt, damit sie leidenschaftliche Projekte für das Unternehmen außerhalb ihrer primären organisatorischen Rolle verfolgen können. Dies birgt jedoch die offensichtliche Gefahr, dass Einzelpersonen idiosynkratische Projekte verfolgen, die im schlimmsten Fall nicht mit der breiteren Unternehmensmission übereinstimmen und im besten Fall nicht skalierbar sind, da sie nicht genug Leute zusammenbringen, um an einem ehrgeizigen Projekt mitzuarbeiten.
+
 Eine natürliche Alternative zu den Extremen einer zentralisierten Verwaltung oder der unkoordinierten Einzelinitiative wäre die Nutzung von Gesprächs- und Finanzierungsinstrumenten. Eine Organisation wie OCTO könnte mit einem deutlich größeren Budget, aber weniger Ermessensspielraum ausgestattet werden. Ihre Aufgabe wäre es, Vermittlungs- und Vernetzungsdienste anzubieten sowie Mittel für Investitionen bereitzustellen, die von vielen Organisationseinheiten unterstützt werden.
+
 Ein solches OCTO könnte Daten aus internen Kommunikationsplattformen nutzen, um organisationsübergreifende Interessengruppen zu identifizieren. Es könnte kostenlose und ansprechende Veranstaltungen durchführen, um Verbindungen zwischen diesen Organisationen herzustellen. Anschließend könnte es entsprechende Mittel anbieten, wenn eine Vielzahl von Organisationseinheiten bereit ist, Arbeitszeit oder andere Ressourcen um eine gemeinsame Investition oder Inkubation zu unterstützen.
+
 Im Vergleich zum „20%-Zeitmodell“ würde dieser Ansatz deutlich mehr „freie Zeit“ für Projekte bieten, die organisationsübergreifend unterstützt werden, aber dennoch von der eigenen direkten Berichtslinie als relevant angesehen werden. Gleichzeitig würde er weniger Unterstützung für rein individuelle Interessen bereitstellen. Dies würde die Mitarbeitenden in die Lage versetzen, untereinander Investitionen zu koordinieren, die das Unternehmen insgesamt transformieren könnten, und Agilität ermöglichen, um auf Störungen effektiv zu reagieren.
+
 Zusammengefasst können wir uns eine Zukunft vorstellen, in der:
-Remote-Teams ebenso starke Bindungen eingehen wie Präsenzteams
-Präsenzteams inklusive Arbeitsplätze mitgestalten, die spontane Verbindungen fördern und gleichzeitig den Fokus aufrechterhalten
-Meetings deutlich effizienter und inklusiver sind, selbst wenn sie asynchron ablaufen
-ein viel breiteres Spektrum an Talenten in Führungspositionen eingesetzt wird.
+
+- Remote-Teams ebenso starke Bindungen eingehen wie Präsenzteams
+- Präsenzteams inklusive Arbeitsplätze mitgestalten, die spontane Verbindungen fördern und gleichzeitig den Fokus aufrechterhalten
+- Meetings deutlich effizienter und inklusiver sind, selbst wenn sie asynchron ablaufen
+- ein viel breiteres Spektrum an Talenten in Führungspositionen eingesetzt wird.
+  
 Dies könnte eine inklusivere und repräsentativere Arbeitswelt schaffen, in der Mitarbeitende problemlos abteilungsübergreifend und mit Unterstützung des Unternehmens zusammenarbeiten können. So könnten sie Hürden überwinden und die Unternehmensinfrastruktur sowie neue Unternehmungen aufbauen, die ihr Arbeitgeber, ihre Arbeitgeberin, benötigt, um in einem dynamischen Geschäftsumfeld zu überleben und erfolgreich zu sein.
+
 Kurz gesagt, es ist durchaus vorstellbar, eine Zukunft mit echten ⿻-Arbeitsplätzen zu gestalten. Diese würden die Zusammenarbeit über ein breites Spektrum interner und externer Vielfalt hinweg einbeziehen und nutzen, um eine produktivere und inklusivere Zukunft zu erreichen. 
