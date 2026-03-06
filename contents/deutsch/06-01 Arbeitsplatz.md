@@ -22,15 +22,15 @@ Unseren Schätzungen zufolge könnten die ersten vier dieser Komponenten das glo
 
 Die COVID-19-Pandemie hat die Arbeitswelt grundlegend verändert und brachte den Wandel, der über Jahrzehnte erwartet wurde innerhalb eines Jahres. Eine wegweisende Studie von Barreto et al. zeigt beispielsweise, dass der Anteil der Arbeit von zu Hause in der amerikanischen Erwerbsbevölkerung von 5% auf über 60% angestiegen ist.
 
-Eine besonders ausgeprägte Manifestation dieses Trends ist der Aufstieg der sogenannten „digitalen Nomaden“. Diese nutzen die zunehmenden Möglichkeiten der Fernarbeit, ständig zu reisen und eine Vielzahl von Remote-Arbeitsplätzen einzunehmen. Programme wie die regionale Initiative für digitale Nomaden in Sardinien oder die [E-Staatsbürgerschaft](https://www.e-resident.gov.ee/) and [Gold Card](https://goldcard.nat.gov.tw/en/)in Estland und Taiwan – letztere besitzt ein Autor dieses Buches – fördern diese Entwicklung.
+Eine besonders ausgeprägte Manifestation dieses Trends ist der Aufstieg der sogenannten „digitalen Nomaden“. Diese nutzen die zunehmenden Möglichkeiten der Fernarbeit, ständig zu reisen und eine Vielzahl von Remote-Arbeitsplätzen einzunehmen. Programme wie die regionale Initiative für digitale Nomaden in Sardinien oder die [E-Staatsbürgerschaft](https://www.e-resident.gov.ee/) und [Gold Card](https://goldcard.nat.gov.tw/en/) in Estland und Taiwan – letztere besitzt ein Autor dieses Buches – fördern diese Entwicklung.
 
 Obwohl es seit dem Ende der Pandemie eine deutliche Rückkehr zur Präsenzarbeit gegeben hat, scheint ein Teil des Wandels von Dauer zu sein. Barreto et al. stellen fest, dass Arbeitnehmer:innen nach der Pandemie durchschnittlich etwa die Hälfte der Woche von zu Hause aus arbeiten möchten und davon überzeugt sind, dass ihre Produktivität unter diesen Rahmenbedingungen ähnlich oder sogar besser ist.
 
-Einige Studien haben zwar Hinweise auf eine leicht verringerte Produktivität durch Homeoffice-Tätigkeiten gefunden, doch scheinen diese Auswirkungen nicht signifikant genug zu sein, um die anhaltende Nachfrage nach hybriden Arbeitsmodellen zu bremsen.
+Einige Studien haben zwar Hinweise auf eine leicht verringerte Produktivität durch Homeoffice-Tätigkeiten gefunden, doch scheinen diese Auswirkungen nicht signifikant genug zu sein, um die anhaltende Nachfrage nach hybriden Arbeitsmodellen zu bremsen[^reduce-productivity].
 
 Es steht außer Frage, dass die Homeoffice-Arbeit auch echte Herausforderungen mit sich bringt. Einige davon lassen sich nicht ohne weiteres durch Massnahmen für die Remote-Zusammenarbeit lösen. Dazu gehören die Sicherstellung einer ausgewogenen Work-Life-Balance, die Vermeidung von Ablenkungen im häuslichen Umfeld und ungesunde Arbeitsbedingungen zu Hause.
 
-Weitere Herausforderungen sind der Mangel an natürlichem Austausch mit Kolleg:innen, verpasste Gelegenheiten für direktes Feedback und Schwierigkeiten beim Aufbau enger persönlicher Beziehungen zu Kollegen:innen.
+Weitere Herausforderungen sind der Mangel an natürlichem Austausch mit Kolleg:innen, verpasste Gelegenheiten für direktes Feedback und Schwierigkeiten beim Aufbau enger persönlicher Beziehungen zu Kollegen:innen[^remote-shift-impact].
 
 Während die meisten dieser Probleme mit Hilfe verschiedener  ⿻ Tools angegangen werden können, werden wir uns im Folgenden auf einen besonders wichtigen Aspekt konzentrieren: den Aufbau von starken und vertrauensvollen Teams.
 
