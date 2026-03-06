@@ -129,3 +129,11 @@ Konkret betrachten wir, wie auch in Abbildung C dargestellt, folgende vier zentr
 4. Die Umwelt: Sie umgibt uns alle und berührt uns auf globaler Ebene wie kein anderer Bereich. Dieser Sektor ergänzt die anderen Bereiche und spricht viele an, die dazu auffordern, über menschliche Arbeit, Gesundheit und Ideenaustausch hinauszudenken.
 
 Wir beleuchten jeden dieser Bereiche anhand einer Reihe von Vignetten. Dabei versuchen wir grob zu quantifizieren, wie verschiedene ⿻ -Technologien die Praxis in einer Weise verändern könnten, die sich potenziell auf den gesamten Sektor oder sogar darüber hinaus auswirken könnte.
+
+
+[^LevWay]: Steven Levitsky, and Lucan Way, _Revolution and Dictatorship_, (Princeton: Princeton University Press, 2022).
+[^GraeberWengrow]: David Graeber, and David  Wengrow, op. cit.
+[^OnRevolution]: Hannah Arendt, _On Revolution_, (New York: Penguin, 1963).
+[^Web3Inclusivity]: Austin, Sarah. “Web3 Is About More Than Tech, Thanks to Its Inclusivity.” Entrepreneur, June 3, 2022. https://www.entrepreneur.com/science-technology/web3-is-about-more-than-tech-thanks-to-its-inclusivity/425679.
+[^StateofCrypto]: a16zcrypto. “State of Crypto 2023.” Https://A16z.Com. Andressen Horowitz, 2023. https://api.a16zcrypto.com/wp-content/uploads/2023/04/State-of-Crypto.pdf.
+[^TaiwanCommunity]: Friedrich Naumann Foundation. “Examples of Civic Tech Communities-Governments Collaboration Around The World,” n.d. https://www.freiheit.org/publikation/examples-civic-tech-communities-governments-collaboration-around-world.
