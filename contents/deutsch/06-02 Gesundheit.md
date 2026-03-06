@@ -34,7 +34,14 @@ Gesundheitliche Handlungsfähigkeit wird dabei zurecht als dynamisch entstehend,
 5. Nicht abgestimmte Anreize
 6. Fehlende befähigende Dienstleistungen.
 
-Abbildung 6-2-A. Das relationale Gesundheitskonzept – einschließlich sozialer und intersubjektiver Aspekte der Gesundheit statt rein atomistischer Aspekte.
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="Diagram displaying the interconnected aspects of health; bubbles, each with arrows connecting them read: 'my consciousness', 'my current physical condition', 'my community, my ecosystem, my planet','my friend, my partner, my family', 'my future physical condition' ">
+
+**<figcaption>Abbildung 6-2-A. Das relationale Gesundheitskonzept – einschließlich sozialer und intersubjektiver Aspekte der Gesundheit statt rein atomistischer Aspekte.</figcaption>**
+</figure>
+<br></br>
+
+
 
 ### Krankenversicherung neu denken
 
