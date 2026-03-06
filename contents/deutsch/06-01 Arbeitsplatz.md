@@ -16,26 +16,41 @@ Unseren Schätzungen zufolge könnten die ersten vier dieser Komponenten das glo
 ### Starke Remote-Teams 
 
 Die COVID-19-Pandemie hat die Arbeitswelt grundlegend verändert und brachte den Wandel, der über Jahrzehnte erwartet wurde innerhalb eines Jahres. Eine wegweisende Studie von Barreto et al. zeigt beispielsweise, dass der Anteil der Arbeit von zu Hause in der amerikanischen Erwerbsbevölkerung von 5% auf über 60% angestiegen ist.
+
 Eine besonders ausgeprägte Manifestation dieses Trends ist der Aufstieg der sogenannten „digitalen Nomaden“. Diese nutzen die zunehmenden Möglichkeiten der Fernarbeit, ständig zu reisen und eine Vielzahl von Remote-Arbeitsplätzen einzunehmen. Programme wie die regionale Initiative für digitale Nomaden in Sardinien oder die E-Staatsbürgerschaft bzw. Gold Card in Estland und Taiwan – letztere besitzt ein Autor dieses Buches – fördern diese Entwicklung.
+
 Obwohl es seit dem Ende der Pandemie eine deutliche Rückkehr zur Präsenzarbeit gegeben hat, scheint ein Teil des Wandels von Dauer zu sein. Barreto et al. stellen fest, dass Arbeitnehmer:innen nach der Pandemie durchschnittlich etwa die Hälfte der Woche von zu Hause aus arbeiten möchten und davon überzeugt sind, dass ihre Produktivität unter diesen Rahmenbedingungen ähnlich oder sogar besser ist.
+
 Einige Studien haben zwar Hinweise auf eine leicht verringerte Produktivität durch Homeoffice-Tätigkeiten gefunden, doch scheinen diese Auswirkungen nicht signifikant genug zu sein, um die anhaltende Nachfrage nach hybriden Arbeitsmodellen zu bremsen.
 
 Es steht außer Frage, dass die Homeoffice-Arbeit auch echte Herausforderungen mit sich bringt. Einige davon lassen sich nicht ohne weiteres durch Massnahmen für die Remote-Zusammenarbeit lösen. Dazu gehören die Sicherstellung einer ausgewogenen Work-Life-Balance, die Vermeidung von Ablenkungen im häuslichen Umfeld und ungesunde Arbeitsbedingungen zu Hause.
+
 Weitere Herausforderungen sind der Mangel an natürlichem Austausch mit Kolleg:innen, verpasste Gelegenheiten für direktes Feedback und Schwierigkeiten beim Aufbau enger persönlicher Beziehungen zu Kollegen:innen.
+
 Während die meisten dieser Probleme mit Hilfe verschiedener  ⿻ Tools angegangen werden können, werden wir uns im Folgenden auf einen besonders wichtigen Aspekt konzentrieren: den Aufbau von starken und vertrauensvollen Teams.
+
 Immersive Shared Reality (ISR) verbessert die Teambildung und -schulung in verschiedenen Disziplinen erheblich. Sie erleichtert die kollaborative und kreative Teamarbeit in virtuellen Umgebungen und hat sich als besonders effektiv für die interdisziplinäre Zusammenarbeit erwiesen. Dies zeigt sich vor allem bei der Ausbildung im Gesundheitswesen, wo ISR hilft, geografische Barrieren zu überwinden.
+
 Virtuelle Welten fördern die Teamkreativität durch mehrere Faktoren: Sie bieten Avatare, um die persönliche Ausdrucksfähigkeit zu verbessern, immersive Erfahrungen für das Gefühl der Ko-Präsenz und Werkzeuge zur Gestaltung der Umgebung. Diese Elemente verbessern die kreative Zusammenarbeit in verteilten Teams deutlich. Darüber hinaus bieten virtuelle 3D-Welten und Spiele, wie sie beispielsweise in Second Life für die Teambildung entwickelt wurden, kosteneffiziente Lösungen. Sie verbessern die Kommunikation, das emotionale Engagement und das Situationsbewusstsein unter den Teammitgliedern. Diese Aspekte sind für die Teamarbeit in sicherheitskritischen Bereichen essentiell. 
+
 Teams, die sich persönlich treffen, nehmen oft an einer Vielzahl gemeinsamer Lernaktivitäten oder anderen nicht unmittelbar produktiven Tätigkeiten teil. Sie stärken das Vertrauen, den Zusammenhalt und den Teamgeist . Das Spektrum reicht von zwanglosen Mittagessen bis hin zu verschiedenen Arten extremer Teamsportarten. Beispiele hierfür sind:
-Vertrauensfall (Trust falls)
-Simulierte militärische Übungen
-Hochseilgärten usw.
+
+- Vertrauensfall (Trust falls)
+- Simulierte militärische Übungen
+- Hochseilgärten usw.
+
 Was diese Aktivitäten eint, ist die Schaffung einer gemeinsamen Erfahrung, von der alle Mitglieder profitieren. Dies trägt wesentlich zur Entwicklung von Vertrauen untereinander bei. Dieser Prozess ähnelt dem, was wir im Kapitel über Post-Symbolische Kommunikation diskutiert haben: die Entwicklung starker und dauerhafter kooperativer Bindungen beim gemeinsamen Militärdienst.
 
 Viele dieser teambildenden Aktivitäten sind derzeit stark von der persönlichen Anwesenheit abhängig. Dies stellt hybride und vollständig remote arbeitende Teams vor Herausforderungen, insbesondere jene mit vielen Mitgliedern, die „remote” begonnen haben. Sie verpassen entweder die Vorteile solcher Teambildungsmaßnahmen oder können sie nur unter erheblichem Aufwand von Reisekosten realisieren. Hier bietet Immersive Shared Reality (ISR) ein beachtliches Potenzial zur Überwindung dieser Herausforderung.
+
 Virtuelle Mittagessen mit realistischen Avataren, die beispielsweise detaillierte Mimik wiedergeben, könnten bald dazu beitragen, dass die im Büro entstehenden reichhaltigen Beziehungen auch für Remote Teams erreichbar werden. Zwar erscheint es zunächst unmöglich, die lebendigen Erfahrungen von Partys oder Extremsportarten in einer virtuellen gemeinsamen Realität vollständig nachzubilden. Dennoch gibt es zunehmend Belege dafür, dass sich in ausreichend realistisch simulierten Umgebungen echte Gefühle von Angst und Vertrauen entwickeln können.
+
 Mit der wachsenden Popularität von „E-Sports“, die in den richtigen ISR-Umgebungen sogar mit der physischen Intensität traditioneller Sportarten konkurrieren können, könnten die Vorteile von „Campus-Sportarten“ zunehmend Einzug in die Fernarbeit halten.
+
 Noch vielversprechender ist jedoch die Nutzung digitaler Hilfsmittel, um engere Beziehungen zu schaffen, als es ohne sie möglich wäre. Dies zeigt, wie Aktivitäten aus der Ferne die Ansätze von Teams vor Ort nicht nur nachahmen, sondern sogar übertreffen können. Einfache Beispiele wären Erweiterungen für Extremsportarten oder militärische Szenarien, deren Simulation vor Ort zu gefährlich oder kostspielig wäre. Doch dies sind nur die ersten Schritte. In Zukunft könnten direkte neuronale Schnittstellen es Kolleg:innen ermöglichen, aus der Ferne eine Art tiefe Empathie zu teilen, die primär durch professionelle Grenzen und nicht durch physische Entfernung limitiert wird.
-Gestaltung eines inklusiven Campus 
+
+### Gestaltung eines inklusiven Campus 
+
 Ein bedeutender Teil der Arbeit, insbesondere im Angestelltenbereich, konzentriert sich auf große Unternehmensstandorte. Obwohl viele der dort zusammengeführten Funktionen relativ isoliert oder organisatorisch getrennt erscheinen mögen, wird eine breite Kolokation (Standortbündelung) oft angestrebt. Der Grund dafür liegt in der Annahme, dass dadurch Begegnungen ermöglicht werden, die die abteilungsübergreifende Zusammenarbeit und Innovation stimulieren. Solche „Agglomerationseffekte“ sind in der Wirtschaftsliteratur ausführlich als wichtige Quelle für den ökonomischen Nutzen von Städten beschrieben worden. Eine zentrale Aufgabe eines solchen Unternehmenscampus ist, diese Vorteile für das Unternehmen zu erschließen. Um die Vorteile der Standortbündelung optimal zu nutzen, ist eine sorgfältige Planung unerlässlich. Eine übermäßige Trennung nach Organisationen und Disziplinen oder eine zu starke Fokussierung auf die Kernarbeit kann den Nutzen der agglomerativen Spontaneität untergraben. Gleichzeitig kann eine zu starke Fragmentierung die direkte Produktivität beeinträchtigen. Verschiedene Elemente des Campus – wie Gehwege, Kantinen, Büros, Gemeinschaftsräume und Freizeitanlagen – spielen unterschiedliche Rollen bei der Förderung von direkter Arbeit und spontanen Beziehungen.
 Ein anschauliches Beispiel hierfür ist Steve Jobs' Umgestaltung der Pixar-Zentrale. Er richtete ein zentrales Atrium ein, das ein großes Theater, eine Cafeteria, Postfächer und Ausstellungsräume umfasst. Dieses Layout fördert zufällige Begegnungen und den interdisziplinären Austausch, indem es Informatiker:innen, Animator:innen und andere Mitarbeiter:innen dazu ermutigt, sich in einem gemeinsamen Raum zu treffen.
 Die architektonische Neugestaltung stellt jedoch eine beträchtliche Herausforderung dar: Sie ist kostspielig und muss andere unternehmensspezifische Elemente wie die Art der Tätigkeit oder die Markenidentität berücksichtigen. Es überrascht daher nicht, dass es kein Standardrezept für das optimale Campus-Design gibt. Campusse unterscheiden sich radikal in ihrer Gestaltung, wobei das in Abbildung A gezeigte ringförmige „Raumschiff“ von Apple ein herausragendes Beispiel darstellt. Alles, was die Kosten des Ausprobierens bzw. Erkundens senken kann, könnte die Qualität deutlich verbessern.
