@@ -104,7 +104,16 @@ Die intimsten Technologien postsymbolischer Kommunikation und geteilter immersiv
 
 Am entgegengesetzten Spektrum werden Wahlsysteme und Märkte nur selten in intimen Gemeinschaften genutzt und erfordern eine erhebliche Größe, um relevant zu sein, insbesondere in ihren sozial komplexeren Formen. Dadurch ergeben sich weitaus weniger, dafür ehrgeizigere und potenziell riskante Möglichkeiten zum Einstieg.
 
-Abbildung 6-0-C: Visualisierung der „Quadratwurzel-Skala“ des sozialen Wandels. Diese Darstellung veranschaulicht ein Prinzip, bei dem jedes Versuchsgebiet die gleiche Anzahl von Einheiten aufweist wie es Versuchsgebiete gibt. Die Abbildung enthält zudem Symbole für die von uns untersuchten Sektoren. Quelle: Erstellung durch die Autoren; alle verwendeten Symbole sind öffentlich zugänglich.
+
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/squarerootscale.png" width="100%" alt="Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.">
+
+**<figcaption>Abbildung 6-0-C: Visualisierung der „Quadratwurzel-Skala“ des sozialen Wandels. Diese Darstellung veranschaulicht ein Prinzip, bei dem jedes Versuchsgebiet die gleiche Anzahl von Einheiten aufweist wie es Versuchsgebiete gibt. Die Abbildung enthält zudem Symbole für die von uns untersuchten Sektoren. Quelle: Erstellung durch die Autoren; alle verwendeten Symbole sind öffentlich zugänglich.</figcaption>**
+
+</figure>
+<br></br>
+
+
 
 Angesichts der zumutbaren Skalenflexibilität der meisten ⿻ Technologien werden jene Orte für Experimente am attraktivsten sein, die zwei Kriterien erfüllen: Erstens sollten sie eine ausreichende Vielfalt innerhalb der Gemeinschaften aufweisen, um für die meisten Anwendungen in Frage zu kommen. Zweitens sollten die Gemeinschaften untereinander hinreichend divers sein, um eine vernünftige Auswahl an vielfältigen, sicheren und renommierten Keimzellen zu erlauben. Obwohl jede vereinfachte quantitative Darstellung unzureichend ist, um solche Beispiele vollständig zu charakterisieren, kann folgende Faustregel formuliert werden: Zwischen den Gemeinschaften sollte ungefähr die gleiche Vielfalt angestrebt werden wie innerhalb der Gemeinschaften, quantifiziert durch die Anzahl der Einheiten, wie in Abbildung C veranschaulicht. In einer Welt mit (sehr grob geschätzt) 10 Milliarden Menschen wären das Einheiten von ungefähr 100.000 Menschen. Denn teilt man die Weltbevölkerung so auf, erhält man rund 100.000 solcher Einheiten. Das entspricht in etwa der Größenordnung der Quadratwurzel der Menschheit.  Natürlich hat die Zahl 100.000 nichts Magisches an sich, aber sie vermittelt ein ungefähres Gefühl für die Größenordnung von Gemeinschaften und Organisationen, die den fruchtbarsten Boden für die Aussaat von ⿻  darstellen könnten.
 
