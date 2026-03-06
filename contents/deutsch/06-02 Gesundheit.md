@@ -38,8 +38,8 @@ Abbildung 6-2-A. Das relationale Gesundheitskonzept – einschließlich sozialer
 
 Krankenversicherungen ermöglichen es Menschen, die mit verschiedenen Gesundheitsrisiken konfrontiert sind, ihre gemeinsamen Gesundheitsausgaben zu decken. Dies geschieht auf zwei Arten: Zum einen erleichtern sie Zahlungen, zum anderen gleichen sie das Risiko über Zeit und Personen hinweg aus. Während die Rolle der Versicherung als „Sparen für schlechte Zeiten“ allgemein bekannt ist, ist der Wert der „Risikobündelung“ über Individuen hinweg weniger offensichtlich:
 
-Sie ermöglicht die Einrichtung regelmäßiger und vorhersehbarer Zahlungen, um unvorhersehbare und plötzliche Ausgaben auszugleichen.
-Sie fördert die Umverteilung von finanziell Bessergestellten zu weniger Begünstigten.
+1. Sie ermöglicht die Einrichtung regelmäßiger und vorhersehbarer Zahlungen, um unvorhersehbare und plötzliche Ausgaben auszugleichen.
+2. Sie fördert die Umverteilung von finanziell Bessergestellten zu weniger Begünstigten.
 
 Diese letztgenannte Funktion der Versicherung ist charakteristisch für alle Ausgaben, die darauf abzielen, das Leiden der weniger Begünstigten zu lindern. Aus der Perspektive der von John Rawls vorgeschlagenen „ursprünglichen Position“ vor der Geburt betrachtet, sind diese Menschen Opfer unglücklicher Ereignisse ihrer sozialen oder genetischen Prädisposition.
 
@@ -72,10 +72,10 @@ Zusammengefasst könnte eine Reihe sich überschneidender ⿻-Entwicklungsgesell
 ### Tokenisierung der Auswirkungen auf die Gesundheit
 
 Für die Zwecke dieser Diskussion unterscheiden wir drei Ebenen von Ergebnissen im Gesundheitsbereich:
-Leistungen (Outputs): Dies sind die unmittelbaren Ergebnisse von Gesundheitsdienstleistungen. Ein Beispiel hierfür wäre die Anzahl der geimpften Menschen.
 
-Wirkungen (Outcomes): Diese stellen das beabsichtigte Endergebnis dar. In unserem Beispiel wären dies vermiedene Todesfälle durch die Verringerung der Morbidität (Krankheitshäufigkeit) oder des Mortalitätsrisikos (Sterblichkeitsrisiko).
-Auswirkungen (Impacts): Hierbei handelt es sich um die weitreichenden Folgewirkungen, die die Outcomes in der Welt insgesamt haben. Ein Beispiel wären Geburten künftiger Kinder, die ohne die verbesserten Gesundheitsoutcomes nicht möglich gewesen wären.
+1. Leistungen (Outputs): Dies sind die unmittelbaren Ergebnisse von Gesundheitsdienstleistungen. Ein Beispiel hierfür wäre die Anzahl der geimpften Menschen.
+2. Wirkungen (Outcomes): Diese stellen das beabsichtigte Endergebnis dar. In unserem Beispiel wären dies vermiedene Todesfälle durch die Verringerung der Morbidität (Krankheitshäufigkeit) oder des Mortalitätsrisikos (Sterblichkeitsrisiko).
+3. Auswirkungen (Impacts): Hierbei handelt es sich um die weitreichenden Folgewirkungen, die die Outcomes in der Welt insgesamt haben. Ein Beispiel wären Geburten künftiger Kinder, die ohne die verbesserten Gesundheitsoutcomes nicht möglich gewesen wären.
 
 Impact ist damit ein Open-Source-Gut. Es kann je nach Bedarf des Nutznießers in jede beliebige Richtung weiterverwendet bzw. „abgezweigt“ (forked) werden (Abbildung B). Obwohl die Auswirkungen ein kausale Effekte der Gesundheitsleistungen sind (z. B. ein Kind überlebt, das sonst gestorben wäre, und wird später selbst Vater oder Mutter), sind sie nicht der primär beabsichtigte Effekt. Die primär beabsichtigte Wirkung von Gesundheitsleistungen ist die Verringerung des Morbiditäts- oder Mortalitätsrisikos – was, wie wir gesehen haben, eine Versicherungsfunktion darstellt. 
 
@@ -87,11 +87,9 @@ Der Globale Fonds zur Bekämpfung von AIDS, Tuberkulose und Malaria hat nach eig
 
 Hätte der Globale Fonds nur einen Bruchteil des Versicherungswerts der von ihm erzielten Ergebnisse einnehmen können, wäre er heute eines der wertvollsten Unternehmen der Welt, dessen Aktien jeder erwerben möchte. Tatsächlich besitzt jeder Mensch auf der Welt bereits nicht handelbare Anteile am Globalen Fonds, der regelmäßig Dividenden in Form von geringeren Krankheitsraten, höherem Wirtschaftswachstum und einem erfüllteren Leben der Angehörigen und vielem mehr ausschüttet. Es stellt sich die Frage, wie die Einnahmen aus diesen impliziten, nicht handelbaren Anteilen erhöht werden können, um Investitionen zu finanzieren, die den Nutzen steigern können, den sie erzeugen.
 
-Es ist entscheidend, dass wir fähig sind, sowohl den Versicherungswert als auch den breiteren gesellschaftlichen Wert dieser Investitionen darzustellen. Dies kann mittels digitaler Zertifikate erreicht werden, die eine Kombination aus technokratischer Ergebnisbewertung und 'Crowd-sourced'-Intelligenz nutzen (Tokenisierung, englisch: tokenization). Solche Ansätze werden beispielsweise in unserem Kapitel über ⿻ Wahlen näher beleuchtet. Diese Methode ermöglicht es, die komplexen und vielschichtigen Auswirkungen von Gesundheitsinvestitionen umfassender zu erfassen und zu quantifizieren, indem sie sowohl Expert:innenanalysen als auch kollektive Einschätzungen einbezieht.
-
-Aufbauend auf dieser Darstellung des Werts können wir die Koordination der zersplitterten Beitragszahler:innen und Dienstleister:innen durch offene Wirkungspools verbessern. Diese Pools würden dazu beitragen, die bei der derzeitigen Gesundheitsfinanzierung festgestellten Mängel zu beheben. Dafür ist die Entwicklung eines offenen Koordinierungsstandards für den Zugang zu solchen Pools erforderlich. In diesem System könnten Token vielfältig eingesetzt werden: zur Beteiligung an der Verwaltung von Projekten oder Finanzierungspools, zum Handel und zur Investition, zum Tausch ausgewählter Dienstleistungen oder zur Finanzierung weiterer Projekte. Projekte ihrerseits könnten Token in Verbindung mit Beiträgen zuteilen, was einen Anreizmechanismus für Engagement und Beteiligung schafft. Dieser Ansatz würde nicht nur die Transparenz und Effizienz in der Gesundheitsfinanzierung erhöhen, sondern auch eine breitere und aktivere Beteiligung verschiedener Stakeholder ermöglichen.
-
-Generative Basismodelle (GFM) und andere innovative Anwendungen können genutzt werden, um den Prozess der Bildung solcher Finanzinstrumente und ihrer Anpassung an spezifische Investitionen zu beschleunigen. Durch Tokenisierung, Bündelung und Handel kann der Erwerb von Gesundheitswirkungen so unkompliziert gestaltet werden wie der Kauf von Emissionsgutschriften (Carbon Credits). Die daraus resultierenden Token bieten vielfältige Verwendungsmöglichkeiten: Sie können in Projekte reinvestiert oder zum Kauf von Gesundheitsdienstleistungen nach einem standardisierten Wirkungsmodell eingesetzt werden. Der durch diese Token repräsentierte Wert kann entweder mit bestimmten Projekten verknüpft oder in größeren Blöcken zusammengefasst werden. Dieser Ansatz fördert die Entwicklung von kaskadierenden ('fraktalen') Märkten für gesundheitliche Auswirkungen, was eine differenzierte und skalierbare Bewertung von Gesundheitsinvestitionen ermöglicht. Dadurch entsteht ein dynamisches System, das Investitionen in Gesundheit flexibler, transparenter und potenziell attraktiver für ein breiteres Spektrum von Investoren macht.
+1. Es ist entscheidend, dass wir fähig sind, sowohl den Versicherungswert als auch den breiteren gesellschaftlichen Wert dieser Investitionen darzustellen. Dies kann mittels digitaler Zertifikate erreicht werden, die eine Kombination aus technokratischer Ergebnisbewertung und 'Crowd-sourced'-Intelligenz nutzen (Tokenisierung, englisch: tokenization). Solche Ansätze werden beispielsweise in unserem Kapitel über ⿻ Wahlen näher beleuchtet. Diese Methode ermöglicht es, die komplexen und vielschichtigen Auswirkungen von Gesundheitsinvestitionen umfassender zu erfassen und zu quantifizieren, indem sie sowohl Expert:innenanalysen als auch kollektive Einschätzungen einbezieht.
+2. Aufbauend auf dieser Darstellung des Werts können wir die Koordination der zersplitterten Beitragszahler:innen und Dienstleister:innen durch offene Wirkungspools verbessern. Diese Pools würden dazu beitragen, die bei der derzeitigen Gesundheitsfinanzierung festgestellten Mängel zu beheben. Dafür ist die Entwicklung eines offenen Koordinierungsstandards für den Zugang zu solchen Pools erforderlich. In diesem System könnten Token vielfältig eingesetzt werden: zur Beteiligung an der Verwaltung von Projekten oder Finanzierungspools, zum Handel und zur Investition, zum Tausch ausgewählter Dienstleistungen oder zur Finanzierung weiterer Projekte. Projekte ihrerseits könnten Token in Verbindung mit Beiträgen zuteilen, was einen Anreizmechanismus für Engagement und Beteiligung schafft. Dieser Ansatz würde nicht nur die Transparenz und Effizienz in der Gesundheitsfinanzierung erhöhen, sondern auch eine breitere und aktivere Beteiligung verschiedener Stakeholder ermöglichen.
+3. Generative Basismodelle (GFM) und andere innovative Anwendungen können genutzt werden, um den Prozess der Bildung solcher Finanzinstrumente und ihrer Anpassung an spezifische Investitionen zu beschleunigen. Durch Tokenisierung, Bündelung und Handel kann der Erwerb von Gesundheitswirkungen so unkompliziert gestaltet werden wie der Kauf von Emissionsgutschriften (Carbon Credits). Die daraus resultierenden Token bieten vielfältige Verwendungsmöglichkeiten: Sie können in Projekte reinvestiert oder zum Kauf von Gesundheitsdienstleistungen nach einem standardisierten Wirkungsmodell eingesetzt werden. Der durch diese Token repräsentierte Wert kann entweder mit bestimmten Projekten verknüpft oder in größeren Blöcken zusammengefasst werden. Dieser Ansatz fördert die Entwicklung von kaskadierenden ('fraktalen') Märkten für gesundheitliche Auswirkungen, was eine differenzierte und skalierbare Bewertung von Gesundheitsinvestitionen ermöglicht. Dadurch entsteht ein dynamisches System, das Investitionen in Gesundheit flexibler, transparenter und potenziell attraktiver für ein breiteres Spektrum von Investoren macht.
 
 ### Anreize zur fairen Teilhabe am Nutzen
 
@@ -113,15 +111,17 @@ Wenn diffuse Populationen von Einzelpersonen oder lose organisierte Vereinigunge
 Langfristig ist es sogar wichtiger, den sozialen Zusammenhalt und das Vertrauen der Öffentlichkeit in die politischen Entscheidungsträger:innen zu stärken, als die „richtige Politik“ zu machen, da die „Politik“ ohne diese Faktoren ohnehin schnell bedeutungslos wird.
 
 Taiwan hat einen ganz anderen Weg eingeschlagen, indem die Regierung rasch Bürgerinitiativen unterstützt hat, die beispielsweise die Versorgung mit Masken überwachen. Durch die schnelle Förderung von Online-Initiativen (g0v, Polis), die von der Zivilgesellschaft organisiert wurden, war Taiwan in der Lage, die Stärken des lokalisierten und kontextbezogenen Wissens als ⿻-Gut zu nutzen, ohne eine zentrale Kontrolle auszuüben und gleichzeitig die Privatsphäre zu respektieren. Taiwans extitutioneller* Ansatz war so erfolgreich, dass er nun institutionalisiert wurde.
+
 *Anmerkung des Übersetzers: Extitutionell beschreibt einen Ansatz, der außerhalb traditioneller Institutionen operiert und auf dezentralen, netzwerkartigen Strukturen basiert.
 
 Solche überzeugenden Beispiele verdeutlichen, dass die politische Entscheidungsfindung bei zukünftigen Pandemien nicht mehr allein in den Händen epidemiologischer Expert:innen hinter verschlossenen Türen liegen wird. Stattdessen werden ⿻-Technologien  eine zentrale Rolle spielen. Diese ermöglichen eine breite gesellschaftliche Beteiligung bei der Entwicklung und Koordinierung kollektiver Maßnahmen.
 
 In praktisch allen Teilen der Welt wird die Gesundheitsversorgung nach einem Modell verwaltet, das seinen Ursprung in den Kolonialmächten hat. Dieses Modell spiegelt in der Regel die Verwaltungsformen in den jeweiligen imperialen Zentren wider, jedoch mit dem zusätzlichen Auftrag der „Entwicklung“. Die Ergebnisse sind natürlich unterschiedlich. In einigen ehemaligen Kolonien, insbesondere in Kanada und Australien, gibt es bedeutsame koordinierte Anstrengungen seitens der heutigen Regierungen. Diese Bemühungen, die das koloniale Erbe kritisch reflektieren, zielen darauf ab:
-Von indigenen Modellen des Gesundheitswesens und der Gesundheitsversorgung zu lernen.
-Die Gesundheitsversorgung und andere Gesundheitsdienste im Einklang mit den Werten der indigenen Gemeinschaften mitzuverwalten.
 
-Die Selbstbestimmung der indigenen Völker über ihre eigenen Lösungen zu ermöglichen.
+1. Von indigenen Modellen des Gesundheitswesens und der Gesundheitsversorgung zu lernen.
+2. Die Gesundheitsversorgung und andere Gesundheitsdienste im Einklang mit den Werten der indigenen Gemeinschaften mitzuverwalten.
+3. Die Selbstbestimmung der indigenen Völker über ihre eigenen Lösungen zu ermöglichen.
+
 Diese Ansätze erkennen die Bedeutung traditionellen Wissens und kultureller Praktiken an und streben eine inklusivere und ganzheitlichere Herangehensweise an die Gesundheitsversorgung an.
 
 Da solche Experimente nur selten durchgeführt werden, erscheinen uns Generative Basismodelle (GFMs) ein vielversprechendes Instrument. Sie können die umfangreichen und diffusen Textdatenbestände, die in diesen Initiativen produziert werden, interpretieren, kritisch hinterfragen und neu konzipieren. Letztendlich können sie dazu beitragen, die Systeme der Gesundheitsverwaltung so umzugestalten, dass sie den kulturellen Wertesystemen besser gerecht werden.
@@ -133,11 +133,12 @@ Wie in unserem Kapitel über Erweiterte Meinungsbildung (Augmented Deliberation)
 Gehirn-Computer-Schnittstellen (Brain-Computer Interfaces, BCI), die wir in unserem Kapitel über Post-Symbolische Kommunikation behandelt haben, sind keine futuristische Science-Fiction-Phantasie, sondern vertraute, alltägliche Objekte. Das übliche Betriebssystem dafür sind unsere Sinnes- und Bewegungsorgane.
 
 Betrachten wir einige Beispiele:
-Brillen und Hörgeräte: Diese sind Geräte vergleichbar mit Computern niedriger Bitrate, die über die Sinnesorgane eine unidirektionale (nur schreibende) Schnittstelle zu unserem Gehirn bilden.
-Blindenstöcke, Gehhilfen und Rollstühle: Diese funktionieren wie mechanische Computer mit niedriger Bitrate, die über die Sinnes- und Bewegungsorgane eine bidirektionale Schnittstelle zum Gehirn bilden (d. h. lesen und schreiben).
-Digitale Hilfsmittel wie Smartphones oder tragbare Computer: Diese sind Geräte mit (etwas) höherer Bitrate. Sie bilden eine Schnittstelle zum Gehirn über: 
-Das sensorisch-motorische System (in der Regel das Seh-, Hör- und Feinmotoriksystem)
-Funktionsbereiche höherer Ordnung wie Sprache (z. B. Spracherkennung), Kognition (z. B. CAPTCHAs) und Gedächtnis (z. B. Passwörter)
+
+1. Brillen und Hörgeräte: Diese sind Geräte vergleichbar mit Computern niedriger Bitrate, die über die Sinnesorgane eine unidirektionale (nur schreibende) Schnittstelle zu unserem Gehirn bilden.
+2. Blindenstöcke, Gehhilfen und Rollstühle: Diese funktionieren wie mechanische Computer mit niedriger Bitrate, die über die Sinnes- und Bewegungsorgane eine bidirektionale Schnittstelle zum Gehirn bilden (d. h. lesen und schreiben).
+3. Digitale Hilfsmittel wie Smartphones oder tragbare Computer: Diese sind Geräte mit (etwas) höherer Bitrate. Sie bilden eine Schnittstelle zum Gehirn über:
+   a. Das sensorisch-motorische System (in der Regel das Seh-, Hör- und Feinmotoriksystem)
+   b. Funktionsbereiche höherer Ordnung wie Sprache (z. B. Spracherkennung), Kognition (z. B. CAPTCHAs) und Gedächtnis (z. B. Passwörter)
 
 Diese 'BCIs' interagieren über eine Vielzahl von Ein- und Ausgabegeräten wie Tastaturen, (Touch-)Bildschirmen und zahlreiche andere Lese-/Schreibschnittstellen. Solche digitalen Datenverarbeitungsgeräte mit höherer Bitrate sind für viele Menschen zu einem unverzichtbaren Bestandteil des „Menschseins“ geworden. Erfahrungsgemäß wissen die meisten, die schon einmal ihr Smartphone verloren haben, dass dies mit erheblichen Unannehmlichkeiten verbunden sein kann. Diese Erfahrung verdeutlicht, wie sehr diese Geräte bereits in unseren Alltag und unser Selbstverständnis integriert sind.
 
@@ -166,12 +167,15 @@ Erweitern wir das Beispiel der Diagnostik: Medizinische Aufzeichnungen aller Art
 Generative Basismodelle (GFMs) könnten sich als die einzige Technologie erweisen, die in der Lage ist, schwache oder stark verworrene Signale als Basis für neue kausale Erkenntnisse zu nutzen. Die Variabilität in der medizinischen Praxis und bei Behandlungsergebnissen sollte es prinzipiell ermöglichen, relevante kontrafaktische Situationen zu identifizieren und zu analysieren, ähnlich wie es das Regressionsdiskontinuitätsdesign auf Bevölkerungsebene tut.
 
 Solche Verfahren haben das Potenzial, eine Vielzahl medizinischer Praktiken zu verändern. Ein Beispiel wären regulatorische Änderungen nach der Zulassung von Medikamenten oder Behandlungsmethoden: Diese könnten deutlich dynamischer und anpassungsfähiger gestaltet werden.
+
 Angesichts des enormen Wertes, der derzeit im Gesundheitswesen ungenutzt „auf dem Tisch“ liegen bleibt, ist es entscheidend, dass ⿻-Technologien zunehmend genutzt werden, um:
-Die verschiedenen Wertschöpfungsebenen für Geldgeber:innen, Praktizierende und Begünstigte (Patient:innen)  im Gesundheitswesen zu erschließen.
-Eine breitere Gruppe von Geldgeber:innen, Praktizierenden und Nutznießenden im Gesundheitswesen anzusprechen, die mit neuartigen Mechanismen zur Koordinierung der Finanzierung und Schaffung von Gesundheitsgütern arbeiten wollen.
-Den Aufbau von gesundheitsorientierten, praktizierenden Gemeinschaften durch Geldgeber:innen, Durchführende und Begünstigte zu fördern.
-Die gegenseitige, symmetrische und gerechte Verwaltung der gemeinsam geschaffenen Gesundheitsressourcen durch Geldgeber:innen, Durchführende und Begünstigte sicherzustellen.
-Neue Formen der internationalen, regionalen und lokalen Zusammenarbeit im Gesundheitsbereich zu ermöglichen.
-Unerschlossene Möglichkeiten für ein gesundes menschliches (und transhumanes) Zusammenwirken zu eröffnen.
+
+- Die verschiedenen Wertschöpfungsebenen für Geldgeber:innen, Praktizierende und Begünstigte (Patient:innen)  im Gesundheitswesen zu erschließen.
+- Eine breitere Gruppe von Geldgeber:innen, Praktizierenden und Nutznießenden im Gesundheitswesen anzusprechen, die mit neuartigen Mechanismen zur Koordinierung der Finanzierung und Schaffung von Gesundheitsgütern arbeiten wollen.
+- Den Aufbau von gesundheitsorientierten, praktizierenden Gemeinschaften durch Geldgeber:innen, Durchführende und Begünstigte zu fördern.
+- Die gegenseitige, symmetrische und gerechte Verwaltung der gemeinsam geschaffenen Gesundheitsressourcen durch Geldgeber:innen, Durchführende und Begünstigte sicherzustellen.
+- Neue Formen der internationalen, regionalen und lokalen Zusammenarbeit im Gesundheitsbereich zu ermöglichen.
+- Unerschlossene Möglichkeiten für ein gesundes menschliches (und transhumanes) Zusammenwirken zu eröffnen.
+
 Die oben genannten Hindernisse (fehlende Finanzierung, fehlende Märkte, mangelnde Koordinierung, fehlende Gemeinschaften, falsch ausgerichtete Anreize und fehlende Dienstleistungen) werden überwunden werden, und die dunklen Wolken, die den Weg zu weiteren 20 Jahren gesunder Lebenserwartung versperren, werden sich weltweit auflösen.
 
