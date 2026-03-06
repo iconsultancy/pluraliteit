@@ -88,7 +88,14 @@ Impact ist damit ein Open-Source-Gut. Es kann je nach Bedarf des Nutznießers in
 
 Gesundheitsdienstleistungen erzeugen sowohl nicht-marktorientierte Leistungen (z. B. Rettung von Leben und gesünderes Leben durch die Versicherungsfunktion) als auch marktorientierte und nicht-marktorientiete Auswirkungen (z. B. mehr zu verkaufende Arbeit und mehr Zeit für soziale Aktivitäten durch die Open-Source-Funktion). Dies führt zu einem Bewertungsproblem: Es ist schwierig, den Wert der Wirkungen zu messen (z. B. den Wert eines geretteten Lebens), aber oft noch schwieriger, den Wert relevanter Auswirkungen zu quantifizieren. Da der volle soziale Wert von Gesundheitsprojekten in der Praxis weder vollständig erfasst noch ökonomisiert wird, bleiben viele potenziell gewinnbringende Gesundheitsinvestitionen blockiert.
 
-Abbildung 6-2-B. Verschiedene Wege zu Auswirkungen (Impact)– Veranschaulichung der Folgewirkungen, die die Ergebnisse in der Welt insgesamt haben können.
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="A diagram showing the various possible paths impact can take. After a project effects the direct beneficiary there are dotted lines of possible paths of how it can impact: family, employers, tax authorities, consumers, businesses, public services, trade partners and the global economy">
+
+**<figcaption>Abbildung 6-2-B. Verschiedene Wege zu Auswirkungen (Impact)– Veranschaulichung der Folgewirkungen, die die Ergebnisse in der Welt insgesamt haben können.</figcaption>**
+</figure>
+<br></br>
+
+
 
 Der Globale Fonds zur Bekämpfung von AIDS, Tuberkulose und Malaria hat nach eigenen Angaben in den letzten 20 Jahren beachtliche Erfolge erzielt: 44 Millionen Menschenleben wurden gerettet, bei kumulativen Kosten von 55,4 Milliarden Dollar in Form von Zuwendungen plus etwa 6 Milliarden Dollar an Betriebskosten, hauptsächlich finanziert durch Regierungen und Philanthropen. Mittlere Schätzungen für den Versicherungswert einer Senkung des Sterblichkeitsrisikos in dieser Größenordnung belaufen sich auf etwa 200 Billionen Dollar, was dem Globalen Fonds einen (nicht rabattierten) ergebnisorientierten Return on Investment (ROI) von über 3000:1 beschert. 
 
