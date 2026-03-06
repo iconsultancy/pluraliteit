@@ -1,15 +1,16 @@
+# Arbeitsplatz
 
-
-
-6-1 Arbeitsplatz
 Weltweit arbeiten mehr als eine Milliarde Menschen außerhalb der eigenen vier Wände in formellen Organisationen, in denen sie zumindest mit einigen Kollegen zusammenarbeiten. Diese 'Arbeitsplätze' sind für etwa 70% der globalen Produktion verantwortlich und stehen im Mittelpunkt dessen, was die meisten Menschen unter „Wirtschaft“ verstehen. Angesichts des enormen Beitrags der Arbeitsplätze zur Weltwirtschaft ist es von zentraler Bedeutung, Ineffizienzen zu adressieren, die die Produktivität beeinträchtigen. Ein Beispiel: US-amerikanische Arbeitnehmer verbringen durchschnittlich 31 Stunden pro Monat in Sitzungen, die als unproduktiv gelten – ein erheblicher Verlust sowohl an Zeit als auch an Ressourcen. Wenn ⿻ dazu beitragen soll, die Wirtschaft neu zu gestalten, muss die formale Arbeitswelt umstrukturiert werden. Auf diesen Aspekt werden wir in diesem Kapitel näher eingehen.
+
 Die von uns erörterten Fortschritte, die nur eine Auswahl der potenziellen Auswirkungen von ⿻ am Arbeitsplatz darstellen, umfassen:
-Die Stärkung von Remote-Teams
-Die Gestaltung effektiver Unternehmenscampus
-Die Verbesserung der Kommunikation
-Einen umfassenderen Zugang zu Talenten
-Die Unterstützung einer effektiveren Bereitstellung gemeinsamer Unternehmensinfrastrukturen
-Eine dynamischere Anpassung an sich verändernde Industriezweige
+
+1. Die Stärkung von Remote-Teams
+2. Die Gestaltung effektiver Unternehmenscampus
+3. Die Verbesserung der Kommunikation
+4. Einen umfassenderen Zugang zu Talenten
+5. Die Unterstützung einer effektiveren Bereitstellung gemeinsamer Unternehmensinfrastrukturen
+6. Eine dynamischere Anpassung an sich verändernde Industriezweige
+
 Unseren Schätzungen zufolge könnten die ersten vier dieser Komponenten das globale Bruttoinlandsprodukt insgesamt um etwa 10% steigern. Die letzte Komponente hat das Potenzial, die jährliche Wachstumsrate des BIP dauerhaft um einen halben Prozentpunkt pro Jahr zu erhöhen.
 
 Starke Remote-Teams 
