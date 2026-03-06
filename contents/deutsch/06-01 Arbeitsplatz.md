@@ -20,7 +20,7 @@ Unseren Schätzungen zufolge könnten die ersten vier dieser Komponenten das glo
 
 ### Starke Remote-Teams 
 
-Die COVID-19-Pandemie hat die Arbeitswelt grundlegend verändert und brachte den Wandel, der über Jahrzehnte erwartet wurde innerhalb eines Jahres. Eine wegweisende Studie von Barreto et al. zeigt beispielsweise, dass der Anteil der Arbeit von zu Hause in der amerikanischen Erwerbsbevölkerung von 5% auf über 60% angestiegen ist.
+Die COVID-19-Pandemie hat die Arbeitswelt grundlegend verändert und brachte den Wandel, der über Jahrzehnte erwartet wurde innerhalb eines Jahres. Eine wegweisende Studie von Barreto et al. zeigt beispielsweise, dass der Anteil der Arbeit von zu Hause in der amerikanischen Erwerbsbevölkerung von 5% auf über 60% angestiegen ist[^Barrero].
 
 Eine besonders ausgeprägte Manifestation dieses Trends ist der Aufstieg der sogenannten „digitalen Nomaden“. Diese nutzen die zunehmenden Möglichkeiten der Fernarbeit, ständig zu reisen und eine Vielzahl von Remote-Arbeitsplätzen einzunehmen. Programme wie die regionale Initiative für digitale Nomaden in Sardinien oder die [E-Staatsbürgerschaft](https://www.e-resident.gov.ee/) und [Gold Card](https://goldcard.nat.gov.tw/en/) in Estland und Taiwan – letztere besitzt ein Autor dieses Buches – fördern diese Entwicklung.
 
