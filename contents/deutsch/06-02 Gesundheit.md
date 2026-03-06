@@ -193,3 +193,27 @@ Angesichts des enormen Wertes, der derzeit im Gesundheitswesen ungenutzt „auf 
 
 Die oben genannten Hindernisse (fehlende Finanzierung, fehlende Märkte, mangelnde Koordinierung, fehlende Gemeinschaften, falsch ausgerichtete Anreize und fehlende Dienstleistungen) werden überwunden werden, und die dunklen Wolken, die den Weg zu weiteren 20 Jahren gesunder Lebenserwartung versperren, werden sich weltweit auflösen.
 
+[^UnitedNations]: “The Sustainable Development Goals Report: Special Edition,” (New York: UN DESA, July 2023), https://desapublications.un.org/file/1169/download.  
+[^TrackingUniversalHealthCoverage2023MonitoringReport]: “Tracking Universal Health Coverage: 2023 Global Monitoring Report,” (Geneva: World Health Organization, September 18, 2023), https://iris.who.int/bitstream/handle/10665/374059/9789240080379-eng.pdf?sequence=1.  
+[^ourworldindata]: “Share of People Who Received at Least One Dose of COVID-19 Vaccine,” Our World in Data, n.d., https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&uniformYAxis=0&country=OWID_AFR~OWID_EUR~OWID_SAM~OWID_ASI~OWID_OCE~OWID_NAM&pickerSort=asc&pickerMetric=location&hideControls=false&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false.&Metric=People+vaccinated. 
+[^WorldMentalHealthReport2022]: “Transforming Mental Health for All,” (Geneva: World Health Organisation, 2022), https://iris.who.int/bitstream/handle/10665/356119/9789240049338-eng.pdf?sequence=1.
+[^LancetCountdown]: Marina Romanello, Claudia Di Napoli, Carole Green, Harry Kennard, Pete Lampard, Daniel Scamman, Maria Walawender, et al., “The 2023 Report of the Lancet Countdown on Health and Climate Change: The Imperative for a Health-Centred Response in a World Facing Irreversible Harms.” The Lancet 402, no. 10419 (November 1, 2023): 2346–94, https://doi.org/10.1016/s0140-6736(23)01859-7.
+[^WHONCDs]: “Noncommunicable Diseases,” World Health Organization, September 16, 2023, https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases.
+[^NCDAlliance]: “Financing NCDs,” NCD Alliance, March 2, 2015, https://ncdalliance.org/why-ncds/financing-ncds.  
+[^WHOAssistive]: “Assistive Technology.” World Health Organization: WHO, May 15, 2023. https://www.who.int/news-room/fact-sheets/detail/assistive-technology.  
+[^PrahRuger]: Jennifer Ruger, Health and Social Justice, (New York: Oxford University Press,  2010), pp. 276.   
+[^Parfit]: In his 1991 Lindley Lecture, the philosopher Derek Parfit distinguished a novel theory of ethics, in contrast to either utilitarianism or egalitarianism, which he called "the priority view". Its main tenet is that the worse off have a special claim on resources. Prioritarianism (before the term) has been used by economists in the analysis of social welfare functions ('optimal taxation') since at least the 1970s. Prioritarianism is not usually considered - as it is here - as a form of insurance.  
+[^Arrow]: Kenneth Arrow, "Uncertainty and the welfare economics of medical care," _American Economic Review_ 53, 5 (1963): 941-973.  
+[^Rawls]: John Rawls, _A Theory of Justice_, Revised edition, (Cambridge, MA: Harvard University Press, 1999).  
+[^GovWeb]: See Healthcare.gov, “Health Savings Account (HSA),” HealthCare.gov, 2019, https://www.healthcare.gov/glossary/health-savings-account-HSA/.  
+[^Durkheim]: Émile Durkheim, *De la Division du Travail Social* (Paris: Presses Universitaires de France, 1893).  
+[^Hanson]: Robin Hanson, _Buy Health, Not Health Care_, _Cato Journal_ 14, 1 (1994):135-141, Summer.  
+[^LancetCommDet]: Anna Gilmore, Alice Fabbri, Fran Baum, Adam Bertscher, Krista Bondy, Ha-Joon Chang, Sandro Demaio, et al., “Defining and Conceptualising the Commercial Determinants of Health,” _The Lancet_ 401, no. 10383 (April 8, 2023): 1194–1213. https://doi.org/10.1016/S0140-6736(23)00013-2.
+[^Disc]: In 2023, two of the contributors to this chapter created a Swiss-registered Association with the name *Unexia* that is pursuing the measures described here with a range of UN and other partner organizations.  
+[^Cooke]: Kristin Shrader-Frechette, “Experts in Uncertainty: Opinion and Subjective Probability in Science.Roger M. Cooke,” _Ethics_ 103, no. 3 (April 1993): 599–601, https://doi.org/10.1086/293541. 
+[^Khalili]: Laleh Khalili, _Woke Capital_, _London Review of Books_, 45, 17 (7 September 2023): https://www.lrb.co.uk/the-paper/v45/n17/laleh-khalili/woke-capital.  
+[^Haraway]: Donna Haraway, "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century," in _Simians, Cyborgs and Women: The Reinvention of Nature_ (New York; Routledge, 1991), pp. 149-181.  
+[^Anderson]: Gillian  Anderson, Paul Jenkins, David McDonald, Robert Van Der Meer, Alec Morton, Margaret Nugent, and Lech A Rymaszewski, “Cost Comparison of Orthopaedic Fracture Pathways Using Discrete Event Simulation in a Glasgow Hospital,” BMJ Open 7, no. 9 (September 2017): e014509, https://doi.org/10.1136/bmjopen-2016-014509.
+[^Frossard]: Laurent Frossard, Silvia Conforto, and Oskar Aszmann, “Editorial: Bionics Limb Prostheses: Advances in Clinical and Prosthetic Care Editorial on the Research Topic Bionic Limb Prostheses: Advances in Clinical and Prosthetic Care Context Importance of Residuum Health,” _Frontiers in Rehabilitation Sciences_ 3 (August 18, 2022). https://doi.org/10.3389/fresc.2022.950481.
+[^medshare]: Nicola Rieke et al. "The Future of Digital Health with Federated Learning" *npj Digital Medicine* 3 (2020): article 119.
+
