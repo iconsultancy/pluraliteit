@@ -58,13 +58,23 @@ Noch vielversprechender ist jedoch die Nutzung digitaler Hilfsmittel, um engere 
 
 ### Gestaltung eines inklusiven Campus 
 
-Ein bedeutender Teil der Arbeit, insbesondere im Angestelltenbereich, konzentriert sich auf große Unternehmensstandorte. Obwohl viele der dort zusammengeführten Funktionen relativ isoliert oder organisatorisch getrennt erscheinen mögen, wird eine breite Kolokation (Standortbündelung) oft angestrebt. Der Grund dafür liegt in der Annahme, dass dadurch Begegnungen ermöglicht werden, die die abteilungsübergreifende Zusammenarbeit und Innovation stimulieren. Solche „Agglomerationseffekte“ sind in der Wirtschaftsliteratur ausführlich als wichtige Quelle für den ökonomischen Nutzen von Städten beschrieben worden. Eine zentrale Aufgabe eines solchen Unternehmenscampus ist, diese Vorteile für das Unternehmen zu erschließen. Um die Vorteile der Standortbündelung optimal zu nutzen, ist eine sorgfältige Planung unerlässlich. Eine übermäßige Trennung nach Organisationen und Disziplinen oder eine zu starke Fokussierung auf die Kernarbeit kann den Nutzen der agglomerativen Spontaneität untergraben. Gleichzeitig kann eine zu starke Fragmentierung die direkte Produktivität beeinträchtigen. Verschiedene Elemente des Campus – wie Gehwege, Kantinen, Büros, Gemeinschaftsräume und Freizeitanlagen – spielen unterschiedliche Rollen bei der Förderung von direkter Arbeit und spontanen Beziehungen.
+Ein bedeutender Teil der Arbeit, insbesondere im Angestelltenbereich, konzentriert sich auf große Unternehmensstandorte. Obwohl viele der dort zusammengeführten Funktionen relativ isoliert oder organisatorisch getrennt erscheinen mögen, wird eine breite Kolokation (Standortbündelung) oft angestrebt. Der Grund dafür liegt in der Annahme, dass dadurch Begegnungen ermöglicht werden, die die abteilungsübergreifende Zusammenarbeit und Innovation stimulieren. Solche „Agglomerationseffekte“ sind in der Wirtschaftsliteratur ausführlich als wichtige Quelle für den ökonomischen Nutzen von Städten beschrieben worden[^agglom]. Eine zentrale Aufgabe eines solchen Unternehmenscampus ist, diese Vorteile für das Unternehmen zu erschließen. Um die Vorteile der Standortbündelung optimal zu nutzen, ist eine sorgfältige Planung unerlässlich. Eine übermäßige Trennung nach Organisationen und Disziplinen oder eine zu starke Fokussierung auf die Kernarbeit kann den Nutzen der agglomerativen Spontaneität untergraben. Gleichzeitig kann eine zu starke Fragmentierung die direkte Produktivität beeinträchtigen. Verschiedene Elemente des Campus – wie Gehwege, Kantinen, Büros, Gemeinschaftsräume und Freizeitanlagen – spielen unterschiedliche Rollen bei der Förderung von direkter Arbeit und spontanen Beziehungen.
+
+[^agglom]: Jane Jacobs, *The Economy of Cities* (New York: Vintage, 1969).  Edward L. Glaeser, Hedi D. Kallal, José A. Scheinkman and Andrei Shleifer, "Growth in Cities",*Journal of Political Economy* 100, no. 6 (1992): 1126-1152.
 
 Ein anschauliches Beispiel hierfür ist Steve Jobs' Umgestaltung der Pixar-Zentrale. Er richtete ein zentrales Atrium ein, das ein großes Theater, eine Cafeteria, Postfächer und Ausstellungsräume umfasst. Dieses Layout fördert zufällige Begegnungen und den interdisziplinären Austausch, indem es Informatiker:innen, Animator:innen und andere Mitarbeiter:innen dazu ermutigt, sich in einem gemeinsamen Raum zu treffen.
 
 Die architektonische Neugestaltung stellt jedoch eine beträchtliche Herausforderung dar: Sie ist kostspielig und muss andere unternehmensspezifische Elemente wie die Art der Tätigkeit oder die Markenidentität berücksichtigen. Es überrascht daher nicht, dass es kein Standardrezept für das optimale Campus-Design gibt. Campusse unterscheiden sich radikal in ihrer Gestaltung, wobei das in Abbildung A gezeigte ringförmige „Raumschiff“ von Apple ein herausragendes Beispiel darstellt. Alles, was die Kosten des Ausprobierens bzw. Erkundens senken kann, könnte die Qualität deutlich verbessern.
 
-Abbildung 6-1-A. Apples berühmter, ungewöhnlich geformter Firmencampus. Quelle: Unsplash Stock Photo, frei für kommerzielle Nutzung. 
+
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/apple.jpg" width="100%" alt="Apple's torus-shared campus, seen from above.">
+
+**<figcaption>Abbildung 6-1-A. Apples berühmter, ungewöhnlich geformter Firmencampus. Quelle: [Unsplash stock photo](https://unsplash.com/photos/round-black-and-white-building-during-daytime-NXP7wGyUDeY), frei für kommerzielle Nutzung.</figcaption>**
+</figure>
+<br></br>
+
+
 
 Ein vielversprechender Ansatz zur Verbesserung solcher Experimente ist die Schaffung eines ISR-Campus (Immersive Shared Reality-Campus). In diesen virtuellen Umgebungen können Mitarbeiter:innen potenzielle Konfigurationen austesten und an virtuellen Sitzungen teilnehmen. Diese virtuellen Konfigurationen lassen sich wesentlich schneller und flexibler als ein physischer Campus realisieren, wodurch Mitarbeiter:innen eine Vielzahl von Experimenten durchführen können, während sie an virtuellen Besprechungen teilnehmen.
 
