@@ -1,20 +1,15 @@
-# **02-00 INFORMATIONSTECHNOLOGIE UND DEMOKRATIE: EINE SICH VERGRÖßERNDE KLUFT**
+# Informationstechnologie und Demokratie: eine wachsende Kluft
 
-Von Audrey Tang, E. Glen Weyl und der Pluralitäts-Community
+> „Überwachungskapitalismus ist … ein Putsch von oben … die Abschaffung der Volkssouveränität und eine maßgebliche Kraft auf dem gefährlichen Weg hin zur Zerstörung der Demokratie …“ — Shoshana Zuboff, [Das Zeitalter des Überwachungskapitalismus](https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/?lens=publicaffairs)[^surveillancecapitalism] 2019
 
-Informationstechnologie und Demokratie: eine sich vergrößernde Kluft
+[^surveillancecapitalism]: Shoshanna Zuboff, *The Age of Surveillance Capitalism* (New York: Public Affairs, 2019): 513.
 
-"(D)er Technologie-Champion des Westens, die Vereinigten Staaten, haben
-beschlossen, sich selbst zu geißeln - beide politischen Parteien und
-ihre gewählten Vertreter sind damit beschäftigt, die
-US-Technologieindustrie auf jede erdenkliche Weise zu vernichten."
+„Wir werden belogen … man sagt uns, Technologie nimmt uns die Arbeitsplätze weg, reduziert unsere Löhne, vergrößert die Ungleichheit, bedroht unsere Gesundheit, ruiniert die Umwelt, zersetzt unsere Gesellschaft, verdirbt unsere Kinder, beeinträchtigt unsere Menschlichkeit, bedroht unsere Zukunft und steht kurz davor, alles zu ruinieren.“ – Marc Andreessen, "[Das Techno-Optimisten-Manifest](https://a16z.com/the-techno-optimist-manifesto/)"[^OptimistManifesto], 2023
 
-Marc Andreessen, Interview mit Noah Smith, 2021
+[^OptimistManifesto]: Marc Andreessen, "The Techno-Optimist Manifesto", *Andreessen Horowitz Blog*, October 16, 2023, https://a16z.com/the-techno-optimist-manifesto/.
 
-"Technologie könnte eine Kraft für die Demokratie sein, aber sie hat
-sich als ebenso große Bedrohung für sie erwiesen."
+---
 
-Shoshana Zuboff, Das Zeitalter des Überwachungskapitalismus, 2018
 
 Die Angst vor Technologie und Geopolitik ist heute allgegenwärtig. Doch
 es gibt einen grundlegenderen Konflikt als den zwischen Großmächten um
