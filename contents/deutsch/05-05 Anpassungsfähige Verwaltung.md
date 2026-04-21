@@ -36,7 +36,7 @@ Diese strukturierten Informationsformulare ermöglichen eine „faire“, „ger
 
 Dadurch geraten Verwaltungen in ein Spannungsfeld zwischen zwei Polen: Sie können nur begrenzt vielfältige Formen der Zusammenarbeit zulassen und gleichzeitig nur eingeschränkt soziale Vielfalt überbrücken.[^Davies]
 
-[^Davies]: A forthcoming book provides an excellent study in these pathologies, as well as providing the squirrel example below. Davies, op. cit.
+[^Davies]:  Ein kommendes Buch bietet eine hervorragende Studie dieser Pathologien sowie das unten stehende Eichhörnchen-Beispiel. Davies, op. cit.
 
 Das erste Problem könnte man als „Starrheit“ bezeichnen, d. h. dass bürokratische Regeln, die viele Details weglassen, zu Ergebnissen führen, bei denen wichtige Merkmale für spezifische Fälle oder lokale Umstände nicht berücksichtigt werden. Es gibt Beispiele, die schlicht banal, beschämend oder einfach lächerlich sind. Man bedenke:
 
