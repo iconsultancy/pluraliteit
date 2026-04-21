@@ -28,7 +28,7 @@ Bei den gebräuchlichsten Wahlverfahren wählt jedes Mitglied einer Gemeinschaft
 3. Selbst im besten Fall gibt das Abstimmungsergebnis nur die Richtung vor, für die sich die Mehrheit entschieden hat. Es bildet nicht den allgemeinen „Willen der Gruppe“ ab. Dazu sollte berücksichtigt werden, wie wichtig die verschiedenen Themen für die Menschen sind und wie viel sie darüber wissen. Dies wird oft als „Tyrannei der Mehrheit“ bezeichnet.
 
 [^Duverger]: Maurice Duverger, *Les Partis Politiques* (Paris: Points, 1951).
-[^Evans]: For more information about compulsory voting in Australia, see Tim Evans, *Compulsory Voting in Australia*, January 16 2022, at https://www.aec.gov.au/about_aec/publications/voting/files/compulsory-voting.pdf.
+[^Evans]:  Für weitere Informationen über die Wahlpflicht in Australien, siehe Tim Evans,, *Compulsory Voting in Australia*, 16.Januar 2022, unter https://www.aec.gov.au/about_aec/publications/voting/files/compulsory-voting.pdf.
 
 Eine Reihe von weit verbreiteten Wahlverfahren zielen darauf ab, diese Problematik in begrenztem Umfang zu lösen:
 
