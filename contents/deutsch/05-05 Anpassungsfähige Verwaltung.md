@@ -6,7 +6,7 @@ Das demonstrierte Beispiel ist das Ergebnis jahrelanger Arbeit und Zusammenarbei
 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="One Indian farmer pointing out something to another on his mobile phone">
-**<figcaption>Abbildung 5-5-A. Die Ergebnisse dieser Arbeit sind bereits heute zu sehen. Quelle: Microsoft.</figcaption>**
+<figcaption>Abbildung 5-5-A. Die Ergebnisse dieser Arbeit sind bereits heute zu sehen. Quelle: Microsoft.</figcaption>
 </figure>
 <br></br>
 
@@ -20,24 +20,29 @@ Die klassischen Vorwürfe gegen Bürokratie und Verwaltung lauten, dass sie eine
 ### Verwaltung heute
 
 Viele der wichtigsten Ereignisse unseres Lebens hängen von Verwaltungsentscheidungen ab, die auf Informationsstrukturen (verschiedenen Arten von „Formularen“) beruhen – diese erfassen jedoch nur einen Bruchteil dessen, was unsere Lebenswege ausmacht. Beispiele hierfür sind:
-Ausweis- und Reisedokumente
-Ausbildungsnachweise, Lebensläufe oder Dokumente wie Curriculum vitae
-Rechtsdokumente, einschließlich Eigentumsurkunden und Verträge
-Steuererklärungen
-Strukturierte Leistungsbeurteilungen
-Medizinische Aufnahme- und Bewertungsformulare
-Gerichtsakten (diese enthalten jedoch in der Regel mehr Details und Kontext als die oben genannten)
 
-Diese strukturierten Informationsformulare ermöglichen eine „faire“, „gerechte“ und „unparteiische“ Bewertung bei potenziellen Zuwendungen oder Entscheidungen, die zu komplex sind, um sich auf allgemeine transparente Regeln zu stützen, wie dies bei Märkten oder Wahlen der Fall ist. Um Fairness zu erreichen, lassen diese Systeme oft absichtlich eine Reihe von Informationen außer Acht. Dies wird in der europäischen Tradition durch verschiedene Abbildungen der personifizierten Justitia ausgedrückt, deren Augen verbunden sind. Wie Wissenschaftler spätestens seit dem Pionier der Soziologie Max Weber festgestellt haben, setzen Verwaltungssysteme große „Bürokratien“ und eine umfangreiche digitale Verarbeitung ein, um diese strukturierten Daten nach Regeln und Verfahren auszuwerten und dadurch zwei Ziele zu erreichen: Erstens mehr Informationen zu gewinnen als Wahlen und Märkte dies ermöglichen und zweitens dabei Fairness zu wahren.
+* Ausweis- und Reisedokumente
+* Ausbildungsnachweise, Lebensläufe oder Dokumente wie Curriculum vitae
+* Rechtsdokumente, einschließlich Eigentumsurkunden und Verträge
+* Steuererklärungen
+* Strukturierte Leistungsbeurteilungen
+* Medizinische Aufnahme- und Bewertungsformulare
+* Gerichtsakten (diese enthalten jedoch in der Regel mehr Details und Kontext als die oben genannten)
 
-Dadurch geraten Verwaltungen in ein Spannungsfeld zwischen zwei Polen: Sie können nur begrenzt vielfältige Formen der Zusammenarbeit zulassen und gleichzeitig nur eingeschränkt soziale Vielfalt überbrücken.
+Diese strukturierten Informationsformulare ermöglichen eine „faire“, „gerechte“ und „unparteiische“ Bewertung bei potenziellen Zuwendungen oder Entscheidungen, die zu komplex sind, um sich auf allgemeine transparente Regeln zu stützen, wie dies bei Märkten oder Wahlen der Fall ist. Um Fairness zu erreichen, lassen diese Systeme oft absichtlich eine Reihe von Informationen außer Acht. Dies wird in der europäischen Tradition durch verschiedene Abbildungen der personifizierten Justitia ausgedrückt, deren Augen verbunden sind. Wie Wissenschaftler spätestens seit dem Pionier der Soziologie Max Weber festgestellt haben, setzen Verwaltungssysteme große „Bürokratien“ und eine umfangreiche digitale Verarbeitung ein, um diese strukturierten Daten nach Regeln und Verfahren auszuwerten und dadurch zwei Ziele zu erreichen: Erstens mehr Informationen zu gewinnen als Wahlen und Märkte dies ermöglichen und zweitens dabei Fairness zu wahren.[^Weber]
+
+[^Weber]: Max Weber, *Economy and Society* (Somerville, NJ: Bedminster Press, 1968).
+
+
+Dadurch geraten Verwaltungen in ein Spannungsfeld zwischen zwei Polen: Sie können nur begrenzt vielfältige Formen der Zusammenarbeit zulassen und gleichzeitig nur eingeschränkt soziale Vielfalt überbrücken.[^Davies]
+
+[^Davies]: A forthcoming book provides an excellent study in these pathologies, as well as providing the squirrel example below. Davies, op. cit.
+
 Das erste Problem könnte man als „Starrheit“ bezeichnen, d. h. dass bürokratische Regeln, die viele Details weglassen, zu Ergebnissen führen, bei denen wichtige Merkmale für spezifische Fälle oder lokale Umstände nicht berücksichtigt werden. Es gibt Beispiele, die schlicht banal, beschämend oder einfach lächerlich sind. Man bedenke:
 
-In den meisten Ländern gibt es Geschwindigkeitsbegrenzungen für das Autofahren, um die Sicherheit zu gewährleisten. Die sichere Fahrgeschwindigkeit hängt jedoch stark von den Straßen-, Umwelt- und anderen Bedingungen ab. Das bedeutet, dass die Geschwindigkeitsbegrenzungen in den meisten Fällen entweder zu hoch oder zu niedrig für die jeweiligen Umstände sind. Ein ähnlicher Zusammenhang besteht für fast alle verwaltungspolitischen Maßnahmen, von den Warenpreisen bis zu den Pausenzeiten für Arbeitnehmer:innen.
-
-Um einen gut bezahlten Arbeitsplatz zu erhalten, müssen Menschen aus den verschiedensten Kulturen der Welt in der Regel ihre Leistungen und ihr Leben in das Format von Lebensläufen und Zeugnissen zwängen, die so gestaltet sind, dass sie für die Verwaltungsbürokratie und die einstellenden Manager lesbar sind, anstatt ihre Leistungen genau wiederzugeben.
-
-Ende der 1990er Jahre musste eine niederländische Fluggesellschaft buchstäblich hunderte von lebenden Eichhörnchen schreddern, weil sie nicht die richtigen Papiere für die Durchreise durch den Flughafen Schiphol hatten. Dies ist zwar ein besonders grausames Beispiel, aber fast jeder, der schon einmal geflogen ist, kennt die unflexiblen bürokratischen Systeme, die für die Verwaltung des Flugverkehrs verwendet werden und wird von dieser Geschichte nicht allzu überrascht sein.
+* In den meisten Ländern gibt es Geschwindigkeitsbegrenzungen für das Autofahren, um die Sicherheit zu gewährleisten. Die sichere Fahrgeschwindigkeit hängt jedoch stark von den Straßen-, Umwelt- und anderen Bedingungen ab. Das bedeutet, dass die Geschwindigkeitsbegrenzungen in den meisten Fällen entweder zu hoch oder zu niedrig für die jeweiligen Umstände sind. Ein ähnlicher Zusammenhang besteht für fast alle verwaltungspolitischen Maßnahmen, von den Warenpreisen bis zu den Pausenzeiten für Arbeitnehmer:innen.
+* Um einen gut bezahlten Arbeitsplatz zu erhalten, müssen Menschen aus den verschiedensten Kulturen der Welt in der Regel ihre Leistungen und ihr Leben in das Format von Lebensläufen und Zeugnissen zwängen, die so gestaltet sind, dass sie für die Verwaltungsbürokratie und die einstellenden Manager lesbar sind, anstatt ihre Leistungen genau wiederzugeben.
+* Ende der 1990er Jahre musste eine niederländische Fluggesellschaft buchstäblich hunderte von lebenden Eichhörnchen [schreddern](https://www.independent.co.uk/news/airline-killed-440-squirrels-in-giant-shredder-1087522.html), weil sie nicht die richtigen Papiere für die Durchreise durch den Flughafen Schiphol hatten. Dies ist zwar ein besonders grausames Beispiel, aber fast jeder, der schon einmal geflogen ist, kennt die unflexiblen bürokratischen Systeme, die für die Verwaltung des Flugverkehrs verwendet werden und wird von dieser Geschichte nicht allzu überrascht sein.
 
 Doch während Bürokratie einerseits „starr“, „kalt“ und „herzlos“ erscheint, wird im Gegensatz dazu häufig die Komplexität der Bürokratie beklagt, weil sie oft unverständlich und schwer zu handhaben sei (siehe dazu z. B. Franz Kafkas klassisches Werk „Das Schloss“), gespickt mit Kleingedrucktem und scheinbar willkürlichen Bürokraten einen übermäßigen Ermessensspielraum einräumen. Diese Probleme gehören zu den ärgerlichsten Merkmalen von Verwaltungen und sind eine ständige Quelle der Beschwerde für freiheitlich gesinnte Menschen (engl.: libertarians). Tatsächlich haben sie viele der Ideen über „dezentrale autonome Organisationen“ (DAO; englisch: distributed autonomous organization) und „smarte Verträge“ inspiriert, die übermäßige Ermessensspielräume vermeiden sollen, welche zu hohen Kosten im Rechtsbereich führen. Trotzdem ist klar, dass ein Hauptgrund für diese Komplexität die Notwendigkeit ist, die Vielfalt und Vielschichtigkeit der zu bearbeitenden Fälle zu berücksichtigen. Das ist auch der Hauptgrund dafür, dass Verwaltungen an Legitimität einbüßen. Indem sie versuchen, ein breites Spektrum sozialer Unterschiede abzudecken, damit sie ordnungsgemäß funktionieren, werden sie immer komplexer. Zunehmend entstehen jedoch digitale Technologien, die es ermöglichen, diese Problematik eleganter zu lösen, indem sie die Zusammenarbeit verbessern und zurecht ein breiteres Spektrum an Vielfalt abdecken.
 
