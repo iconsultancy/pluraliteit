@@ -16,12 +16,9 @@ Neue Matching-Plattformen wie [GitCoin Grants](https://www.gitcoin.co/) lösen d
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png" width="100%" alt="Screenshot of The project page for the plurality book on Gitcoin. It shows details and a description of the project, contacts, the date it was created, how many rounds have ended, the number of contributors, and the amount received to date.">
 
-
 **<figcaption>Abbildung 5-7-B. Das ⿻ Buch auf der Gitcoin-Plattform. Bis zum 2. Februar 2024 spendeten 87 Personen insgesamt 332,84 $ für das Projekt. Quelle: Screenshot der Anwendung</figcaption>**
 </figure>
 <br></br>
-
-
 
 ---
 
