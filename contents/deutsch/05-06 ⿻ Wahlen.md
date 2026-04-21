@@ -38,7 +38,7 @@ Eine Reihe von weit verbreiteten Wahlverfahren zielen darauf ab, diese Problemat
 
 [^Arrow]: Kenneth J. Arrow, *Social Choice and Individual Values* (New York, John Wiley & Sons, 1951). See also Kenneth O. May, "A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision" 20, no. 4 (1952): 680-684, Allan Gibbard,"Manipulation of Voting Schemes: A General Result", *Econometrica* 41, no. 4 (1973): 587-601  and Mark A. Sattherthwaite, "Strategy-Proofness and Arrow's Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions", *Journal of Economic Theory* 10, no. 2 (1975): 187-217.
 [^Tunneling]: Simon Johnson, Rafael La Porta, Florencio Lopez-de-Silanes and Andrei Shleifer, "Tunneling", *American Economic Review* 90, no. 2 (2000): 22-27.
-[^Pluralist]: For a lengthier discussion see E. Glen Weyl, "Why I am a Pluralist" *RadicalxChange Blog*, February 10, 2022 at https://www.radicalxchange.org/media/blog/why-i-am-a-pluralist/.
+[^Pluralist]: Für vertiefte Ausführungen siehe E. Glen Weyl, "Why I am a Pluralist" *RadicalxChange Blog*, 10. Februar 2022 unter https://www.radicalxchange.org/media/blog/why-i-am-a-pluralist/.
 
 So ist die Wahl zwar eine kanonische demokratische Technologie, aber auch eine, die mit Paradoxien, Starrheit und weithin erkannten ungelösten Problemen behaftet ist. Mit einer neuen Generation von Ansätzen wurde in jüngster Zeit versucht, die Möglichkeiten drastisch auszuweiten.
 
