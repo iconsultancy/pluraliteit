@@ -6,9 +6,21 @@ Neue Finanzierungsmodelle setzen auf „Matching Funds“ und Community-gesteuer
 
 Neue Matching-Plattformen wie [GitCoin Grants](https://www.gitcoin.co/) lösen dieses Problem mit einer „pluralen Finanzierungs“-Formel: Sie verbindet Sponsoren und Spender:innen und gewichtet dabei nicht nur die Höhe der Spenden, sondern auch deren Vielfalt – von einzelnen Personen bis hin zu verschiedenen sozialen Gruppen. Diese Plattformen haben sich als wichtige OSS-Finanzierungsquelle etabliert und bereits über hundert Millionen Dollar verteilt. Dabei unterstützten sie besonders Web3-Projekte, taiwanische Initiativen und auch dieses Buch. Mittlerweile werden sie auch in anderen Bereichen wie  [Umweltschutz](https://moda.gov.tw/en/ADI/news/bulletin-board/5451) oder [lokaler Wirtschaftsentwicklung](https://medium.com/@katiebrenjohnson/downtown-stimulus-program-review-e89f67e29f4f) eingesetzt.
 
-Abbildung 5-7-A. Beiträge auf Gitcoin werden durch einen Matching-Pool ergänzt, der durch Quadratic Funding angetrieben wird. Quadratic Funding ist eine ⿻ Finanzierungsmethode, die kleine Beiträge aus verschiedenen sozialen Kreisen stärker belohnt als große Einzelspenden. Quelle: Beitrag des GitCoin-Teams.
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png" width="100%" alt="Illustrion of 2 sliding scales. The one of the left sliding straight from $0 to $1000, and is currently set at $10. The one on the right is a corresponding quadratic slider showing that $10 will be matched by $74 and that if the left one was slid all the way to $1000 the match would be $5000. Together this illustrated that due to quadratic matching, lesser donations receive a higher match per dollar.">
 
-Abbildung 5-7-B. Das ⿻ Buch auf der Gitcoin-Plattform. Bis zum 2. Februar 2024 spendeten 87 Personen insgesamt 332,84 $ für das Projekt. Quelle: Screenshot der Anwendung
+**<figcaption>Abbildung 5-7-A. Beiträge auf Gitcoin werden durch einen Matching-Pool ergänzt, der durch Quadratic Funding angetrieben wird. Quadratic Funding ist eine ⿻ Finanzierungsmethode, die kleine Beiträge aus verschiedenen sozialen Kreisen stärker belohnt als große Einzelspenden. Quelle: Beitrag des GitCoin-Teams.</figcaption>**
+</figure>
+<br></br>
+
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png" width="100%" alt="Screenshot of The project page for the plurality book on Gitcoin. It shows details and a description of the project, contacts, the date it was created, how many rounds have ended, the number of contributors, and the amount received to date.">
+
+**<figcaption>Abbildung 5-7-B. Das ⿻ Buch auf der Gitcoin-Plattform. Bis zum 2. Februar 2024 spendeten 87 Personen insgesamt 332,84 $ für das Projekt. Quelle: Screenshot der Anwendung</figcaption>**
+</figure>
+<br></br>
+
+
 
 ---
 
