@@ -98,7 +98,7 @@ Wir müssen daher verhindern, dass wir uns Hals über Kopf in ein monopolistisch
 
 [^PortalsPolicingProject]: “Portals Policing Project,” The Justice Collaboratory, n.d., https://www.justicehappenshere.yale.edu/projects/portals-policing-project.
 
-[^TreeProject]: See www.treeofficial.com
+[^TreeProject]: Siehe www.treeofficial.com
 
 [^OlfactoryWearables]: Judith Fernandez, Nirmita Merha, Bjoern Rasch, and Pattie Maes,
 "Olfactory Wearables for Mobile Targeted Memory Reactivation," _Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_, Hamburg, Germany, Article 717, (2023): 1–20, https://doi.org/10.1145/3544548.35808922023.
