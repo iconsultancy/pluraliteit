@@ -16,7 +16,14 @@ Im Laufe der Geschichte gehörte multisensorische Co-Präsenz zu den bedeutungsv
 
 In den letzten Jahren hat die Technologie zunehmend eine Rolle bei der Ermöglichung einer solchen Co-Präsenz gespielt, insbesondere über große Entfernungen hinweg. ISR bezieht sich auf eine Technologie, die eine gemeinsame virtuelle Umgebung schafft, in der Nutzende in Echtzeit interagieren können. Diese Art von „Realität“ kann als Teilmenge der vermittelten Realität betrachtet werden, wie in Abbildung A dargestellt. Vermittelte oder geteilte Realität (Shared Reality) ist ein umfassenderer Begriff, der verschiedene Technologien umfasst, die unsere Wahrnehmung der Realität beeinflussen – einschließlich der virtuellen (virtual), erweiterten (augmented) und gemischten (mixed) Realität (auch bekannt als VR, AR, MR).
 
-Abbildung 5-2-A. Mediated Reality Framework, angepasst von Mann und Nnlf (1994). Quelle: Wikipedia, CC 3.0 BY-SA. 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt='Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality."'>
+
+**<figcaption>Abbildung 5-2-A. Mediated Reality Framework, angepasst von Mann und Nnlf (1994). Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Computer-mediated_reality), CC 3.0 BY-SA. </figcaption>**
+</figure>
+<br></br>
+
+
 ISR kann auf viele menschliche Interaktionen angewendet werden. Einige der häufigsten Anwendungen sind Sozialisierung, Gaming, Unterhaltung, Sport und Fitness:
 
 - VR-Treffen: Diese digitalen Räume ermöglichen es Menschen aus der ganzen Welt, in einer gemeinsamen virtuellen Umgebung zu interagieren. Hier repräsentieren Avatare die Teilnehmenden und ermöglichen ausdrucksstarke Bewegungen und Interaktionen, die über die verbale Kommunikation hinausgehen. Diese virtuellen Treffen können von gemeinsamen Arbeitstreffen bis hin zu gesellschaftlichen Veranstaltungen reichen, bei denen das Gefühl der Anwesenheit durch die immersive 3D-Umgebung verstärkt wird. Die Teilnehmenden erleben ein Gefühl der Zusammengehörigkeit und Gemeinschaft, wodurch Verbindungen entstehen, die zwar nicht so intensiv sind wie physische Interaktionen, aber dennoch bedeutungsvoll und emotional ansprechend.
