@@ -1,265 +1,54 @@
-Der Beginn von Technologien für allumfassende geteilte Realitäten
-(immersive shared realities) markiert ein transformatives Kapitel in der
-menschlichen Interaktion, indem modernste Virtual Reality (VR, virtuelle
-Realität), Augmented Reality (AR, erweiterte Realität) und Mixed Reality
-(MR, gemischte Realität) Systeme genutzt werden. Diese Technologien
-ermöglichen es Menschen, unabhängig von geografischen Beschränkungen, an
-tief geteilten, wertorientierten und multisensorischen Erfahrungen
-teilzuhaben, die ein Gefühl von Solidarität und Gemeinschaft fördern.
-Dieses Kapitel untersucht die Landschaft der immersiven Technologien,
-ihre Anwendungen und Potenziale, und setzt sie in einen breiteren Rahmen
-digitaler und physischer Interaktionsmodalitäten. Es konzentriert sich
-auf Technologien, die kollektive Erfahrungen ermöglichen und physische
-und virtuelle Elemente verschmelzen lassen. Dabei wird nicht nur
-untersucht, wie sie die menschliche Erfahrung ergänzen und erweitern,
-indem sie Interaktionen ermöglichen, die über traditionelle soziale und
-räumliche Grenzen hinausgehen, sondern es wird auch betont, welche
-entscheidende Rolle diese Technologien möglicherweise in Umwelt- und
-Klimaengagements spielen können, um nachhaltige, klimaresiliente
-geteilte Realitäten zu schaffen.
 
-Grafik 1: Mediated Reality Framework angepasst von Mann und Nnlf’94
 
-Shared Reality heute
+5-2 Immersive Shared Reality (ISR)
+„Steh auf und schau in den Spiegel“ – dieser zunächst harmlose, aber allmählich bedrohlicher werdende Refrain hallt durch Courtney Cogburns „1000 Cut Journey“. Es sind einfache Worte, die die Besuchenden dieser immersiven Realität dazu einladen, das Leben durch die Augen, Ohren und den Körper von Michael Sterling, einem schwarzen Mann, zu erleben. Kleine Momente beiläufigen Rassismus' steigern sich zu einem Crescendo der Hoffnungslosigkeit und lösen ein allgegenwärtiges Gefühl der Hilflosigkeit aus. Wahrnehmung oder Realität? Es kommt darauf an, in wessen Schuhen man geht. Manche ziehen ihre Schuhe vielleicht aus, sobald sie die VR-Brille abnehmen, aber für Michael Sterling gibt es nichts, was er (oder nun sie) tun könnte, um die Spuren der direkten Erfahrung zu löschen.
+In „Becoming Homeless“ sehen Sie sich in Ihrer bereits kahlen Wohnung um, um zu entscheiden, welche Besitztümer Sie als Nächstes verkaufen möchten. Sie verlieren ihr Zuhause, also spielt es keine Rolle mehr, und Sie wählen einfach etwas aus. Ab dem Moment der tatsächlichen Obdachlosigkeit beschleunigt sich die Abwärtsspirale. Sie verlieren Ihre Würde, Ihre physische Sicherheit und Ihre Gesundheit in schneller Folge. Keine Hoffnungen und Träume mehr, Gedanken und Gebete können Ihnen jetzt nicht mehr helfen. Der neue Alltag verkürzt die Lebenserwartung um 25 Jahre, schneller, als der „Wolf of Wall Street“ Jordan Belfort eine Flasche Champagner entkorken könnte. „Viel Glück!“, „Arbeite hart!“ und – leider – „Ich liebe dich!“ sind jetzt nur noch Worte, die Sie vielleicht vor langer Zeit gehört haben, gesprochen zu einer Person, an die Sie sich kaum noch erinnern können.
 
-Immersive Shared Reality bezieht sich auf die Verwendung von
-Technologie, um eine gemeinsame virtuelle Umgebung zu schaffen, in der
-Benutzende in Echtzeit miteinander interagieren können. Diese Art von
-«Realität» kann als eine Teilanwendung von Mediated Reality (vermittelte
-Realität) betrachtet werden, einem breiteren Begriff, den Steve Mann
-bereits in den 90er Jahren geprägt hat. Mediated Reality umfasst
-verschiedene Technologien, die unsere Wahrnehmung der Realität
-vermitteln, einschliesslich Virtual, Augmented und Mixed Reality (VR,
-AR, MR). Einige der häufigsten Anwendungen sind im Bereich Gaming,
-Unterhaltung, Kunst, Gesundheitswesen und Bildung zu finden, die oft
-auch immersive, gemeinsam geteilte Realitäten sind.
+Immersive Shared-Reality-Technologien schlagen ein neues Kapitel in der menschlichen Interaktion auf, indem sie modernste Virtual-Reality- (VR), Augmented-Reality- (AR) und Mixed-Reality-Systeme (MR) nutzen. Im Gegensatz zum zutiefst persönlichen und sensorisch reichen Austausch der postsymbolischen Kommunikation bietet die geteilte immersive Realität eine breitere Leinwand für die menschliche Interaktion und ermöglicht es den Menschen, gemeinsame, multisensorische Erfahrungen zu machen. Dieses Kapitel befasst sich mit der Landschaft der immersiven Technologien, den heutigen Anwendungen, dem Potenzial von morgen und den Grenzen des Machbaren. Es zeigt, wie immersive Technologien gemeinsame Erfahrungen ermöglichen können, die physische und virtuelle Realität miteinander verbinden und die menschliche Erfahrung durch Interaktionen ergänzen und erweitern, wodurch physische, räumliche und soziale Grenzen überwunden werden. Die immersive geteilte Reality (ISR) schafft Räume, in denen Gemeinschaften zusammenkommen können, um Kontakte zu knüpfen, zu spielen, sich zu unterhalten und vieles mehr. Dabei entstehen Verbindungen, die zwar weniger intensiv sind als post-symbolische Kommunikation, aber dennoch bedeutungsvoll und emotional ansprechend. Von Virtual-Reality-Treffen, die Menschen auf der ganzen Welt zusammenbringen, bis hin zu Online-Gaming-Events und virtuellen Musikfestivals erweitern diese digitalen Arenen den Möglichkeitsraum gemeinsamer menschlicher Erfahrungen.
+In naher Zukunft werden ISR-Technologien voraussichtlich rasant wachsen. Der technologische Fortschritt wird die sensorische Integration dieser virtuellen Erfahrungen vertiefen und über das Sehen und Hören hinausgehen – sie wird auch Berührung, Geruch und sogar Geschmack umfassen. Diese Zukunft, die von hybriden Realitätsumgebungen und emotionaler Verbundenheit geprägt ist, läutet eine neue Ära der menschlichen Interaktion ein, in der digitale Räume die Realität nicht nur simulieren, sondern verbessern, indem sie Barrieren überbrücken und ein breiteres Verständnis fördern. ISR birgt jedoch auch Gefahren. Von der zunehmenden Überwachung bis hin zur Flucht in die virtuelle Realität erfordern diese Herausforderungen eine sorgfältige Abwägung, um sicherzustellen, dass unsere digitale Zukunft den Reichtum menschlicher Erfahrungen erweitert und nicht verschleiert.
+Co-Präsenz heute
+Im Laufe der Geschichte gehörte multisensorische Co-Präsenz zu den bedeutungsvollsten menschlichen Erfahrungen. Religiöse Zeremonien sprechen oft viele Sinne in großen Gruppen an. Clubs und Partys gehören aufgrund ihrer multisensorischen Wirkung zu den beliebtesten Unterhaltungserlebnissen. Politische Kundgebungen, Gruppenversammlungen (sei es in Schulen oder bei Konzerten), gemeinsame Ausflüge (wie Wandern, Sport etc.) sprechen alle eine Reihe von Sinnen an.
+In den letzten Jahren hat die Technologie zunehmend eine Rolle bei der Ermöglichung einer solchen Co-Präsenz gespielt, insbesondere über große Entfernungen hinweg. ISR bezieht sich auf eine Technologie, die eine gemeinsame virtuelle Umgebung schafft, in der Nutzende in Echtzeit interagieren können. Diese Art von „Realität“ kann als Teilmenge der vermittelten Realität betrachtet werden, wie in Abbildung A dargestellt. Vermittelte oder geteilte Realität (Shared Reality) ist ein umfassenderer Begriff, der verschiedene Technologien umfasst, die unsere Wahrnehmung der Realität beeinflussen – einschließlich der virtuellen (virtual), erweiterten (augmented) und gemischten (mixed) Realität (auch bekannt als VR, AR, MR).
 
-Die heutige Immersive Shared Reality ist eine lebendige Mischung aus
-Unterhaltung, Kunst und Zusammenarbeit, von virtuellen Konzerten und
-Online-Multiplayer-Spielen bis hin zu virtuellem Team-Building und
-virtuellem Tourismus. Künstler:innen wie Billie Eilish haben bereits
-virtuelle Konzerte veranstaltet, die Menschenmengen in das pulsierende
-Herz ihrer Musik ziehen, oder Musikfestivals wie Coachella haben die
-Vorteile von VR ohne die Einschränkungen physischer Veranstaltungsorte
-(z. B. Ausverkauf) genutzt. Solche gemeinsamen Erlebnisse, wie beim
-Online-Multiplayer-Gaming, schaffen Welten, in denen Spieler:innen nicht
-nur konkurrieren, sondern auch dauerhafte Freundschaften bilden, die die
-Grenzen zwischen der virtuellen und physischen Welt überwinden. Durch VR
-gerenderte virtuelle Team-Building-Übungen in einem gemeinsamen
-digitalen Raum verwandeln sich Kolleg:innen, die durch Ozeane getrennt
-sind, zu Teamkolleg:innen. Zudem fördern diese virtuelle
-Team-Building-Übungen Teamgeist und Kameradschaft. Durch virtuellen
-Tourismus können Reisende entfernte Orte erleben, durch historische
-Städte spazieren oder fremde Landschaften besuchen, ohne ihre Häuser zu
-verlassen.
-
-Diese Plattformen schaffen aber mehr als nur Unterhaltung. Sie schaffen
-auch Räume für geteiltes Verständnis und Empathie über Kulturen und
-Entfernungen hinweg und fördern emotionale Verbindung und Bewusstsein
-zwischen Menschen, die weit voneinander entfernt sind. Zum Beispiel
-werden diese Plattformen in Sprachlernanwendungen genutzt, um
-Benutzer:innen in die linguistische und kulturelle Hintergründe anderer
-Kulturen und Menschen eintauchen zu lassen. Therapiesitzungen in der
-virtuellen Realität bieten Heilung und Trost für Menschen mit
-psychischen Herausforderungen. Jedes dieser Beispiele umfasst einen
-einzigartigen Aspekt davon, wie Immersive Shared Reality Unterhaltung
-mit tieferen sozialen Verbindungen verschmelzen lassen können. Mit der
-zunehmenden Reife dieser Technologien werden sie fortlaufend nicht nur
-eingesetzt, um die Realität zu simulieren, sondern um sie zu verbessern,
-eine Brücke zwischen verschiedenen Kulturen zu schlagen und eine globale
-Gemeinschaft geteilter Erfahrungen und gegenseitigen Verständnisses zu
-fördern, unabhängig von Herkunft oder Sprache.
-
-Remote Shared Reality von morgen
-
-Am Horizont aufkommende Technologien versprechen, das Eintauchen in die
-immersive Erfahrung zu vertiefen und die menschliche Interaktion neu zu
-gestalten, indem sie Benutzer:innen in eine synthetische Welt hüllen,
-die mehrere Sinne gleichzeitig simuliert. Während bisher Sehen und Hören
-im Fokus standen, beginnt nun die Integration von Berührung, Geruch und
-sogar Geschmack die immersive Erfahrung zu verbessern. Der Horizont der
-Immersive Shared Reality strahlt vor Potenzial und deutet auf eine
-Zukunft hin, in der die multisensorische Integration nicht die Ausnahme,
-sondern die Norm ist. Neue Sensoren und Aktuatoren versprechen, die
-immersive Erfahrung in synthetischen Welten zu vertiefen, die nicht nur
-replizieren, sondern alle Sinne verbessern.
-
-Audiovisuelle Schnittstellen sind schon lange die Vorreiter in der
-digitalen Welt. Daher erweitert sich das Gebiet nun, um den Tastsinn
-miteinzubeziehen, unterstützt durch fortschrittliche haptische
-Rückkopplungssysteme, die die Feinheiten physischen Kontakts nachahmen.
-Der Geruchssinn, der früher im digitalen Bereich als schwer fassbar
-galt, wird nun von olfaktorischer Technologie erfasst, wodurch Düfte und
-Gerüche Teil von Geschichten, Bildung und sogar Einkaufserlebnissen in
-der virtuellen Realität werden können. Der Geschmackssinn, obwohl noch
-in den Anfangsstadien, beginnt durch Geschmacks-Umleitung (taste
-retargeting) \[1\] seine Spuren zu hinterlassen und deutet auf eine
-Zukunft hin, in der das Speisen zu einem gemeinsamen virtuellen
-Abenteuer werden kann, indem die Wahrnehmung des Geschmacks verändert
-wird dadurch dass chemische Modulatoren dem Mund vor dem Essen zugeführt
-werden.
-
-Diese multisensorische Erweiterung dient nicht nur der Verbesserung,
-sondern verfolgt auch einen höheren Zweck: die Förderung von
-Inklusivität und Gleichberechtigung in immersiven Räumen. Zum Beispiel
-werden hyperrealistische soziale VR-Plattformen unter Berücksichtigung
-von Barrierefreiheit entwickelt, um Menschen mit Seh- oder
-Hörbeeinträchtigungen die Teilnahme über andere Sinne zu ermöglichen.
-Virtuelle Kammern werden entworfen, in denen Menschen, die weit
-voneinander entfernt sind, miteinander sprechen können, als wären sie im
-gleichen Raum. Das «Portals Policing Project» \[2\] ist ein Beispiel
-dafür, wie Immersive Shared Realities dem öffentlichen Wohl dienen
-können, indem sie die Lebenserfahrungen von Menschen und
-Strafverfolgungsbehörden in einer kontrollierten, aber realistischen
-virtuellen Kammer teilen und das Verständnis und das Vertrauen auf
-beiden Seiten verbessern. In ähnlicher Weise zeigt das «Tree Project»
-\[3\], wie immersive VR Empathie und Mitgefühl für die Natur hervorrufen
-kann, indem der/die Benutzer:in in einen Regenwaldbaum verwandelt wird
-und ihm/ihr die Bedrohungen durch Abholzung und Klimawandel vor Augen
-geführt werden.
-
-Erweiterungsgebiete der Immersive Shared Reality
-
-An den Erweiterungsgebieten der Immersive Shared Reality sind wir nicht
-nur Zuschauer:innen, sondern aktive Teilnehmende an einer Revolution der
-multisensorischen Integration \[4\]. Mit dem Fortschritt der Mediated
-Reality-Technologien wird die Präzision, mit der Sinnesmodalitäten
-repliziert und in virtuelle Erfahrungen integriert werden, verbessert.
-Dies ermöglicht eine anspruchsvollere und kontrollierte Nutzung
-nicht-traditioneller sensorischer Inputs wie dem Geruchssinn und dem
-Geschmackssinn. Diese sorgfältige Auswahl olfaktorischer und haptischer
-Reize in Kombination mit visuellen und auditiven Reizen kann eine
-überzeugende Illusion von Realität erzeugen, die tief mit den Emotionen
-und Erinnerungen der Benutzer:innen resoniert. Solche Reize können, wenn
-sie während des Schlafs reaktiviert werden, nicht nur diese Erinnerungen
-verbessern \[5\], sondern auch Welten durch sensorische Stimulation in
-veränderten Bewusstseinszuständen simulieren \[6\], wie in einem
-geteilten luziden Traum \[7\].
-
-Die Bedeutung einer solchen Integration spricht für die umfassenderen
-Ziele der Immersive Shared Realities – die Schaffung von Erlebnissen,
-die nicht nur eine Flucht aus der Realität sind, sondern Erweiterungen
-von ihr. Die das Verständnis und die Beteiligung der Benutzer:innen an
-wichtigen globalen Themen wie dem kritischen Bereich des Klimawandels
-verbessern. Die eine Plattform, nicht nur für Bewusstseinsbildung,
-sondern für eine aktive Teilnahme an Nachhaltigkeitsbemühungen bieten.
-Virtuelle Umgebungen können die drastischen Realitäten des Klimawandels
-simulieren, wie steigende Meeresspiegel oder die Auswirkungen von
-extremen Wetterereignissen, und abstrakte und oft entfernte Konzepte zu
-einer unmittelbaren und persönlichen Erfahrung machen. Diese immersiven
-Simulationen sind keine Angstmacherei, sondern Bildungsinstrumente, die
-Benutzer:innen emotional und kognitiv einbinden und ein tieferes
-Verständnis für die Umweltauswirkungen menschlichen Handelns fördern.
-Dies kann besonders wirkungsvoll sein, wenn im Rahmen dieser Realitäten
-affektives Computing verwendet wird, bei der das System die Umgebung
-basierend auf der Reaktion des/der Benutzers/Benutzerin, der Physiologie
-sowie der Erinnerungen oder Vorlieben anpasst und so eine
-Rückkopplungsschleife schafft, die das Bewusstsein und die Empathie für
-Klimafragen steigert.
-
-Betrachten Sie nun das Potenzial solcher immersiven Erfahrungen, um
-Umweltbewusstsein und den Akt gemeinschaftlicher Schaffung
-voranzutreiben. In einem virtuellen Designstudio kommen
-Gemeindemitglieder, Architekten:innen und Ingenieur:innen zusammen, um
-die Grünflächen von morgen gemeinsam zu gestalten. Der Prozess geht über
-blosse Planung hinaus; die Teilnehmenden können die Umgebung fühlen und
-mit ihr mitfühlen, virtuell die Rinde von Bäumen berühren, die für die
-Pflanzung vorgesehen sind, und den Duft der Pflanzenblüten der Gärten
-inhalieren, um eine unmittelbare Verbindung zum Projekt zu schaffen,
-lange bevor das erste Saatgut in der physischen Welt gesät wird. Stellen
-Sie sich vor, dass nach einem solchen kollaborativen Designprozess in
-Immersive Shared Reality die Vision der Gemeinschaft nicht nur in
-detaillierte 3D-Modelle umgewandelt wird, sondern dann mithilfe von
-grossformatigen 3D-Druckern zum Leben erweckt wird; 3D-Drucker, die mit
-lokalen Biomaterialien drucken können, welche reichlich vorhanden,
-recycelbar und klimaneutral sind. Der Prozess greift auf die Prinzipien
-der Kreislaufwirtschaft zurück, bei denen die verwendeten Materialien
-beschafft, genutzt und schliesslich ohne Abfall wieder der Erde
-zurückgeführt werden können.
-
-Das 3D-Drucken von Wohnhäusern und Gemeinschaftsstrukturen bedeutet
-einen radikalen Bruch mit den traditionellen Baumethoden. Automatisierte
-Drucker, geleitet von präzisen digitalen Schemata, die aus den in der
-Immersive Share Reality abgehaltenen Sitzungen stammen, schichten die
-Biomaterialien, um Wände und architektonische Merkmale mit einer
-Geschwindigkeit und Effizienz zu schaffen, die herkömmliche Methoden
-nicht erreichen können. Dieser Prozess reduziert den Bauabfall erheblich
-und ermöglicht komplexe, organische Designs, die mit konventionellen
-Bautechniken schwer oder unmöglich umzusetzen wären. Die Idee, eine
-Gemeinschaft aus der kollektiven Vorstellungskraft ihrer zukünftigen
-Bewohner «zu drucken», ist nicht mehr so abwegig, wie es einst schien.
-
-Die Immersive Shared Reality fungiert als leistungsstarkes Designtool,
-das es den Bewohnern:innen ermöglicht, ihre Lebensräume in einer
-virtuellen Umgebung gemeinsam zu gestalten. Solche Welten werden zur
-Bildung von gemeinsamen Erfahrungen und kollektiven Erinnerungen
-beitragen und diese sich entwickelnde Technologie in das neue Zeitalter
-der post-symbolischen Kommunikation einordnen, wie im vorherigen Kapitel
-beschrieben.
-
-Limitationen der Immersive Shared Reality
-
-Trotz ihrer Versprechungen sieht sich die Immersive Shared Reality einer
-Vielzahl ethischer Dilemmata und gesellschaftlicher Herausforderungen
-gegenüber, die die Prinzipien der Pluralität untergraben könnten. Wir
-stehen potenziellen Problemen gegenüber, wie dem Risiko einer virtuellen
-Flucht vor der Realität und der Verwässerung des realen Aktivismus, der
-Gefahr von Sucht oder der Vernachlässigung von Verantwortlichkeiten und
-Beziehungen in der physischen Welt. Da virtuelle Erfahrungen kurz davor
-stehen, von unserer greifbaren Realität kaum unterscheidbar zu sein,
-werden die Risiken der Sucht und die potenzielle Vernachlässigung der
-Anforderungen der physischen Welt zu spürbaren Bedenken. Die
-verführerische Anziehungskraft dieser digitalen Reiche könnte eine Form
-der virtuellen Realitätsflucht auslösen, bei der die Grenzen zwischen
-authentischem Aktivismus und simulierter Fürsprache verschwimmen, was
-möglicherweise die Kraft von Bemühungen um realen Wandel verwässert.
-
-Um diesen Bedenken zu begegnen, bedarf es einer sorgfältigen Integration
-ethischer und demokratischer Prinzipien in das Gewebe virtueller
-Gemeinschaften. Unter Rückgriff auf Erkenntnisse aus anderen Kapiteln
-bietet die Integration von partizipativen Governance-Systemen, wie etwa
-demokratischen Abstimmungsmechanismen, in virtuellen Umgebungen einen
-vielversprechenden Ansatz. Solche Systeme können sicherstellen, dass
-Einzelpersonen verwurzelt und verantwortlich bleiben, und so ein
-Gleichgewicht zwischen digitalem Engagement und ihren Rollen und
-Verantwortlichkeiten in der realen Welt bewahren. Durch die Förderung
-einer Kultur aktiver Bürgerschaft und verantwortungsbewusster
-Verantwortung innerhalb dieser Plattformen können wir dazu beitragen,
-die Pluralität und Vielfalt zu schützen, die die Grundlage lebendiger
-Gesellschaften bilden.
-
-Referenzen
-
-1.  Jas Brooks, Noor Amin, and Pedro Lopes. 2023. Taste Retargeting via
-    > Chemical Taste Modulators. In Proceedings of the 36th Annual ACM
-    > Symposium on User Interface Software and Technology (UIST '23).
-    > Association for Computing Machinery, New York, NY, USA, Article
-    > 106, 1–15.
-    > [<u>https://doi.org/10.1145/3586183.3606818</u>](https://doi.org/10.1145/3586183.3606818)
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-TasteRetargeting-2375a71144291007cc7746f9024ecef0)
-
-2.  Cornelio, Patricia, Carlos Velasco, and Marianna Obrist.
-    > "Multisensory integration as per technological advances: A
-    > review." Frontiers in Neuroscience (2021): 614.
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-MultisensoryIntegration-2375a71144291007cc7746f9024ecef0)
-
-3.  [<u>https://www.justicehappenshere.yale.edu/projects/portals-policing-project</u>](https://www.justicehappenshere.yale.edu/projects/portals-policing-project)
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-PortalsPolicingProject-2375a71144291007cc7746f9024ecef0)
-
-4.  [<u>www.treeofficial.com</u>](http://www.treeofficial.com/)
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-TreeProject-2375a71144291007cc7746f9024ecef0)
-
-5.  Amores Fernandez, Judith, et al. "Olfactory Wearables for Mobile
-    > Targeted Memory Reactivation." Proceedings of the 2023 CHI
-    > Conference on Human Factors in Computing Systems. 2023.
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-OlfactoryWearables-2375a71144291007cc7746f9024ecef0)
-
-6.  Carr, Michelle, et al. "Dream engineering: Simulating worlds through
-    > sensory stimulation." Consciousness and cognition 83
-    > (2020): 102955.
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-DreamEngineering-2375a71144291007cc7746f9024ecef0)
-
-7.  Konkoly et al. Real-time dialogue between experimenters and dreamers
-    > during REM sleep. Current Biology, 2021 DOI:
-    > 10.1016/j.cub.2021.01.026
-    > [<u>↩</u>](https://github.com/pluralitybook/plurality/blob/main/contents/english/05-02-immersive-shared-reality.md#user-content-fnref-RealtimeDreamDialogue-2375a71144291007cc7746f9024ecef0)
+Abbildung 5-2-A. Mediated Reality Framework, angepasst von Mann und Nnlf (1994). Quelle: Wikipedia, CC 3.0 BY-SA. 
+ISR kann auf viele menschliche Interaktionen angewendet werden. Einige der häufigsten Anwendungen sind Sozialisierung, Gaming, Unterhaltung, Sport und Fitness:
+VR-Treffen: Diese digitalen Räume ermöglichen es Menschen aus der ganzen Welt, in einer gemeinsamen virtuellen Umgebung zu interagieren. Hier repräsentieren Avatare die Teilnehmenden und ermöglichen ausdrucksstarke Bewegungen und Interaktionen, die über die verbale Kommunikation hinausgehen. Diese virtuellen Treffen können von gemeinsamen Arbeitstreffen bis hin zu gesellschaftlichen Veranstaltungen reichen, bei denen das Gefühl der Anwesenheit durch die immersive 3D-Umgebung verstärkt wird. Die Teilnehmenden erleben ein Gefühl der Zusammengehörigkeit und Gemeinschaft, wodurch Verbindungen entstehen, die zwar nicht so intensiv sind wie physische Interaktionen, aber dennoch bedeutungsvoll und emotional ansprechend.
+Massen-Online-Gaming: Online-Multiplayer-Spiele schaffen ausgedehnte Welten, in denen die Spielenden zusammenarbeiten, gegeneinander antreten und gemeinsam Strategien entwickeln. Die Kommunikation ist eine Mischung aus Gesten im Spiel, strategischer Planung und schneller Entscheidungsfindung, oft unter Zeitdruck. Diese Umgebung fördert eine Form von Partnerschaft und kollektiver Intelligenz, da die Spielenden sich auf die Spielstile und Taktiken der anderen einstellen und auf gemeinsame Ziele hinarbeiten.
+Online-Gottesdienste: Im digitalen Zeitalter haben sich religiöse Versammlungen auf Online-Plattformen ausgeweitet, sodass Gemeinden aus der Ferne an Gottesdiensten und Ritualen teilnehmen können. Diese Form des gemeinschaftlichen Gottesdienstes bietet zwar nicht die physische Nähe traditioneller Gottesdienste, vermittelt aber dennoch ein Gefühl des gemeinsamen Glaubens und vereint die Teilnehmenden in einer geteilten religiösen Erfahrung.
+Virtuelle Musikfestivals und Partys: Mit dem Aufkommen der Streaming-Technologie haben Musikfestivals und Partys in der virtuellen Welt eine neue Heimat gefunden, und zwar in einer Reihe von Medien, von der Oper im Kino bis hin zu VR-Konzerten und Musikfestivalerlebnissen. Virtuelle Elemente sind sogar für die beliebtesten Musikveranstaltungsorte, die nur mit persönlicher Anwesenheit besucht werden können, immer wichtiger geworden, was zu massiven Investitionen führt, die digitale und physische Erfahrungen immer enger miteinander verbinden.
+E-Sport-Turniere: E-Sport hat enorm an Popularität gewonnen, wobei Zuschauende und Spielende an hochkompetitiven Spielen auf professionellem Niveau teilnehmen. Diese Veranstaltungen, die oft für ein großes Publikum gestreamt werden, schaffen ein gemeinsames Gefühl der Begeisterung und Verbundenheit unter den Fans.
+Fitnesskurse aus der Ferne: Der Aufstieg des Online-Fitness, insbesondere während der Pandemie, hat Menschen auf der Suche nach Gesundheit und Wohlbefinden zusammengebracht. Die Teilnehmenden nehmen von zu Hause aus an synchronisierten Workouts, Yoga-Sitzungen oder Tanzkursen teil und teilen ein gemeinsames Ziel und ein Gefühl der Gruppenmotivation.
+Virtueller Tourismus: Reisende können abgelegene Orte erleben, durch historische Städte spazieren oder fremde Landschaften bequem von zu Hause aus besuchen. Diese Technologie ermöglicht es ihnen, virtuell durch historische Städte zu spazieren, Naturwunder zu bestaunen und in fremde Landschaften einzutauchen.
+Immersive künstlerische Erlebnisse: Mit dem Aufkommen von gemeinsamen Erfahrungen aus der Ferne hat sich ein neues Genre der immersiven Kunst entwickelt, das an der Schnittstelle von Live-Unterhaltung und Museen immer beliebter wird. Die Teilnehmenden erforschen gemeinsam Rätsel, lösen Escape-Puzzles, leben in der Welt eines Künstlers, der die Welt mit anderen Augen sah, oder umgeben sich mit Welten neuartiger taktiler und visueller Empfindungen, die sie zu einem neuen gemeinsamen Verständnis des Möglichen führen.
+Immersive Shared Reality von morgen
+Die ISR-Technologie verbindet Menschen, um in bisher ungekanntem Umfang und über soziale Distanzen hinweg gemeinsam zu lernen und Empathie zu entwickeln, wie in unserem Eröffnungsbeispiel hervorgehoben wurde. Die Zukunft der ISR verspricht, entfernte oder imaginäre Erfahrungen greifbar und real werden zu lassen und die Nutzenden in eine synthetische Welt zu versetzen, die mehrere Sinne gleichzeitig simuliert. Während der traditionelle Fokus auf Bild und Ton lag, versprechen neue Sensoren und Aktoren (Ausgabegeräte) eine tiefere Integration von Berührung, Geruch und sogar Geschmack. Haptische Feedback-Systeme werden die Feinheiten des physischen Kontakts nachbilden. Die Geruchstechnologie wird es ermöglichen, Düfte und Gerüche in VR-Erlebnisse in den Bereichen Storytelling, Bildung und sogar Einzelhandel zu integrieren. Das „Geschmacks-Retargeting“ wird virtuelle kulinarische Erlebnisse durch die Veränderung der Geschmackswahrnehmung durch die Zuführung chemischer Substanzen in den Mund ermöglichen. Hier sind einige geplante Fortschritte und neuartige Beispiele, die das Konzept der ISR in neue Dimensionen erweitern:
+Hybrid-Reality-Umgebungen: Durch die kombinierte Nutzung von Augmented Reality (AR) und Virtual Reality (VR) verschmelzen in diesen Umgebungen physische und digitale Elemente nahtlos. Stellen Sie sich vor, Sie nehmen an einer Konferenz teil, bei der Teilnehmende aus der Ferne als Hologramme in voller Größe erscheinen und in Echtzeit mit physischen Objekten und anderen Teilnehmenden interagieren können – eine Technik, die ich (Audrey) häufig für Fernauftritte verwende. Dadurch verschwimmt die Grenze zwischen physischer und digitaler Anwesenheit.
+Emotionale Verbundenheit: Neue Technologien zielen darauf ab, nuancierte menschliche Emotionen und körperliche Empfindungen durch VR zu übertragen, indem sie fortschrittliches haptisches Feedback, biometrische Sensoren und emotionale generative Basis-Modelle verwenden. Dies könnte es den Nutzenden ermöglichen, die Wärme eines Händedrucks, den Druck einer Umarmung oder sogar die Feinheiten des emotionalen Ausdrucks, der durch einen virtuellen Avatar vermittelt wird, zu spüren. Dadurch werden die Verbindungen und das Einfühlungsvermögen zwischen den Teilnehmenden vertieft und Menschen mit Seh- oder Hörbehinderungen erhalten die Möglichkeit, sich über andere Sinne zu beteiligen.
+Massive Multi-User Online-Laboratorien (MMOLs): Forschende können gemeinsam Experimente in einem geteilten virtuellen Labor durchführen. MMOLs könnten die Zusammenarbeit in Echtzeit bei wissenschaftlicher Forschung und Bildung auf der ganzen Welt erleichtern, indem sie Zugangsbarrieren abbauen und eine Form der immersiven, kollektiven Entdeckung ermöglichen.
+Digitale Bürgerräume: Digitale Nachbildungen von Bürgerzentren, Rathäusern und Gemeinschaftsräumen, in denen sich Menschen versammeln können, um zu diskutieren, zu debattieren und Entscheidungen über ihre Gemeinden zu treffen. Diese Räume würden eine inklusivere und zugänglichere Form des bürgerschaftlichen Engagements ermöglichen und es den Teilnehmenden ermöglichen, sich von überall auf der Welt an lokalen Regierungs- oder Planungsprozessen zu beteiligen. Diese digitalen Räume können unsere gewohnten Verhaltensweisen aus der physischen Welt viel besser aufgreifen als heutige Online-Plattformen und dadurch das Entstehen von Kontext und gemeinsamem Verständnis fördern.
+Immersives Lernen: Von virtuellen Exkursionen bis hin zu interaktiven historischen Nachstellungen werden Bildungsinhalte immersiver, sodass Lernende aller Altersgruppen auf eine Weise lernen und forschen können, die fesselnd, einprägsam und wirkungsvoller ist als herkömmliche Methoden. Ein solches Lernen kann von der Vertiefung von Verbindungen zu historischen Erfahrungen durch Immersion bis hin zur Bereitstellung von Berufsausbildungen in einem weitaus breiteren Spektrum von Risikoszenarien reichen, als dies derzeit möglich ist.
+Interkultureller Austausch: Plattformen, die speziell darauf ausgelegt sind, das Verständnis und die Empathie zwischen verschiedenen kulturellen Gruppen zu fördern, indem sie die Nutzenden in die Erfahrungen von Menschen mit unterschiedlichem Hintergrund eintauchen lassen. Durch Erzählungen, Rituale und Alltagsaktivitäten könnten diese Plattformen VR und AR nutzen, um kulturelle Unterschiede zu überbrücken und ein globales Gemeinschaftsgefühl zu schaffen. Sprachlernanwendungen nutzen diese Technologie beispielsweise, um Nutzende in die sprachliche und kulturelle Welt anderer eintauchen zu lassen. Ein weiteres Beispiel ist das Portals Policing Project, das die Erfahrungen von Menschen mit Strafverfolgungsbehörden in einer kontrollierten, aber realistischen virtuellen Umgebung teilt und so das Verständnis und das Vertrauen auf beiden Seiten verbessert.
+Erfahrungen mit dem Klimawandel: Interaktive Simulationen, die es den Nutzenden ermöglichen, die potenziellen Auswirkungen des Klimawandels aus erster Hand zu erleben. So zeigt beispielsweise „Tree“, wie VR Empathie und Mitgefühl für die natürliche Umwelt wecken kann, indem Nutzende in einen Regenwaldbaum verwandelt werden und mit den Bedrohungen durch Abholzung und Klimawandel konfrontiert werden.
+Therapie: Durch die Nutzung der Möglichkeiten von VR zur Schaffung therapeutischer Umgebungen bieten Sitzungen zunehmend eine stark verbesserte kognitive Verhaltenstherapie, die es Patientinnen und Patienten ermöglicht, sich kontrolliert und schrittweise ihren Ängsten, vergangenen Traumata, angstauslösenden sozialen Situationen und anderen Herausforderungen zu stellen. Die Therapie für Kinder, die an Autismus-Spektrum-Störungen sowie an Aufmerksamkeitsdefizit- und Hyperaktivitätsstörungen leiden, zeigt zunehmend Erfolge.
+Mit zunehmender Reife dieser Technologien werden sie nicht nur zur Simulation der Realität, sondern auch zu deren Verbesserung eingesetzt, um eine Brücke zwischen verschiedenen Kulturen zu schlagen und eine globale Gemeinschaft zu fördern, in der Erfahrungen und gegenseitiges Verständnis unabhängig von Herkunft oder Sprache geteilt werden. Diese geplanten Anwendungen der ISR haben das Potenzial, die Art und Weise, wie wir mit der Welt und miteinander interagieren, zu verändern und das Verständnis, die Empathie und die Zusammenarbeit in allen Facetten des menschlichen Handelns zu fördern.
+Neue Horizonte der immersiven geteilten Realität
+Mit den Fortschritten in der ISR durchläuft die Natur der Gemeinschaftserfahrung und der menschlichen Verbindung eine tiefgreifende Metamorphose. Stellen Sie sich vor, Sie betreten eine Welt, in der gemeinsame virtuelle Räume keine bloßen Simulationen sind, sondern Erweiterungen unserer physischen Realität, die Erfahrungen bieten, die genauso reich und komplex sind wie die in der greifbaren Welt. In dieser Zukunft ermöglichen ISR-Technologien eine Verschmelzung von Sinnen, Gedanken und Emotionen. An den Grenzen der ISR sind wir nicht nur Betrachtende, sondern aktive Teilnehmende an einer Revolution der multisensorischen Integration.
+Erdachte Welten und gemeinsame Träume: Eine verfeinerte und kontrolliertere Nutzung sensorischer Inputs (wie Geruch, Geschmack, visuelle und auditive Reize) wird es den Teilnehmenden ermöglichen, Realitäten zu erzeugen und zu teilen, die tief mit den Emotionen und Erinnerungen der Teilnehmenden übereinstimmen. Wenn solche Reize im Schlaf reaktiviert werden, können sie nicht nur diese Erinnerungen verstärken, sondern auch veränderte Bewusstseinszustände und gemeinsame Klarträume ermöglichen. Die Teilnehmenden können gemeinsam die unbewussten Spielwiesen des menschlichen Geistes erkunden. Generative Basis-Modelle ermöglichen es den Nutzenden bereits, mit Sprache Welten zu erschaffen, und je vielfältiger die Eingabemodalitäten werden, desto wahrscheinlicher wird es, dass wir unsere Vorstellungskraft und Träume teilen können.
+Simulierte Welten: Virtuelle Umgebungen können Realitäten simulieren – sowohl die Zukunft als auch die Vergangenheit – unter verschiedenen Bedingungen. So können die Teilnehmenden beispielsweise mit Szenarien des Klimawandels experimentieren, wie dem Anstieg des Meeresspiegels oder den Auswirkungen extremer Wetterereignisse, wodurch heute scheinbar weit in der Zukunft liegende Modelle zu einer unmittelbaren und persönlichen Erfahrung werden, oder mögliche vorteilhafte Zukunftsszenarien planen, um sie zu erreichen und unbeabsichtigte Schäden zu vermeiden. Mit emotionssensitiver Datenverarbeitung (Affective Computing) kann sich das System basierend auf der Reaktion, der Physiologie sowie den Erinnerungen oder Vorlieben der Nutzenden an die Umgebung anpassen und so eine Rückkopplungsschleife schaffen, die das Bewusstsein und die Empathie schärft.
+Virtuelle Designstudios: Gemeindemitglieder, Architektinnen und Architekten sowie Ingenieurinnen und Ingenieure können zusammenkommen, um gemeinsam die Grünflächen von morgen zu gestalten und so den Begriff „Planung“ neu zu definieren. Die Teilnehmenden berühren virtuell die Rinde der Bäume, die gepflanzt werden sollen, und atmen den Duft der Blüten ein, die für die Gärten bestimmt sind. Das Feedback der Teilnehmenden kann die Simulation in Echtzeit verändern und ermöglicht so ein sensorisches Eintauchen in verschiedene Projektvisionen. Mit den Methoden aus unserem Kapitel „Augmented Deliberation“ weiter unten könnten die Teilnehmenden die Möglichkeiten für ein gemeinsames Design, welche sie gemeinsam erarbeitet haben, virtuell erleben und zum Leben erwecken, bevor das Design schließlich im physischen Raum manifestiert wird.
+Kollektive Erinnerungspaläste (Memory Palaces): Stellen Sie sich virtuelle Umgebungen vor, in denen ganze Gemeinschaften kollektive Erinnerungen und Wissen ablegen, teilen und erleben können. Diese Erinnerungspaläste dienen nicht nur als Aufbewahrungsorte für gemeinschaftliches Wissen, sondern auch als Räume, in denen Einzelpersonen historische Ereignisse erneut erleben oder die kollektive Psyche der Menschheit erforschen können, wodurch ein tieferes Verständnis und eine engere Verbindung zwischen den Generationen gefördert wird. Sie könnten auch die Erfahrung der Erinnerung an kollektive Traumata neu definieren und es ermöglichen, diese flexibel und aus verschiedenen Perspektiven zu erzählen.
+Empathieverstärker: ISR könnte es uns ermöglichen, die Welt durch die Augen anderer zu erleben. Dieser direkte Erfahrungsaustausch würde als Empathieverstärker dienen, Vorurteile abbauen und ein tiefes Gefühl der Einheit und des Verständnisses zwischen verschiedenen Gruppen von Menschen fördern. Stellen Sie sich Simulationen vor, die es Einzelpersonen ermöglichen, die kollektiven Erfahrungen ganzer Gemeinschaften, Nationen oder Zivilisationen zu durchleben und ihre Kämpfe, Freuden und Herausforderungen als ihre eigenen zu empfinden. Dies könnte als wirksames Instrument für Bildung und Konfliktlösung dienen und den Frieden auf globaler Ebene fördern.
+Globale Bewusstseinsnetzwerke: Stellen Sie sich eine Zukunft vor, in der Menschen ihre Gedanken, Gefühle und Erfahrungen über ein weltweites Netzwerk miteinander teilen können und so Teil eines sich ständig wandelnden Stromes des kollektiven Bewusstseins werden. Dieses Netzwerk würde eine Form der Kommunikation und Verbindung ermöglichen, die über die Sprache hinausgeht und eine beispiellose Synchronisierung menschlicher Absichten und Handlungen bei globalen Herausforderungen ermöglichen.
+Artenübergreifende Kommunikationsplattformen (Kommunikation mit anderen Spezies und Lebewesen): Über die Interaktion von Mensch zu Mensch hinaus könnte ISR die Grenzen der Kommunikation erweitern und andere Arten einbeziehen, wie wir im Kapitel „Umwelt“ weiter unten erörtern. Durch die Übersetzung nichtmenschlicher Sprachen und Erfahrungen in Formate, die wir verstehen können, und umgekehrt, könnten diese Plattformen ein beispielloses Maß an Empathie und Zusammenarbeit zwischen Menschen und anderen Lebensformen auf unserem Planeten fördern.
+Digitale Vermächtnisse: ISR könnte es Einzelpersonen ermöglichen, digitale Vermächtnisse zu schaffen – ganze Welten, die aus ihren Erinnerungen, Gedanken und Erfahrungen bestehen. Diese Welten würden nicht nur als eine Form der Unsterblichkeit dienen, sondern auch als Mittel für zukünftige Generationen, das Leben und die Erkenntnisse ihrer Vorfahren auf eine zutiefst persönliche und interaktive Weise zu erforschen.
+Gemeinsame Kreativräume: Diese digitalen Plattformen würden es Künstlerinnen und Künstlern, Musikerinnen und Musikern, Schriftstellerinnen und Schriftstellern und Kreativen aller Art ermöglichen, in Echtzeit und weltweit in gemeinsamen virtuellen Räumen zusammenzuarbeiten. Hier verschmelzen Ideen und Inspirationen in einem gemeinschaftlichen kreativen Fluss und führen zu Kunst und Innovation, die den kollektiven menschlichen Geist wirklich widerspiegeln und die individuellen Fähigkeiten übersteigen, wie wir im nächsten Kapitel näher erläutern werden.
+Während wir uns auf diese Reise begeben, stehen wir kurz davor, die menschliche Erfahrung und Zusammenarbeit neu zu definieren. Die Technologien, die vor uns liegen, versprechen nicht nur Fortschritte in der Art und Weise, wie wir mit der Welt interagieren, sondern auch eine Revolution in der Art und Weise, wie wir wahrnehmen, uns verbinden und Neues schaffen. In diesem neuen Zeitalter werden die Barrieren zwischen individuellem Bewusstsein und kollektiver Erfahrung fließender und läuten eine Zukunft ein, in der unsere gemeinsamen Realitäten eine tiefere Einheit und noch kreativere Zusammenarbeit fördern.
+Grenzen der immersiven gemeinsamen Realität
+Im Gegensatz zum intimen, direkten Austausch von Gedanken und Emotionen, wie er in der postsymbolischen Kommunikation vorgesehen ist, eröffnet die immersive geteilte Realität neue Dimensionen für die menschliche Interaktion und Koordination, von der einfachen sozialen Interaktion bis hin zu Bildung, Arbeit und Unterhaltung – mit einer Reihe von Einschränkungen und ethischen Bedenken. Wenn „Die Matrix“ eine Dystopie der postsymbolischen Kommunikation ist, kann eine ähnliche und passende dystopische Parallele aus Neal Stephensons „Snow Crash“ und dem ähnlichen, aber bekannteren „Ready Player One“ von Ernest Cline gezogen werden, das von Steven Spielberg verfilmt wurde. In beiden Geschichten ziehen sich die Menschen als Reaktion auf den sozialen und ökologischen Niedergang in ISR-Simulationen zurück („das Metaverse“ bei Stephenson, „die OASIS“ bei Cline), was diesen Niedergang weiter verstärkt, da sie das bürgerschaftliche Engagement in der physischen Welt aufgeben. Diese Geschichten veranschaulichen mehrere Risiken von ISR:
+Flucht in die virtuelle Realität: Die Abhängigkeit von ISR auf Kosten der realen Welt, von der sie abhängt, anstatt als Möglichkeit, ein effektiveres Verständnis und kollektives Handeln in ihr zu schaffen, birgt die Gefahr einer Abwärtsspirale. Diese Spirale sehen wir beispielsweise auch bei generativen Basis-Modellen, die minderwertigen Output produzieren, der ihr zukünftiges Training untergräbt, oder der industriellen Entwicklung, die die Umwelt zerstört, von der sie abhängt.
+Verschlechterung der psychischen Gesundheit: Das Eintauchen in alternative Realitäten über längere Zeiträume kann zu psychologischen Auswirkungen führen, wie etwa Schwierigkeiten bei der Unterscheidung zwischen virtuellen und physischen Erfahrungen oder das Gefühl, von den sozialen Bindungen der realen Welt abgeschnitten zu sein. Die ständige Verfügbarkeit einer idealisierten digitalen Flucht könnte sich auf die psychische Gesundheit auswirken und zu Isolation oder einer verminderten Fähigkeit führen, mit den Herausforderungen der realen Welt umzugehen.
+Digitale Kluft: Eine neue digitale Spaltung birgt die Gefahr, die Kluft zwischen denjenigen, die Zugang zu den neuesten Technologien haben, und denjenigen, die keinen Zugang haben, zu vergrößern. Da ISR immer mehr zu einem integralen Bestandteil des sozialen und beruflichen Lebens wird, könnte ein fehlender Zugang Einzelpersonen und Gemeinschaften ausgrenzen, es sei denn, der Zugang wird als Menschenrecht behandelt, so wie wir es oben für den Internetzugang gefordert haben.
+Auswirkungen auf die körperliche Gesundheit: Längeres Engagement in virtuellen Umgebungen wirft Bedenken hinsichtlich der körperlichen Gesundheit auf, einschließlich der Auswirkungen einer längeren Bildschirmzeit auf das Sehvermögen und des sitzenden Lebensstils, der mit immersiven digitalen Aktivitäten verbunden ist. Die Balance zwischen der Faszination virtueller Welten und dem Bedürfnis nach körperlicher Aktivität und Interaktion in der realen Welt wird zu einem entscheidenden gesundheitlichen Aspekt.
+Unternehmenskontrolle, Überwachung und Monopolisierung: ISR verwischt die Grenzen zwischen öffentlich und privat, wobei digitale Räume gleichzeitig intim und offen für ein breites Publikum sein können oder von Unternehmen beobachtet werden. Wenn ISR-Netzwerke nicht nach den oben genannten Grundsätzen der Rechte und Interoperabilität aufgebaut werden und den umfassenderen ⿻ Governance-Ansätzen unterliegen, denen ein Großteil des restlichen Teils dieses Buches gewidmet ist, werden sie zu den stärksten monopolistischen Käfigen, die wir kennen.
+Identität und Authentizität: Die Freiheit, in ISR beliebige Personas zu schaffen und anzunehmen, verschärft die Herausforderungen der Authentizität und Identität, die wir oben hervorgehoben haben. Sie veranschaulicht das Potenzial für Anonymität und fließende Identität in geteilten immersiven Realitäten, was Vertrauen und Beziehungen erschwert, sowie die Möglichkeit, das eigene Selbstgefühl zu verlieren.
+Wir müssen daher verhindern, dass wir uns Hals über Kopf in ein monopolistisches und dystopisches „Metaversum“ stürzen und damit das sehr reale Potenzial dieser Technologien untergraben, eine umfassendere menschliche Verbindung zu ermöglichen, indem wir sie als Teil eines größeren Ökosystems von Technologien und Governance-Ansätzen verstehen, die ihre verantwortliche Entwicklung unterstützen müssen.
