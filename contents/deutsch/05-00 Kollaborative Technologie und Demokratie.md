@@ -12,6 +12,8 @@ Aus all diesen Gründen lernen Sie beim Lesen dieses Buches nicht nur die Ideen 
 
 --- 
 
+[^PMP]: Tobin South, Leon Erichsen, Shrey Jain, Petar Maymounkov, Scott Moore and E. Glen Weyl, "Plural Management" (2024) at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4688040.
+
 Während ein Betriebssystem für Menschenrechte die Grundlage bildet, ist der Sinn des Systems für die meisten Menschen das, was darauf aufbaut. Auf dem Fundament der Menschenrechte betreiben liberale demokratische Gesellschaften offene Gesellschaften, Demokratien und Wohlfahrtskapitalismus. Auf Betriebssystemen laufen Produktivitätstools, Spiele und eine Reihe internetbasierter Kommunikationsmedien. In diesem Kapitel werden wir die Kollaborationstechnologien veranschaulichen, die auf der Grundlage der ⿻ sozialen Protokolle des vorherigen Abschnitts aufgebaut werden können.
 
 Obwohl wir diesen Abschnitt des Buches „Demokratie“ genannt haben, geht das, was wir beschreiben wollen, weit über viele konventionelle Beschreibungen der Demokratie als Regierungssystem von Nationen hinaus. Stattdessen müssen wir, um auf den grundlegenden sozialen Protokollen aufzubauen, die gesamte Bandbreite der Möglichkeiten erforschen, wie Anwendungen die Zusammenarbeit und Kooperation erleichtern können, also die Zusammenarbeit mehrerer Einheiten (Personen oder Gruppen) auf ein gemeinsames Ziel hin. Doch selbst diese Formulierungen lassen etwas Entscheidendes vermissen, nämlich dass wir uns auf die Kraft konzentrieren, die durch Zusammenarbeit entsteht, um etwas Größeres zu schaffen, als die Summe dessen, was die Teile getrennt voneinander hätten schaffen können.
