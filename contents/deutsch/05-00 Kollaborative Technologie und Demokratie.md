@@ -133,7 +133,7 @@ Dennoch ist Homogenisierung kein unvermeidlicher Nebeneffekt des Brückenschlags
 
 Ähnliche Phänomene tauchen im Laufe der Geschichte immer wieder auf. Die Überbrückung politischer Gräben kann zu einer übermäßigen Homogenisierung führen, aber auch zur Entstehung neuer politischer Spaltungen. Familien bekommen oft Kinder, die sich von ihren Eltern unterscheiden und neue Perspektiven einbringen. Die meisten künstlerischen und kulinarischen Neuerungen entstehen durch „Bricolage“ oder „Fusion“ bestehender Stile.[^Levi] Die Synthesen, die entstehen, wenn These und Antithese aufeinandertreffen, sind nicht immer Kompromisse, sondern können neue Perspektiven eröffnen, die eine Debatte neu ausrichten.[^Fichte]
 
-[^Fichte]:  This concept is often erroneously attributed to the work of G.W.F. Hegel, but actually originates with Johann Gottlieb Fichte and was not an important part of Hegel's thought. Johann Gottlieb Fichte, "Renzension des Aenesidemus", *Allgemeine Literatur-Zeitung* 11-12 (1794).
+[^Fichte]: Dieses Konzept wird oft fälschlicherweise dem Werk von G.W.F. Hegel zugeschrieben, stammt tatsächlich aber von Johann Gottlieb Fichte und war kein wichtiger Bestandteil von Hegels Gedanken. Johann Gottlieb Fichte, „Renzension des Aenesidemus“, Allgemeine Literatur-Zeitung 11-12 (1794).
 
 Nichts davon ist unvermeidlich und natürlich gibt es viele Geschichten von Überschneidungen, die die Vielfalt untergraben. Aber diese Bandbreite an Möglichkeiten gibt Hoffnung, dass es in vielen Fällen möglich ist, Ansätze für eine Zusammenarbeit zu entwickeln, die die Vielfalt, die sie antreibt, erneuern, wenn man sich dem Thema sorgfältig widmet.
 
