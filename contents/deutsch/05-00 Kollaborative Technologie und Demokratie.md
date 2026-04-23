@@ -97,8 +97,15 @@ Dennoch ist Homogenisierung kein unvermeidlicher Nebeneffekt des Brückenschlags
 
 Ähnliche Phänomene tauchen im Laufe der Geschichte immer wieder auf. Die Überbrückung politischer Gräben kann zu einer übermäßigen Homogenisierung führen, aber auch zur Entstehung neuer politischer Spaltungen. Familien bekommen oft Kinder, die sich von ihren Eltern unterscheiden und neue Perspektiven einbringen. Die meisten künstlerischen und kulinarischen Neuerungen entstehen durch „Bricolage“ oder „Fusion“ bestehender Stile. Die Synthesen, die entstehen, wenn These und Antithese aufeinandertreffen, sind nicht immer Kompromisse, sondern können neue Perspektiven eröffnen, die eine Debatte neu ausrichten.
 
+[^Fichte]:  This concept is often erroneously attributed to the work of G.W.F. Hegel, but actually originates with Johann Gottlieb Fichte and was not an important part of Hegel's thought. Johann Gottlieb Fichte, "Renzension des Aenesidemus", *Allgemeine Literatur-Zeitung* 11-12 (1794).
+
 Nichts davon ist unvermeidlich und natürlich gibt es viele Geschichten von Überschneidungen, die die Vielfalt untergraben. Aber diese Bandbreite an Möglichkeiten gibt Hoffnung, dass es in vielen Fällen möglich ist, Ansätze für eine Zusammenarbeit zu entwickeln, die die Vielfalt, die sie antreibt, erneuern, wenn man sich dem Thema sorgfältig widmet.
 
 ### Unendliche Vielfalt in unendlichen Kombinationen
 
 In diesem Teil des Buches werden wir (bei weitem nicht erschöpfend) eine Reihe von Ansätzen für die Zusammenarbeit über Unterschiede hinweg untersuchen und wie weitere Fortschritte zu ⿻ diese erweitern und darauf aufbauen können. Jedes Kapitel beginnt, wie dieses, mit einer Darstellung von Technologien, die an der Grenze des heute Möglichen liegen und bereits eingesetzt werden. Anschließend wird die Landschaft der gängigen und neu entstehenden Ansätze in diesem Bereich beschrieben. Als Nächstes werden die vielversprechenden zukünftigen Entwicklungen, die derzeit erforscht werden, sowie die Risiken, die diese Tools für ⿻ darstellen könnten (z. B. Homogenisierung), und Ansätze zu deren Minderung, einschließlich der Nutzung der in anderen Kapiteln beschriebenen Tools, hervorgehoben. Wir hoffen, dass die breite Palette der von uns hervorgehobenen Ansätze nicht nur die Substanz von ⿻, sondern auch die Übereinstimmung seines Ansatzes mit seiner Substanz verdeutlicht. Nur ⿻ komplementäre und vernetzte Richtungen können die Entwicklung einer ⿻ Zukunft unterstützen.
+
+[^Ricardo]: David Ricardo, _On the Principles of Political Economy and Taxation_, (London: John Murray, 1817). 
+[^Disanalogy]: One possible disanalogy is that the Second Law of Thermodynamics implies that in a long-term and broad scope sense, regeneration  can never succeed.  Whether the same applies to diversity is less clear, though given how long term the relevance of the Second Law is, the analogy is quite strong for practical purposes.  In the long run, we're all dead.
+[^Levi]: Claude Lévi-Strauss, _The Elementary Structures of Kinship_, (Boston: Beacon Press, 1969).
+
