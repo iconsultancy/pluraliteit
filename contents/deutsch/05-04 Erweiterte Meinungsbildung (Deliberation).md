@@ -36,7 +36,7 @@ Wenn wir andererseits versuchen, die Reichweite und Effizienz von Gesprächen zu
 
 Das Kernproblem aller bisherigen Ansätze liegt in einem Ungleichgewicht: Während wir heute sehr gut darin sind, Botschaften zu verbreiten – also eine Information an viele Menschen gleichzeitig zu senden –, bleibt das aufmerksame Zuhören extrem aufwendig[^Trask]. Es kostet nach wie vor enorm viel Zeit und Energie, wenn eine Person verschiedene Meinungen und Perspektiven wirklich durchdenken und verstehen will. Der Wirtschaftsnobelpreisträger Herbert Simon brachte es auf den Punkt: „Ein Überfluss an Information schafft eine Armut an Aufmerksamkeit.“[^InformationWealth] Das bedeutet konkret: Unsere Fähigkeit, uns zu konzentrieren und verschiedene Standpunkte sorgfältig abzuwägen, ist begrenzt. Dadurch entsteht ein schwieriger Zielkonflikt: Wollen wir möglichst viele Menschen erreichen, oder wollen wir möglichst vielfältige Perspektiven einbeziehen? Oft können wir nicht beides gleichzeitig haben.
 
-[^Trask]: To our knowledge, this concept of "broad listening" originates with [Andrew Trask](https://iamtrask.github.io/).  However, we have no written reference for it with him and thus want to ensure he is credited here.
+[^Trask]:  Nach unserem Kenntnisstand stammt dieses Konzept des „breiten Zuhörens“ von [Andrew Trask](https://iamtrask.github.io/). Wir haben jedoch keinen schriftlichen Beleg dafür von ihm und möchten daher sicherstellen, dass er hier als Urheber genannt wird.
 
 Um diese Herausforderungen im großen Stil zu lösen, haben sich verschiedene Strategien entwickelt. Der häufigste Ansatz ist die Auswahl von Vertreter:innen für wichtige Gespräche. Diese Auswahl erfolgt auf unterschiedliche Weise:
 
