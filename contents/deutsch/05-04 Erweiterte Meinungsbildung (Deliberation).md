@@ -110,6 +110,14 @@ Wenn wir noch weiter denken, könnte das gleiche Prinzip für zukünftige Genera
 
 Solche KI-Vertreter könnten Beratungen in Lichtgeschwindigkeit durchführen und dann Zusammenfassungen an Menschen weitergeben. So entstünden Diskussionen, die menschliche Teilnehmende einbeziehen, aber auch ganz andere Zeitmaßstäbe und Perspektiven – von der Sekunde bis zum Jahrhundert, vom Individuum bis zum Planeten.
 
+[^xiang]: Chloe Xiang, [*This Danish Political Party is Led By an AI*](https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai?fbclid=IwAR0HQzFUbfxwruvrRd2VeaMEn0IOFBIZJuJsbyaPx5y3UjyyNV6goKh4j0A), Vice: Motherboard, 2022
+[^Wikipedia]: [The Synthetic Party (Denmark)](https://en.wikipedia.org/wiki/The_Synthetic_Party_(Denmark)), Wikipedia
+[^latour]: Bruno Latour, *We Have Never Been Modern* (Cambridge, MA: Cambridge University Press, 1993).
+[^Lorax]: Dr. Seuss, *The Lorax* (New York: Random House, 1971)
+[^Robinson]: Kim Stanley Robinson, *Ministry for the Future* (London: Orbit Books, 2020).
+
+
+
 ### Grenzen der erweiterten Meinungsbildung
 
 Worte haben ihre Grenzen – auch wenn wir das oft vergessen. Sprache ist zwar reichhaltiger als bloße Zahlen, aber verglichen mit dem, was wir Menschen wirklich erleben – all unsere Sinneseindrücke, Gefühle und körperlichen Wahrnehmungen – sind Worte nur ein winziger Bruchteil. Versuchen Sie beispielsweise, jemandem zu erklären, wie Schokolade schmeckt oder wie sich Liebe anfühlt. Worte stoßen schnell an ihre Grenzen. Deshalb kann auch die ausgefeilteste Meinungsbildung durch KI und neue Technologien niemals die tieferen Formen menschlicher Zusammenarbeit ersetzen, die wir bereits besprochen haben. Gemeinsame Handlungen und Erfahrungen – wenn wir zusammen etwas tun, statt nur darüber zu reden – schaffen eine viel tiefere Verbindung und Aufmerksamkeit. Meinungsbildung ist wichtig, aber sie ist nur ein Werkzeug unter vielen, nicht die Lösung für alles.
