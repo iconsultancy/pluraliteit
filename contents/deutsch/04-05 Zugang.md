@@ -80,4 +80,4 @@ Die digitale Infrastruktur bietet keine Einheitslösung, die von allen gleicherm
 
 Zusammenfassend lässt sich sagen, dass das Recht auf Zugang ein Eckpfeiler für die Verwirklichung einer digitalen Demokratie und sozialer Inklusion ist. Um eine solche Zukunft zu erreichen, sind mehrdimensionale Anstrengungen erforderlich, einschließlich technologischer Innovation und politischer Zusammenarbeit. Im nächsten Kapitel werden wir uns eingehender mit diesen miteinander verflochtenen Themen befassen.
 
-[^Diia]: Note Ukraine's readiness to share its code and UX/UI design methods with Estonia (see Igor Sushon, “Estonia Launches the State Application MRiik, Built on the Basis of the Ukrainian Application Diia,” Mezha, January 19, 2023, https://mezha.media/2023/01/19/diia-mriik/.https://mezha.media/2023/01/19/diia-mriik/)"
+[^Diia]:  Beachte Ukraines Bereitschaft, seinen Code und UX/UI-Designmethoden mit Estland zu teilen (siehe Igor Sushon, „Estonia Launches the State Application MRiik, Built on the Basis of the Ukrainian Application Diia“, Mezha, 19. Januar 2023, https://mezha.media/2023/01/19/diia-mriik/.https://mezha.media/2023/01/19/diia-mriik/)"
