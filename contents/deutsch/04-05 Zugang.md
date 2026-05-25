@@ -1,21 +1,36 @@
+# Zugang
 
-
-
-4-5 Zugang
 Lucy: Hallo, hier ist Lucy vom Château du Soleil Couchant aus Bordeaux.
+
 Gemeindevertreter: Hallo Lucy. Was kann ich heute für Sie tun?
+
 Lucy: Wir vom Château du Soleil Couchant führen Gespräche mit mehreren anderen Weingütern über die Idee, eine Koalition zur Einführung eines neuen Hagelkanonensystems auf unseren Grundstücken zu bilden. Wir haben die Unterstützung von 12 der 14 regionalen Weingüter erhalten; wir benötigen jedoch einen Mechanismus, der Offenheit, faire Beschlussfassung und die Verteilung der Kosten und Vorteile auf alle beteiligten Akteurinnen und Akteure garantiert.
+
 Lucy: Um dies zu erreichen, benötigen wir einen Governance-Rahmen, der die Beteiligung benachbarter Weingüter fördert. Wir haben festgestellt, dass die Weinhandelsvereinigung mit ihren gemeinsamen Bemühungen große Erfolge erzielt hat, und wir möchten ihr Modell nachahmen.
+
 Gemeindevertreter: Vielen Dank für den Überblick. Könnten Sie näher darauf eingehen, warum Sie diese Tools für die Zusammenarbeit benötigen?
+
 Lucy: Sicher. Es gab Skepsis unter den örtlichen Weingütern in Bezug auf die Wirksamkeit von Hagelkanonen, aber die neueste Generation wurde wissenschaftlich auf ihre Fähigkeit zur Unterbrechung der Hagelsturmbildung getestet. Hagel ist seit langem eine Bedrohung für unsere Ernten. Um wirksam zu sein, müssen diese Systeme weit verbreitet sein. Wir starten ein Pilotprogramm, um vor Ort Vertrauen aufzubauen. Aber ein Verwaltungssystem, das dem ähnelt, was dem Weinhandelsverband bei der Bewältigung seiner Differenzen geholfen hat, wäre von unschätzbarem Wert.
+
 Gemeindevertreter: Vielen Dank für Ihre Ausführungen. Der Kooperationsrahmen, den der französische Weinhandelsverband verwendet, wurde 2036 nach dem Vorbild des US-amerikanischen Wein- und Spirituosenverbandes angepasst. Basierend auf dem, was Sie beschrieben haben, haben wir ihn bereits so angepasst, dass er besser zu Ihren regionalen Gegebenheiten passt. Es ist jedoch wichtig zu beachten, dass diese Instrumente dazu dienen, eine inklusive Diskussion und einen Konsens zu fördern, und nicht dazu, bestimmte Ergebnisse wie die Einführung von Hagelkanonen voranzutreiben.
+
 Lucy: Verstanden, und ich danke Ihnen für die Klarstellung.
+
 Gemeindevertreter: Gut. Ich habe die Plattform gerade auf der Grundlage unserer Diskussion konfiguriert und unter www.bordeauxhailcannon.assoc gestartet. Ein detailliertes Änderungsprotokoll wurde an Sie gesendet. Sollten Sie weitere Änderungen benötigen, lassen Sie es mich bitte wissen.
+
 Lucy: Das werde ich auf jeden Fall. Könnten Sie mir auch einige Ratschläge oder Informationen zu häufigen Hürden geben, mit denen andere konfrontiert waren?
+
 Gemeindevertreter: Selbstverständlich. Ich kann zwar keine vertraulichen Details aus früheren Projekten weitergeben, aber ich kann Ihnen die allgemeine Verwendung dieser Tools sowie unsere bisherigen Erkenntnisse erläutern.
+
 Lucy: Das klingt perfekt, vielen Dank. Ich werde das Änderungsprotokoll durchsehen und mich bis morgen bei Ihnen melden.
+
 Gemeindevertreter: Ausgezeichnet, einen schönen Abend noch.
-Schon lange vor dem Aufkommen des Internets war der Zugang zu Informationen ein entscheidender Bestandteil der menschlichen Zivilisation: Wie Sir Francis Bacon vor Jahrhunderten sagte: „Wissen ist Macht“. Im heutigen Informationszeitalter und noch mehr in der Zukunft, die wir in diesem Buch beschreiben, wird die Wahrheit dieses Sprichworts immer deutlicher. Während sich die vorherigen Kapitel dieses Teils auf die Aspekte des digitalen Lebens konzentrieren, die die Menschenrechte gewährleisten, bedeuten diese nichts für das menschliche Leben, wenn nicht alle Menschen sicher und zuverlässig auf diese von uns erdachte Welt zugreifen können. In diesem Kapitel werden wir untersuchen, was es bedeutet, einen solchen Zugang zu einem Grundrecht zu machen.
+
+---
+
+Schon lange vor dem Aufkommen des Internets war der Zugang zu Informationen ein entscheidender Bestandteil der menschlichen 
+
+Zivilisation: Wie Sir Francis Bacon vor Jahrhunderten sagte: „Wissen ist Macht“. Im heutigen Informationszeitalter und noch mehr in der Zukunft, die wir in diesem Buch beschreiben, wird die Wahrheit dieses Sprichworts immer deutlicher. Während sich die vorherigen Kapitel dieses Teils auf die Aspekte des digitalen Lebens konzentrieren, die die Menschenrechte gewährleisten, bedeuten diese nichts für das menschliche Leben, wenn nicht alle Menschen sicher und zuverlässig auf diese von uns erdachte Welt zugreifen können. In diesem Kapitel werden wir untersuchen, was es bedeutet, einen solchen Zugang zu einem Grundrecht zu machen.
 Wir sind nicht an einem bloßen Zugang interessiert, sondern an einem Zugang mit Integrität. Wenn die Informationen, die einige erhalten, korrekt sind und bei anderen verfälscht werden, ist dies schlimmer, als wenn Letztere überhaupt keinen Zugang hätten. Demokratie hängt von einer Bevölkerung ab, die sich voll und ganz beteiligen kann: Jede Stimme ist entscheidend. Wie wir bereits betont haben, interpretieren verschiedene Gemeinschaften das Muster der Fakten unterschiedlich. Diese Vielfalt der Perspektiven muss jedoch auf einem gemeinsamen Zugang zu unverfälschten Daten basieren, wenn sie zu einer ⿻ Zukunft beitragen soll. Wir alle können und müssen unseren eigenen Sinn im Leben finden, aber dieses Recht wird uns verweigert, wenn einige von uns manipulierte Versionen der Inhalte des globalen Informationsraums erhalten.
 Von der Verabschiedung der Allgemeinen Erklärung der Menschenrechte durch die Vereinten Nationen im Jahr 1948 bis zur Erklärung zur Zukunft des Internets im Jahr 2022 hat die menschliche Gesellschaft immer wieder die Bedeutung der Meinungsfreiheit und des Zugangs betont. Diese beiden Dokumente veranschaulichen einen Weg, der von den grundlegenden Menschenrechten bis hin zu den Prinzipien der Freiheit und Sicherheit im digitalen Zeitalter reicht. Im Jahr 2023 befasste sich die Globale Erklärung zur Informationsintegrität im Internet direkt mit den kollektiven Herausforderungen, die sich durch generative Künstliche Intelligenz und ihr Potenzial für Massenmanipulation ergeben.
 Einfach ausgedrückt müssen wir sicherstellen, dass alle den gleichen Zugang zu kontextuell vollständigen Informationen haben; andernfalls können diese wertlos oder sogar zu einer schädlichen Waffe werden. Diese Notwendigkeit wird nicht nur durch die digitale Technologie angetrieben, sondern erfordert auch eine kollektive, universelle und inklusive digitale Allianz, die von einer demokratischen Struktur unterstützt wird. In der heutigen Zeit, in der der Internetzugang als digitales Menschenrecht gilt, fließt der Geist von ⿻ nahtlos über den ganzen Globus, ähnlich wie das alte Konzept des „Dao“. Dieser Geist ist aus Nullen und Einsen gesponnen, erweitert kontinuierlich unser „Internet of Beings“ (deutsch: Internet aller Lebewesen) und integriert sich in gesellschaftliche Strukturen auf eine Weise, die demokratische Regierungsführung mit kollaborativer Technologie verbindet. „Zugang“ bedeutet also nicht nur technologische Verfügbarkeit, sondern trägt auch zur Verwirklichung der individuellen Vision aller Menschen bei und fördert auf natürliche Weise Vertrauen, gegenseitigen Respekt und Sicherheit.
