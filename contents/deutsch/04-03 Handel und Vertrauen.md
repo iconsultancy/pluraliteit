@@ -166,5 +166,5 @@ Die Feststellung von Vertrauen, Kredit und Wert über große soziale Entfernunge
 [^supermodular]: Divya Siddarth, Matthew Prewitt, and Glen Weyl, “Supermodular,” The Collective Intelligence Project, 2023. https://cip.org/supermodular.
 [^AfricaInnovation]: Omoaholo Omoakhalen, “Navigating the Geopolitics of Innovation: Policy and Strategy Imperatives for the 21st Century Africa,” Remake Africa Consulting, 2023, https://remakeafrica.com/wp-content/uploads/2023/12/Navigating_the_Geopolitics_of_Innovation.pdf.
 [^IdentificationAfrica]: “The State of Identification Systems in Africa.” World Bank Group, 2017, https://openknowledge.worldbank.org/server/api/core/bitstreams/5f0f3977-838c-5ce3-af9d-5b6d6efb5910/content.
-[^LETS]: An early example of community currencies are Local Exchange Trading Systems (LETS) by Michael Linton in 1983. He later visited Kojin Karatani's home, which sparked the New Associationist Movement.
+[^LETS]:  Ein frühes Beispiel für Gemeinschaftswährungen sind die Local Exchange Trading Systems (LETS) von Michael Linton im Jahr 1983. Er besuchte später Kojin Karatanis Haus, was die New Associationist Movement inspirierte.
 
