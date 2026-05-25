@@ -72,6 +72,13 @@ Bis etwa ins letzte Jahrzehnt deckte diese Konstellation die meisten Transaktion
 
 ### Digitales Geld und Privatsphäre
 
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/4-3-bitcoin.png" width="100%" alt="Simple user interface for use of early BitCoin.">
+
+**<figcaption> Abbildung 4-3-A. Eine frühe Implementierung von Bitcoin-Code. Quelle: [Wikipedia](https://commons.wikimedia.org/wiki/File:Bitcoin-0.3.23_screenshot.png), gemeinfrei. </figcaption>**
+</figure>
+<br></br>
+
 Abbildung 4-3-A. Eine frühe Implementierung von Bitcoin-Code. Quelle: Wikipedia, gemeinfrei. 
 
 Eines der ersten und aufsehenerregendsten dieser Systeme war das Aufkommen von Bitcoin im Jahr 2008 und später einer Reihe anderer „Kryptowährungen“ in den 2010er Jahren. Diese Systeme nutzten DLTs, wie wir sie im letzten Kapitel besprochen haben, gepaart mit intern generierten Finanzstrukturen, um ein validiertes System zur Verfolgung von Transaktionen zu schaffen. Anstelle eines Identitätssystems, das auf der Erfassung menschlicher Teilnehmer basiert, wurden Protokolle verwendet, um die Kontrolle über eine Ressource nachzuweisen (z. B. „Proof of Work“-Protokolle, die auf dem Lösen eines Rätsels basieren, das den Zugang zu leistungsstarken Computern erfordert), um sich vor betrügerischen Teilnehmern zu schützen. Auf diese Weise wurde ein wirksamer finanzieller Schutz für die Teilnahme geschaffen. Andererseits belohnten sie „ehrliche“ Teilnehmer:innen (d. h. diejenigen, deren Transaktionsaufzeichnungen mit denen der anderen übereinstimmen) mit „Münzen“ („coins“), die durch die Aufnahme von Transaktionen in ihre eigenen Aufzeichnungen geschaffen wurden. Der „Ledger“ war ansonsten für jede:n Teilnehmer:in offen zugänglich, wodurch ein globales, rein finanzielles Hauptbuch mit pseudonymen Konten geschaffen wurde, das es einzelnen Personen ermöglichte, potenziell viele verschiedene Identitäten zu haben.
