@@ -1,25 +1,47 @@
-Handel und Vertrauen
+# Handel und Vertrauen
+
 Ein aufgeregtes Summen hallte durch die Luft, unterbrochen von entferntem Gelächter und Geplapper. Die Familien der Gegend hatten sich wieder einmal zum beliebten Retro-Kinoabend versammelt – eine Tradition, die in dieser Gemeinde sehr geschätzt wird. Wie eine Leinwand aus Erinnerungen machten es sich Familien, Verliebte und Jugendliche auf Campingstühlen gemütlich, bereit, unter dem weiten Sternenhimmel Momente aus einem alten Film noch einmal zu erleben.
+
 Inmitten der langjährigen Teilnehmer war Zvi, der mit einem Hauch von Neuheit auffiel. Er war neu in der Stadt und hatte erst vor kurzem eine Stelle als Lehrer an der örtlichen Schule angetreten, und er wollte sich unter die Leute mischen und an den Feierlichkeiten der Gemeinde teilnehmen. Mit einer Tüte Chips in der Hand, die er mit anderen teilen wollte, reihte er sich in die Warteschlange ein und ließ sich von der einzigartigen Stimmung des Abends anstecken.
+
 „Vielen Dank für Ihre Beiträge zur Straßenkunst“, ertönte eine Stimme von vorne. Zvi richtete seine Aufmerksamkeit auf den Kartenverkaufsstand. Eine Wohltätigkeitsveranstaltung? Das war mir nicht bewusst, dachte er leicht verwirrt.
+
 „Ich würde mir gerne Rogue Stardust ansehen.“ Zvi reckte den Hals und erblickte ein bekanntes Gesicht, eine Schülerin seiner Schule, die stolz ihren Schul-Hoodie zur Schau stellte.
+
 Das ist unerwartet, dachte er.
+
 Seine Überlegungen wurden unterbrochen, als er ein anderes Gespräch mitbekam: „Gnädige Frau, welche Filme möchten Sie heute Abend auswählen? Sie haben mehrere Stimmen aus dem Altersheim und der Gemeindearbeit.“
+
 Eine sanfte, ältere Stimme antwortete: „Ich würde Whispers in the Void und The Last Alchemist bevorzugen, wenn es Ihnen nichts ausmacht.“
+
 „Vielen Dank für Ihren Beitrag, gnädige Frau“, antwortete der Mann am Stand in höflichem Ton.
+
 Bald darauf war Zvi an der Reihe. Der Mann am Stand hatte eine Aura der Ruhe, die an einen erfahrenen Surfer erinnerte. Sein warmes Lächeln war ansteckend.
+
 „Guten Abend, Sir! Wenn Sie möchten, können Sie hier Ihr Telefon darauf halten, um Ihre Erfahrungen mit der Gemeinschaft zu teilen. Das ist völlig freiwillig, aber eine gute Möglichkeit für uns, den Beitrag eines jeden zu unserer Stadt zu würdigen“, bot der Mitarbeiter an und deutete auf einen kleinen, unauffälligen Bildschirm auf dem Tresen.
+
 Zvi, neugierig, aber vorsichtig, fragte: „Und was passiert, wenn ich das tue? Ich bin nur neugierig wegen der Privatsphäre und so.“
+
 „Natürlich, die Privatsphäre ist entscheidend. Dieses Gerät zeigt einfach öffentliche Nachrichten und Danksagungen in unserer lokalen Community-App an. 
+
 „Es sind dieselben Informationen, die jeder in der App sehen kann. Betrachten Sie es als eine digitale Art, sich zu bedanken und positive Stimmung zu verbreiten“, erklärte der Mitarbeiter in einem beruhigenden Ton.
+
 Zvi fühlte sich durch die Erklärung beruhigt und beschloss, mitzumachen. Er tippte mit seinem Smartphone auf das Gerät, woraufhin der Bildschirm aufleuchtete und eine bunte Reihe von Dankesnachrichten und lustigen Emojis von Bewohnerinnen und Bewohnern anzeigte, die seine jüngste Hilfe bei Gemeinschaftsprojekten würdigten.
+
 Zvi lächelte über die herzlichen Nachrichten und antwortete: „Das ist eine nette Geste. So fühlt man sich als Teil von etwas Besonderem.“
+
 „Ganz genau! Und als Teil unserer Gemeinschaft dürfen Sie einen Film für heute Abend vorschlagen. Was würden Sie denn gerne vorschlagen?“, fragte der Mitarbeiter und seine Augen funkelten freundlich. „Außerdem danke ich Ihnen, dass Sie sich die Zeit genommen haben, dem Kind meiner Schwester nach der Schule zu helfen; das hat für dessen Familie wirklich einen Unterschied gemacht.“
+
 Die Wärme der Akzeptanz breitete sich in Zvi aus, als er merkte, dass er willkommen war. Mit einem Nicken des aufrichtigen Dankes machte er sich auf den Weg zu einer gemütlichen Nische innerhalb der Versammlung und teilte seine Chips mit den erfreuten Kindern in der Nähe.
+
 Unter einem mit Sternen gesprenkelten Himmel und vor einer Kulisse voller Erinnerungen sah Zvi zu, wie sein Lieblingsfilm zu spielen begann. In diesem Moment wurde er von dem tiefen Gefühl der Gemeinschaft umhüllt – er war nicht nur ein Zuschauer, sondern ein integraler Bestandteil des lebendigen Gewebes aus gemeinsamen Erinnerungen und Erfahrungen.
+
 Es zeugt von der kommerziellen Natur der heutigen Welt, dass keines der Protokolle, die wir in diesem Abschnitt besprechen, in den Medien und der Politik auch nur annähernd so viel Aufmerksamkeit erhalten hat wie neue Ansätze zur Abwicklung von Zahlungen und Geschäften. Kryptowährungen waren eine der zentralen Technologien des letzten Jahrzehnts. Doch nur etwas weniger bekannt und weitaus stärker verbreitet sind eine Reihe von Innovationen im staatlichen und anderen öffentlichen Zahlungsverkehr, darunter Sofortzahlungstechnologien mit staatlichen Identitäten in Ländern wie Indien, Brasilien und Singapur, digitale Zentralbankwährungen (CBDCs) und regulierte interoperable digitale Zahlungssysteme, wie sie in der Volksrepublik China verwendet werden. Auch wenn sie bei weitem noch nicht überall eingeführt oder interoperabel sind, ist eine neue Generation von Zahlungssystemen im Leben vieler Menschen rund um den Globus immer häufiger zu finden, die das Bezahlen in digitalen Räumen zunehmend so einfach oder sogar einfacher machen, als dies in der Vergangenheit mit Bargeld möglich war.
+
 Doch in vielerlei Hinsicht ist der relativ rasche Erfolg dieser Bemühungen ein Symptom für das, was an ihren bisherigen Fortschritten so enttäuschend ist. Bargeld ist vielleicht eine der „dümmsten“ Technologien des vordigitalen Zeitalters: Es ist eine einzige, homogene Substanz, die zwischen weitgehend anonymen, abstrakten Konten übertragen wird. Auch wenn es sich als sehr viel schwieriger erwiesen hat, diese grundlegende Funktion zu replizieren, und daher die jüngsten Fortschritte wichtig sind, handelt es sich nicht um eine revolutionäre Technologie, die durch die digitale Technologie ermöglicht wurde, wie beispielsweise der Hypertext, der die Möglichkeiten der bisherigen Schriftsprache erweiterte. In diesem Kapitel fassen wir die bisherigen Fortschritte zusammen, erörtern die Grenzen des traditionellen Geldes im Vergleich zu den höheren Ansprüchen an den Online-Handel und diskutieren Möglichkeiten, auf den jüngsten Fortschritten aufzubauen, um eine ⿻ Vision des digitalen Handels zu ermöglichen.
-Traditionelle Zahlungen
+
+### Traditionelle Zahlungen
+
 Obwohl die frühe Geschichte des Geldes Gegenstand zahlreicher neuerer Forschungen ist, auf die wir weiter unten zurückkommen werden, assoziieren die meisten Menschen die Idee mit einer Währung in Form von Wertmarken oder Geldscheinen, die von einer Hand zur anderen weitergereicht werden, und betrachten andere Formen des Geldes als Abstraktionen dieses grundlegenden Konzepts. Diese Form des „Tauschgeldes“ geht auf die frühen Zivilisationen Babylons, Indiens und Chinas zurück und basierte im ersten Jahrtausend v. Chr. zunehmend auf Edelmetallen wie Bronze, Silber und Gold. Die Langlebigkeit, die Knappheit und der weit verbreitete Glaube an den Wert dieser Metalle erleichterten ihre breite Akzeptanz als Zahlungsmittel für eine Reihe von Waren und Dienstleistungen.
 Doch keine dieser Eigenschaften trifft ausschließlich auf Edelmetalle zu, und ihre Verwendung als Zahlungsmittel lenkte von praktischeren Anwendungen ab, sei es für Waffen, Maschinen oder Dekorationen. Dies führte dazu, dass sich viele Gesellschaften von der direkten Verwendung von Edelmetallen abwandten und zu anderen Repräsentationen ihres Wertes übergingen, die zwar knapp werden konnten, aber keinen direkten Nutzen hatten, wie zum Beispiel Handelsquittungen, Banknoten und von der Regierung ausgegebene Papiere, die als „gesetzliches Zahlungsmittel“ galten und daher zu ihrem Nennwert akzeptiert werden mussten.
 In engem Zusammenhang damit stand die Entwicklung der Banken, die Bargeld und andere Wertgegenstände hielten, die sie auf Verlangen zurückzugeben versprachen, und diese Einlagen zur Finanzierung von Krediten an andere verwendeten. Da die Banken nur selten gleichzeitig aufgefordert werden, alle Einlagen zurückzugeben, begannen sie, mehr zu verleihen, als sie an Einlagen hatten, was zu einem System des „Mindestreserve-Bankwesens“ führte und die Banken zu einer Quelle der Geldschöpfung machte. Obwohl die offensichtlichen Gefahren eines Bankansturms, die dadurch entstehen, hier nicht behandelt werden können, haben sie eine natürliche Rolle für „Zentralbanken“ geschaffen, um diesen Prozess der Geldschöpfung zu kontrollieren und Bankenzusammenbrüche zu vermeiden.
