@@ -1,18 +1,11 @@
 # Rechte, Betriebssysteme und ⿻ Freiheit
 
 Jeden Tag navigiert Luna durch ein Labyrinth der Technik,
-
 Von riesigen Giganten bis hin zu Start-ups, eine Reise.
-
 Interviews verschmelzen zu einem eintönigen Tanz,
-
 Mit Jargon gefüllte Worte, ohne Wertvorstellungen.
-
 Sie sehnt sich nach Projekten mit Substanz und Wert,
-
 Aber die Chancen sind nicht so gut, wie sie es sich erträumt hat.
-
-
 
 Eines Nachts sinkt sie entkräftet in ihre Couch,
 Holografische Werbung verschlingt sie, eine sensorische Trägheit.
