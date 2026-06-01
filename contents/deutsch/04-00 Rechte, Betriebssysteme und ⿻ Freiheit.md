@@ -1,43 +1,57 @@
-Rechte, Betriebssysteme und ⿻ Freiheit
+# Rechte, Betriebssysteme und ⿻ Freiheit
+
 Jeden Tag navigiert Luna durch ein Labyrinth der Technik,
 Von riesigen Giganten bis hin zu Start-ups, eine Reise.
 Interviews verschmelzen zu einem eintönigen Tanz,
 Mit Jargon gefüllte Worte, ohne Wertvorstellungen.
 Sie sehnt sich nach Projekten mit Substanz und Wert,
 Aber die Chancen sind nicht so gut, wie sie es sich erträumt hat.
+
 Eines Nachts sinkt sie entkräftet in ihre Couch,
 Holografische Werbung verschlingt sie, eine sensorische Trägheit.
 Den Fluss der Demokratie nähren, beginnt die Erzählung,
 und hält ihren Blick fest, während sich das Manifest dreht.
 Die Müdigkeit schwindet, während ihr Verstand sich zu regen beginnt,
 Den Bildschirm in der Hand, Worte, die ihr Anliegen beleuchten.
+
 An diejenigen, die den Rahmen für die digitale Kommunikation schaffen,
 die den Schutz der Privatsphäre, die Redefreiheit und die Flamme der Gleichheit gewährleisten.
 Sie stellt sich einen Hackathon vor, heftige, aber faire Debatten,
 die kontroverse, aber wirkungsvolle Software schaffen.
+
 Für Innovatoren, die unsere besten Beziehungen widerspiegeln,
 Wo Klicks und Interaktionen gemeinsame Feste schaffen.
 Sie träumt vom herzlichen Dank der Kinder, denen sie geholfen hat,
  Limonade zu kaufen, und von ungebrochenen Gemeinschaftsversprechen.
+
 Auf die Pioniere des digitalen Vermögens, ein Toast,
 Auf die Wahlfreiheit, auf die Küste der wirtschaftlichen Gleichheit.
 Sie stellt sich vor, die Macht ihres Handys zu nutzen,
 Zaubertrank zu kaufen und durch die Nacht zu reisen.
+
 Auf die Schöpfer der digitalen Demokratie, ein Hoch,
 Wo Regierungsführung eine Reise ist, transparent und klar.“
 Sie stellt sich vor, wie sie die alten Weinstöcke ihrer Familie modernisiert,
 Sie übernimmt UN-Techniken, der Fortschritt verflechtet sich.
+
 Auf moralische Kompasse, die das virtuelle Meer navigieren,
 und dafür sorgen, dass die digitalen Welten unser höchstes Gebot widerspiegeln.
 Luna erkennt, dass ihre Berufung über bloße Plattformen hinausgeht,
 Gesellschaftliche Säulen zu errichten, menschliche Normen zu bereichern.
+
 Zusammen programmiert diese Gemeinschaft nicht nur Software,
 Wir formen ein Vermächtnis des Mitgefühls und der Wohlfahrt.
 Jede digitale Interaktion ist eine Chance, etwas zu bewegen,
 Die Menschheit zu verbinden, die Gräben zu überwinden.
+
+---
+
 Der Internet-Begründer JCR Licklider (genannt „Lick“) sah eine weitaus breitere Palette grundlegender Protokolle als für eine Netzwerkgesellschaft notwendig an, als bisher in Internet-Protokollen manifestiert wurden. Seine Analyse war jedoch eher eine lange Liste als eine philosophische Analyse. Um eine klare Vision der Grundlagen einer ⿻ Gesellschaft zu formulieren, stützen wir uns in diesem Kapitel auf die Grundkonzepte von ⿻, um zu umreißen, woraus diese Protokolle bestehen sollten und welche Rolle sie in der Gesellschaft spielen sollten. Im weiteren Verlauf dieses Teils des Buches gehen wir dann systematisch auf diese Konzepte ein, auf die Grenzen ihrer heutigen Umsetzung und darauf, wie sie besser verwirklicht werden konnten.
+
 Wir argumentieren, dass ⿻ Gesellschaften auf einer Infrastruktur beruhen müssen, die sowohl in ihrer Form als auch in ihrer Struktur den Grundsätzen von ⿻ entspricht. Formal müssen sie die eng miteinander verbundene politische Idee eines Systems von Rechten und das technische Konzept eines Betriebssystems nahtlos miteinander verbinden. Inhaltlich müssen sie die digitale Darstellung von Gesellschaften in dem Sinne ermöglichen, wie ⿻ sie versteht: als vielfältige, sich überschneidende soziale Gruppen und Menschen, die gemeinsam ehrgeizige und inklusive Kooperationen eingehen.
-Rechte als Grundlage der Demokratie
+
+### Rechte als Grundlage der Demokratie
+
 Rechte sind ein allgegenwärtiges Merkmal, das das demokratische Leben kennzeichnet. Vereinfacht ausgedrückt ist die Demokratie (etymologisch „Herrschaft des Volkes“) ein Regierungssystem, eine kollektive Entscheidungsfindung des Volkes, und nicht eine Reihe von Maßnahmen, die eine Regierung gegenüber ihrem Volk ergreift. Ausgehend von ihren antiken athenischen Ursprüngen, die von der Philosophie der Aufklärung geprägt und durch Revolutionen geformt wurden, hat die Demokratie jedoch auch eine Reihe von Grundfreiheiten und -rechten in sich verankert. Auch wenn diese „Rechte“ in den verschiedenen Demokratien sowohl zeitlich als auch räumlich variiert haben, so lassen sich doch grobe Muster erkennen. Sie bilden die Grundlage für Dokumente wie die Allgemeine Erklärung der Menschenrechte der Vereinten Nationen (AEMR). Dazu gehören Gleichheit, Leben, Freiheit, persönliche Sicherheit, Redefreiheit, Gedankenfreiheit, Gewissensfreiheit, Eigentum und Vereinigungsfreiheit - um nur einige zu nennen. Auch wenn diese Grundsätze teilweise umstritten sind, definieren und verteidigen sie in groben Zügen Kernaspekte der nahezu universellen Merkmale menschlichen Verhaltens, wie sie von führenden Anthropologen wie Nicholas Christakis beschrieben werden. Dazu gehört, was Christakis als „soziale Suite“ bezeichnet: die nahezu universelle Tendenz des Menschen, ein Gefühl der eigenen Identität zu haben, familiäre Beziehungen und langfristige Freundschaften einzugehen, die die Grundlage für breitere kooperative soziale Netzwerke und Gruppen bilden, denen die Mitglieder „zugeneigt“ sind, und innerhalb dieser Netzwerke auf der Grundlage von Beziehungen und Fähigkeiten differenziertes Vertrauen zu haben und voneinander zu lernen.
 Unabhängig von der genauen Ausgestaltung und Universalität interessiert uns jedoch vor allem, warum sie für die Demokratie als Regierungssystem so wesentlich sind und warum so viele Menschen und Organisationen glauben, dass eine Demokratie ohne den Schutz dieser Rechte nicht existieren kann. In ihrem kürzlich erschienenen Buch „Justice by Means of Democracy“ (Gerechtigkeit durch Demokratie) stellt die führende politische ⿻-Philosophin Danielle Allen diesen Zusammenhang klar dar: Die Regierung kann nicht auf den „Willen des Volkes“ eingehen, wenn der Wille des Volkes nicht sicher und frei zum Ausdruck gebracht werden kann. Wenn es persönlich gefährlich ist, nach seinem Gewissen abzustimmen, gibt es keinen Grund zu glauben, dass das Ergebnis etwas anderes widerspiegelt als den Willen eines Unterdrückers. Wenn die Bürger:innen nicht frei von Zwang soziale und politische Vereinigungen bilden können, können sie sich nicht koordinieren, um Entscheidungen der Machthaber zu widersprechen. Wenn sie nicht in der Lage sind, ihren Lebensunterhalt durch eine Vielfalt wirtschaftlicher Interaktionen zu bestreiten (z. B. weil sie entweder vom Staat oder von einem privaten Herrn versklavt werden), sollten wir annehmen, dass ihre politischen Äußerungen ihren Herren entsprechen und nicht ihrer inneren Stimme. Ohne Rechte werden Wahlen zur Farce.
 Viele bedeutende Demokratien haben „Selbstmord“ begangen, indem sie die Rechte untergruben, aus denen sie entstanden sind. Das vielleicht berühmteste Beispiel ist die Weimarer Republik, die Deutschland während des Großteils der Zeit zwischen den Weltkriegen regierte und durch die Wahl der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) mit einer Mehrheit der Sitze im Reichstag endete. Dies führte bekanntlich zur Ernennung Adolf Hitlers zum Reichskanzler. Doch selbst heute haben viele demokratische Gesellschaften Staatsoberhäupter und Regierungen gewählt, die die Freiheitsrechte in einer Weise beschnitten haben, die sie von Demokratien in Regime verwandelte, die von den Politikwissenschaftlern Steven Levitsky und Lucan A. Way als „kompetitiv-autoritäre“ Regime bezeichnet werden. Die Sorge, dass unfreie Gesellschaften das demokratische Funktionieren untergraben, ist weder abstrakt noch theoretisch, sondern aktuell.
