@@ -87,7 +87,8 @@ Die Grenzen sind selten scharf. Der [Macintosh](https://en.wikipedia.org/wiki/Ma
 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/4-0-macintosh.jpeg" width="100%" alt="Apple LISA II Macintosh-XL, one of the first commercially available graphical user interface computers." />
- <figcaption>Abbildung 4-0-A. Apple LISA II Macintosh-XL, einer der ersten kommerziell erhältlichen Personal Computer mit einer grafischen Benutzeroberfläche. Quelle: bGerhard „GeWalt“ Walter, abgerufen von [Wikipedia](https://commons.wikimedia.org/wiki/File:Apple-LISA-Macintosh-XL.jpg) CC0.</figcaption>
+ <figcaption>Abbildung 4-0-A. Apple LISA II Macintosh-XL, einer der ersten kommerziell erhältlichen Personal Computer mit einer grafischen Benutzeroberfläche. Quelle: bGerhard „GeWalt“ Walter, abgerufen von 
+  [Wikipedia](https://commons.wikimedia.org/wiki/File:Apple-LISA-Macintosh-XL.jpg) CC0.</figcaption>
 </figure>
 <br></br>
 
