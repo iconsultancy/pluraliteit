@@ -206,7 +206,7 @@ W3C Recommendation 03 March 2022 https://www.w3.org/TR/vc-data-model/
 [^SSNAlternatives]: “News Release: DHS Awards for an Alternative Identifier to the Social Security Number,” US Department of Homeland Security, October 9, 2020, https://www.dhs.gov/science-and-technology/news/2020/10/09/news-release-dhs-awards-alternative-identifier-social-security-number.
 [^Altman]: Elizabeth Howcroft, and Martin Coulter, “Worldcoin Aims to Set up Global ID Network Akin to India’s Aadhaar,” _Reuters_, November 2, 2023, https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/.
 [^LawsOfIdentities]: Kim Cameron, “7 Laws of Identity,” _Kim Cameron’s Identity Weblog_, August 20, 2009, https://www.identityblog.com/?p=1065.
-[^MOSIP]: “Overview,” MOSIP, 2021, https://docs.mosip.io/1.2.0/overview.
+[^MOSIP]: “Überblick,” MOSIP, 2021, https://docs.mosip.io/1.2.0/overview.
 [^wallet]: “European Digital Identity,” GitHub, n.d., https://github.com/eu-digital-identity-wallet/.
 [^pilots]: “EU Digital Identity: 4 Projects Launched to Test EUDI Wallet,” European Commission, May 23, 2023, https://digital-strategy.ec.europa.eu/en/news/eu-digital-identity-4-projects-launched-test-eudi-wallet.
 [^bhutan]: Durga Sengupta, “Guess Who’s Getting the World’s First Self-Sovereign National Digital ID?” _Rest of World_, September 6, 2023, https://restofworld.org/2023/south-asia-newsletter-bhutan-national-digital-id/.
@@ -214,10 +214,11 @@ W3C Recommendation 03 March 2022 https://www.w3.org/TR/vc-data-model/
 [^CS]: Wikipedia, “Windows CardSpace,” December 14, 2023, https://en.wikipedia.org/wiki/Windows_CardSpace.
 [^DID]: “Decentralized Identifiers (DIDs) V1.0,” W3C, July 19, 2022, https://www.w3.org/TR/did-core/.
 
-[^SCR]: Read: Full Text of the Supreme Court's Verdict in the Aadhaar Case. Of the five judge-bench that delivered the verdict, three justices delivered separate opinions. https://thewire.in/law/aadhaar-judgment-supreme-court-full-text
+[^SCR]:  Lesen Sie: Vollständiger Text des Urteils des Obersten Gerichtshofs im Aadhaar-Fall. Von den fünf Richtern, die das Urteil fällten, gaben drei separate Stellungnahmen ab. https://the-wire.in/law/aadhaar-judgment-supreme-court-full-text
 [^OAuth2]: OAuth 2.0 ist das branchenübliche Protokoll für Autorisierung und bietet spezifische Autorisierungsabläufe für Webanwendungen, Desktop-Anwendungen, Mobiltelefone und Geräte im Wohnbereich. https://oauth.net/2/ IETF-Arbeitsgruppe https://datatracker.ietf.org/wg/oauth/about/
 [^OpenID]:  OpenID Connect ermöglicht Anwendungs- und Website-Entwicklern das Starten von Anmeldungsabläufen und den Erhalt überprüfbarer Aussagen über Nutzer:innen über webbasierte, mobile und JavaScript-Clients. https://openid.net/developers/how-connect-works/
 [^Zuboff]: https://en.wikipedia.org/wiki/Surveillance_capitalism
-[^UIDAI]: The official UIDAI site https://uidai.gov.in/en/
-[^Inji]: Inji is a user-centric digital credential stack in MOSIP for all types of credentials and identification solutions.  https://docs.mosip.io/inji/
+[^UIDAI]: Die offizielle UIDAI-Webseite https://uidai.gov.in/en/
+[^Inji]: Inji ist ein nutzerzentrierter digitaler Credentials-Stack in MOSIP für alle Arten von Cre-
+dentials und Identifikationslösungen. https://docs.mosip.io/inji/
 
