@@ -219,6 +219,5 @@ W3C Recommendation 03 March 2022 https://www.w3.org/TR/vc-data-model/
 [^OpenID]:  OpenID Connect ermöglicht Anwendungs- und Website-Entwicklern das Starten von Anmeldungsabläufen und den Erhalt überprüfbarer Aussagen über Nutzer:innen über webbasierte, mobile und JavaScript-Clients. https://openid.net/developers/how-connect-works/
 [^Zuboff]: https://en.wikipedia.org/wiki/Surveillance_capitalism
 [^UIDAI]: Die offizielle UIDAI-Webseite https://uidai.gov.in/en/
-[^Inji]: Inji ist ein nutzerzentrierter digitaler Credentials-Stack in MOSIP für alle Arten von Cre-
-dentials und Identifikationslösungen. https://docs.mosip.io/inji/
+[^Inji]: Inji ist ein nutzerzentrierter digitaler Credentials-Stack in MOSIP für alle Arten von Credentials und Identifikationslösungen. https://docs.mosip.io/inji/
 
