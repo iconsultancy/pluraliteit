@@ -214,8 +214,8 @@ W3C Recommendation 03 March 2022 https://www.w3.org/TR/vc-data-model/
 [^DID]: “Decentralized Identifiers (DIDs) V1.0,” W3C, July 19, 2022, https://www.w3.org/TR/did-core/.
 
 [^SCR]: Read: Full Text of the Supreme Court's Verdict in the Aadhaar Case. Of the five judge-bench that delivered the verdict, three justices delivered separate opinions. https://thewire.in/law/aadhaar-judgment-supreme-court-full-text
-[^OAuth2]:OAuth 2.0 is the industry-standard protocol for authorization and provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.  https://oauth.net/2/ IETF Working Group https://datatracker.ietf.org/wg/oauth/about/
-[^OpenID]: OpenID Connect enables application and website developers to launch sign-in flows and receive verifiable assertions about users across Web-based, mobile, and JavaScript clients. https://openid.net/developers/how-connect-works/
+[^OAuth2]: OAuth 2.0 ist das branchenübliche Protokoll für Autorisierung und bietet spezifische Autorisierungsabläufe für Webanwendungen, Desktop-Anwendungen, Mobiltelefone und Geräte im Wohnbereich. https://oauth.net/2/ IETF-Arbeitsgruppe https://datatracker.ietf.org/wg/oauth/about/
+[^OpenID]:  OpenID Connect ermöglicht Anwendungs- und Website-Entwicklern das Starten von Anmeldungsabläufen und den Erhalt überprüfbarer Aussagen über Nutzer:innen über webbasierte, mobile und JavaScript-Clients. https://openid.net/developers/how-connect-works/
 [^Zuboff]: https://en.wikipedia.org/wiki/Surveillance_capitalism
 [^UIDAI]: The official UIDAI site https://uidai.gov.in/en/
 [^Inji]: Inji is a user-centric digital credential stack in MOSIP for all types of credentials and identification solutions.  https://docs.mosip.io/inji/
