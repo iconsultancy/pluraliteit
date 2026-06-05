@@ -3,24 +3,30 @@
 In der sich schnell bewegenden Schlange mischte sich ein Gefühl aus Hoffnung mit spürbarer Angst. Die große Leinwand darüber betonte noch einmal die entscheidende Bedeutung der Nachweise für die Evakuierung. Mulu, eine angesehene Persönlichkeit in ihrer zerfallenden Gemeinschaft, stand kurz vor einem entscheidenden Moment. Der Klimawandel hatte ihre Heimat verwüstet, und sie sehnte sich danach, Trost und ein Leben in Sicherheit für ihre Töchter in einem neuen Land zu finden.
 
 Als Mulu nach vorne trat, blitzte ihre Vergangenheit - reich und lebendig - vor ihr auf. Sie fürchtete eine ungewisse Zukunft, vor allem für ihre Töchter, die vor einer ungewissen Zukunft standen. Der Regierungsbeamte, einladend und freundlich, bat sie, den Code für das Verfahren des Gemeinsamen Europäischen Asylsystems zu scannen.
+
 Auf ihrem fast defekten Telefon wurde eine Seite mit ein paar einfachen Fragen geladen.
+
 „Erlauben Sie dem Gemeinsamen Europäischen Asylsystem, eine Ja/Nein-Antwort einzuholen: 
+
 1. ... ob Sie für unser Förderprogramm in Frage kommen?
 2. ... ob Sie eine potenzielle Bedrohung für unsere Gemeinschaft darstellen?
 3. ...ob Ihre bisherigen Erfahrungen zu einer produktiven Rolle in unserer Gesellschaft beitragen könnten?“
 
 Schnell setzte sie ihre Unterschrift auf den Bildschirm. Daraufhin zeigte ihr Telefon relevante Informationen an, die ihr bei der genauen Beantwortung der Fragen helfen sollten.
 
-In einem von Konflikten heimgesuchten Dorf haben Sie behelfsmäßige Schulen gebaut und damit ein Lächeln in die Gesichter der Kinder gezaubert. Dieser Hoffnungsschimmer wird von 76 vertrauenswürdigen Quellen bestätigt, deren Lob in mehreren digitalen Referenzen enthalten ist und von EU-anerkannten Agenturen bestätigt wird.
-
-Auf einer Pressekonferenz wurde Ihre entschlossene Haltung gegen Verbindungen zu Personen, die Ihrer Gemeinschaft schaden, mit Nachdruck bekräftigt, unterstützt von 41 digital signierten Zeugnissen, die einen unnachgiebigen Verteidiger der Gesellschaft zeigen.
-Ihre Bemühungen um den Dialog zwischen den Gemeinschaften mit 34 Regierungsbehörden haben einen Schild des Vertrauens und der Sicherheit um Sie herum geschaffen, und jede Anerkennung ist ein Zeichen Ihres Engagements, verewigt in einem digitalen Siegel der Anerkennung.
-Ihre Innovation hat zu lebensverändernden Projekten geführt, die von 78 % Ihrer Kollegen in lebhaften digitalen Erzählungen gepriesen werden und einen dynamischen Gesamtüberblick über Ihre bedeutenden Beiträge zum Ingenieurwesen bieten. 
-Ihre Unterstützung für...
+- In einem von Konflikten heimgesuchten Dorf haben Sie behelfsmäßige Schulen gebaut und damit ein Lächeln in die Gesichter der Kinder gezaubert. Dieser Hoffnungsschimmer wird von 76 vertrauenswürdigen Quellen bestätigt, deren Lob in mehreren digitalen Referenzen enthalten ist und von EU-anerkannten Agenturen bestätigt wird.
+- Auf einer Pressekonferenz wurde Ihre entschlossene Haltung gegen Verbindungen zu Personen, die Ihrer Gemeinschaft schaden, mit Nachdruck bekräftigt, unterstützt von 41 digital signierten Zeugnissen, die einen unnachgiebigen Verteidiger der Gesellschaft zeigen.
+- Ihre Bemühungen um den Dialog zwischen den Gemeinschaften mit 34 Regierungsbehörden haben einen Schild des Vertrauens und der Sicherheit um Sie herum geschaffen, und jede Anerkennung ist ein Zeichen Ihres Engagements, verewigt in einem digitalen Siegel der Anerkennung.
+- Ihre Innovation hat zu lebensverändernden Projekten geführt, die von 78 % Ihrer Kollegen in lebhaften digitalen Erzählungen gepriesen werden und einen dynamischen Gesamtüberblick über Ihre bedeutenden Beiträge zum Ingenieurwesen bieten.
+- Ihre Unterstützung für...
 
 Die Liste ging weiter. Sie erinnerte sich an die lebhaften Szenen von Kindern, die auf dem Schulhof herumtollten, an die Mentoren, die sie dazu inspirierten, selbstbewusst auf der Bühne zu stehen, und an die zahllosen langen Nächte, die sie in Zusammenarbeit mit ihren engagierten Kollegen verbrachte.
+
 Auf dem Schreibtisch der Beamtin leuchteten grüne Lichter auf, als ihre Bewerbung auf der Grundlage der gesammelten Bestätigungen und ihrer nachgewiesenen Vorgeschichte genehmigt wurde.
+
 Die gleiche Zustimmung galt auch ihren Töchtern, die sie zu einem Neuanfang willkommen hieß. Mit herzlicher Wärme hieß der Beamte sie in einer vielversprechenden Welt willkommen, die bereit zu sein schien, sie wirklich kennen lernen und respektieren wollte, und die Mulu und ihren Töchtern einen Neuanfang bot, damit sie sich wieder entfalten konnten.
+
+---
 
 So wie die grundlegendsten Menschenrechte das Recht auf Leben, Persönlichkeit und Staatsbürgerschaft sind, so sind die grundlegendsten Protokolle für eine Gesellschaft diejenigen, die die Identität der Teilnehmer festlegen und schützen. Es ist unmöglich, irgendein Recht zu sichern oder irgendeine Dienstleistung zu erbringen, ohne zu definieren, wer oder was Anspruch auf diese Rechte hat. Ohne eine einigermaßen sichere Identitätsgrundlage wird z. B. jedes Wahlsystem von demjenigen gekapert, der die meisten falschen Ausweise vorweisen kann, und verkommt zu einer Plutokratie. Der berühmte New Yorker Cartoon von 1993 „On the Internet, nobody knows you're a dog“ bringt ein grundlegendes Problem auf den Punkt. Ohne verlässliche Identitäten im Internet sind Online-Demokratie-Versuche zum Scheitern verurteilt. Dies wird in vielen „Web3“-Gemeinschaften dramatisiert, die sich stark auf Pseudonymität oder sogar Anonymität verlassen haben und daher oft von den Interessen derjenigen gekapert wurden, die Zugang zu physischen und finanziellen Ressourcen haben.
 
